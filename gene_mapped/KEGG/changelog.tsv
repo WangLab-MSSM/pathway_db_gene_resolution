@@ -1,0 +1,83 @@
+	len_changed	len_not_found	not_found	changed
+Glycolysis / Gluconeogenesis	7	0	[]	{'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1', 'FBP2': 'KHSRP', 'PGAM1': 'PGAM4'}
+Citrate cycle (TCA cycle)	1	0	[]	{'PC': 'PODXL'}
+Pentose phosphate pathway	2	0	[]	{'GPI': 'GNPDA1', 'FBP2': 'KHSRP'}
+Pentose and glucuronate interconversions	0	0	[]	{}
+Fructose and mannose metabolism	4	0	[]	{'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'FBP2': 'KHSRP'}
+Galactose metabolism	5	0	[]	{'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'GCK': 'MAP4K2', 'SI': 'PMEL'}
+Ascorbate and aldarate metabolism	0	0	[]	{}
+Fatty acid biosynthesis	0	0	[]	{}
+Fatty acid elongation	0	0	[]	{}
+Fatty acid degradation	0	0	[]	{}
+Synthesis and degradation of ketone bodies	0	0	[]	{}
+Steroid biosynthesis	1	0	[]	{'HSD17B7': 'HSD17B7P2'}
+Primary bile acid biosynthesis	0	0	[]	{}
+Ubiquinone and other terpenoid-quinone biosynthesis	0	0	[]	{}
+Steroid hormone biosynthesis	1	0	[]	{'HSD17B7': 'HSD17B7P2'}
+Oxidative phosphorylation	13	0	[]	{'ND1': 'IVNS1ABP', 'ND2': 'MT-ND2', 'ND3': 'MT-ND3', 'ND4': 'MT-ND4', 'ND4L': 'MT-ND4L', 'ND5': 'MT-ND5', 'ND6': 'MT-ND6', 'CYTB': 'MT-CYB', 'COX3': 'MT-CO3', 'COX1': 'PTGS1', 'COX2': 'MT-CO2', 'ATP6': 'MT-ATP6', 'ATP8': 'MT-ATP8'}
+Arginine biosynthesis	4	0	[]	{'NOS1': 'NANOS1', 'NOS3': 'NANOS3', 'GLS': 'GLS2', 'CPS1': 'CYP21A2'}
+Purine metabolism	3	1	['adenylate kinase isoenzyme 1-like [KO:K00939] [EC:2.7.4.3]']	{'NME1': 'RMRP', 'GDA': 'SLC25A16', 'AK6': 'AK3'}
+Caffeine metabolism	2	0	[]	{'NAT2': 'SLC38A1', 'NAT1': 'EIF4G2'}
+Pyrimidine metabolism	2	0	[]	{'CAD': 'DFFB', 'NME1': 'RMRP'}
+Alanine, aspartate and glutamate metabolism	3	0	[]	{'CAD': 'DFFB', 'GLS': 'GLS2', 'CPS1': 'CYP21A2'}
+Glycine, serine and threonine metabolism	1	0	[]	{'PGAM1': 'PGAM4'}
+Cysteine and methionine metabolism	1	0	[]	{'GSS': 'PRNP'}
+Valine, leucine and isoleucine degradation	0	0	[]	{}
+Valine, leucine and isoleucine biosynthesis	0	0	[]	{}
+Lysine degradation	1	0	[]	{'EZH1': 'EZH2'}
+Arginine and proline metabolism	3	1	['proline dehydrogenase 1, mitochondrial [KO:K00318] [EC:1.5.5.2]']	{'SAT2': 'SLC38A2', 'NOS1': 'NANOS1', 'NOS3': 'NANOS3'}
+Histidine metabolism	0	0	[]	{}
+Tyrosine metabolism	2	0	[]	{'FAH': 'FANCA', 'TPO': 'THPO'}
+Phenylalanine metabolism	0	0	[]	{}
+Tryptophan metabolism	1	0	[]	{'TPH2': 'TDO2'}
+Phenylalanine, tyrosine and tryptophan biosynthesis	0	0	[]	{}
+beta-Alanine metabolism	0	0	[]	{}
+Taurine and hypotaurine metabolism	0	0	[]	{}
+Phosphonate and phosphinate metabolism	0	0	[]	{}
+Selenocompound metabolism	0	0	[]	{}
+D-Glutamine and D-glutamate metabolism	1	0	[]	{'GLS': 'GLS2'}
+D-Arginine and D-ornithine metabolism	0	0	[]	{}
+Glutathione metabolism	2	0	[]	{'GSS': 'PRNP', 'GPX6': 'GPX7'}
+Starch and sucrose metabolism	6	0	[]	{'SI': 'PMEL', 'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1'}
+N-Glycan biosynthesis	2	0	[]	{'MGAT2': 'MOGAT2', 'MGAT3': 'MOGAT3'}
+Other glycan degradation	0	0	[]	{}
+Mucin type O-glycan biosynthesis	2	0	[]	{'GALNT17': 'GALNTL6', 'GALNT15': 'GALNT18'}
+Various types of N-glycan biosynthesis	1	0	[]	{'MGAT2': 'MOGAT2'}
+Other types of O-glycan biosynthesis	2	0	[]	{'GALNT17': 'GALNTL6', 'GALNT15': 'GALNT18'}
+Mannose type O-glycan biosynthesis	0	0	[]	{}
+Amino sugar and nucleotide sugar metabolism	5	0	[]	{'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1'}
+Neomycin, kanamycin and gentamicin biosynthesis	4	0	[]	{'HK3': 'HOOK3', 'HK1': 'HOOK1', 'HK2': 'HOOK2', 'GCK': 'MAP4K2'}
+Glycosaminoglycan degradation	0	0	[]	{}
+Glycosaminoglycan biosynthesis	0	0	[]	{}
+Glycerolipid metabolism	1	0	[]	{'GK2': 'GALK2'}
+Inositol phosphate metabolism	1	0	[]	{'INPP5E': 'PMPCA'}
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0	0	[]	{}
+Glycerophospholipid metabolism	3	0	[]	{'CDS1': 'CHEK2', 'PISD': 'SFI1', 'TAZ': 'WWTR1'}
+Ether lipid metabolism	0	0	[]	{}
+Arachidonic acid metabolism	1	0	[]	{'GPX6': 'GPX7'}
+Linoleic acid metabolism	0	0	[]	{}
+alpha-Linolenic acid metabolism	0	0	[]	{}
+Sphingolipid metabolism	1	0	[]	{'PSAP': 'MTCH1'}
+Glycosphingolipid biosynthesis	0	0	[]	{}
+Pyruvate metabolism	2	0	[]	{'ME1': 'PCDHB16', 'PC': 'PODXL'}
+Glyoxylate and dicarboxylate metabolism	1	0	[]	{'PGP': 'PGPEP1'}
+Propanoate metabolism	0	0	[]	{}
+Butanoate metabolism	0	0	[]	{}
+One carbon pool by folate	0	0	[]	{}
+Thiamine metabolism	0	1	['adenylate kinase isoenzyme 1-like [KO:K00939] [EC:2.7.4.3]']	{}
+Riboflavin metabolism	0	0	[]	{}
+Vitamin B6 metabolism	0	0	[]	{}
+Nicotinate and nicotinamide metabolism	0	0	[]	{}
+Pantothenate and CoA biosynthesis	0	0	[]	{}
+Biotin metabolism	0	0	[]	{}
+Lipoic acid metabolism	0	0	[]	{}
+Folate biosynthesis	1	0	[]	{'TPH2': 'TDO2'}
+Retinol metabolism	0	0	[]	{}
+Porphyrin and chlorophyll metabolism	0	0	[]	{}
+Terpenoid backbone biosynthesis	0	0	[]	{}
+Nitrogen metabolism	1	0	[]	{'CPS1': 'CYP21A2'}
+Sulfur metabolism	0	0	[]	{}
+Aminoacyl-tRNA biosynthesis	6	17	['TRNA', 'TRNR', 'TRNN', 'TRND', 'TRNC', 'TRNQ', 'TRNE', 'TRNG', 'TRNH', 'TRNI', 'TRNK', 'TRNM', 'TRNF', 'TRNT', 'TRNW', 'TRNY', 'TRNV']	{'TRNL2': 'MT-TL2', 'TRNL1': 'MT-TL1', 'TRNP': 'TRNP1', 'TRNS2': 'MT-TS2', 'TRNS1': 'MT-TS1', 'HARS2': 'DTD1'}
+Metabolism of xenobiotics by cytochrome P450	0	1	['cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]']	{}
+Drug metabolism	4	0	[]	{'CES2': 'CES1', 'NME1': 'RMRP', 'NAT2': 'SLC38A1', 'NAT1': 'EIF4G2'}
+Biosynthesis of unsaturated fatty acids	1	0	[]	{'SCD': 'SLC22A5'}

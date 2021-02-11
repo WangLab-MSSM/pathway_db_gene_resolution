@@ -1,0 +1,2445 @@
+	len_changed	len_not_found	not_found	changed
+2-LTR circle formation	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+5-Phosphoribose 1-diphosphate biosynthesis	0	0	[]	{}
+A tetrasaccharide linker sequence is required for GAG synthesis	0	0	[]	{}
+ABC transporter disorders	0	0	[]	{}
+ABC transporters in lipid homeostasis	0	0	[]	{}
+ABC-family proteins mediated transport	0	0	[]	{}
+ABO blood group biosynthesis	0	0	[]	{}
+ADORA2B mediated anti-inflammatory cytokines production	5	0	[]	{'HRH2': 'DHX15', 'VIP': 'CPAMD8', 'TAAR3': 'TAAR3P', 'GIP': 'C1QTNF1', 'PTH2': 'PTENP1'}
+ADP signalling through P2Y purinoceptor 1	0	0	[]	{}
+ADP signalling through P2Y purinoceptor 12	0	0	[]	{}
+AKT phosphorylates targets in the cytosol	0	0	[]	{}
+AKT phosphorylates targets in the nucleus	0	0	[]	{}
+AKT-mediated inactivation of FOXO1A	0	0	[]	{}
+ALKBH2 mediated reversal of alkylation damage	0	0	[]	{}
+ALKBH3 mediated reversal of alkylation damage	0	0	[]	{}
+AMPK inhibits chREBP transcriptional activation activity	0	0	[]	{}
+APC truncation mutants are not K63 polyubiquitinated	0	0	[]	{}
+APC truncation mutants have impaired AXIN binding	0	0	[]	{}
+APC-Cdc20 mediated degradation of Nek2A	0	0	[]	{}
+APC/C-mediated degradation of cell cycle proteins	0	0	[]	{}
+APC/C:Cdc20 mediated degradation of Cyclin B	0	0	[]	{}
+APC/C:Cdc20 mediated degradation of Securin	0	0	[]	{}
+APC/C:Cdc20 mediated degradation of mitotic proteins	0	0	[]	{}
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	0	0	[]	{}
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	0	0	[]	{}
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	0	0	[]	{}
+APOBEC3G mediated resistance to HIV-1 infection	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+ARL13B-mediated ciliary trafficking of INPP5E	1	0	[]	{'INPP5E': 'PMPCA'}
+ARMS-mediated activation	0	0	[]	{}
+ATF4 activates genes in response to endoplasmic reticulum  stress	1	0	[]	{'IL8': 'CXCL8'}
+ATF6 (ATF6-alpha) activates chaperone genes	0	0	[]	{}
+ATF6 (ATF6-alpha) activates chaperones	0	0	[]	{}
+ATP sensitive Potassium channels	0	0	[]	{}
+AUF1 (hnRNP D0) binds and destabilizes mRNA	0	0	[]	{}
+AURKA Activation by TPX2	0	0	[]	{}
+AXIN missense mutants destabilize the destruction complex	0	0	[]	{}
+Abacavir metabolism	0	0	[]	{}
+Abacavir transmembrane transport	0	0	[]	{}
+Abacavir transport and metabolism	0	0	[]	{}
+Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	0	0	[]	{}
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects	0	0	[]	{}
+Aberrant regulation of mitotic cell cycle due to RB1 defects	0	0	[]	{}
+Aberrant regulation of mitotic exit in cancer due to RB1 defects	0	0	[]	{}
+Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate	0	0	[]	{}
+Abortive elongation of HIV-1 transcript in the absence of Tat	0	0	[]	{}
+Acetylation	2	0	[]	{'NAT1': 'EIF4G2', 'NAT2': 'SLC38A1'}
+Acetylcholine Neurotransmitter Release Cycle	0	0	[]	{}
+Acetylcholine binding and downstream events	0	0	[]	{}
+Acetylcholine regulates insulin secretion	0	0	[]	{}
+Acrosome Reaction and Sperm:Oocyte Membrane Binding	0	0	[]	{}
+Activated NOTCH1 Transmits Signal to the Nucleus	0	0	[]	{}
+Activated NTRK2 signals through CDK5	0	0	[]	{}
+Activated NTRK2 signals through FRS2 and FRS3	0	0	[]	{}
+Activated NTRK2 signals through FYN	0	0	[]	{}
+Activated NTRK2 signals through PI3K	0	0	[]	{}
+Activated NTRK2 signals through PLCG1	0	0	[]	{}
+Activated NTRK2 signals through RAS	0	0	[]	{}
+Activated NTRK3 signals through PI3K	0	0	[]	{}
+Activated NTRK3 signals through PLCG1	0	0	[]	{}
+Activated NTRK3 signals through RAS	0	0	[]	{}
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	1	0	[]	{'H2AFX': 'H2AX'}
+Activated point mutants of FGFR2	1	0	[]	{'FGF2': 'FGF13'}
+Activation and oligomerization of BAK protein	0	0	[]	{}
+Activation of AKT2	0	0	[]	{}
+Activation of AMPA receptors	0	0	[]	{}
+Activation of AMPK downstream of NMDARs	0	0	[]	{}
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	0	0	[]	{}
+Activation of ATR in response to replication stress	4	0	[]	{'ORC1': 'SLC25A15', 'RAD1': 'ERCC4', 'MCM2': 'MCM7', 'RPA1': 'POLR1A'}
+Activation of BAD and translocation to mitochondria	0	0	[]	{}
+Activation of BH3-only proteins	0	0	[]	{}
+Activation of BIM and translocation to mitochondria	0	0	[]	{}
+Activation of BMF and translocation to mitochondria	0	0	[]	{}
+Activation of C3 and C5	0	0	[]	{}
+Activation of Ca-permeable Kainate Receptor	2	0	[]	{'GRIK2': 'GRIK5', 'DLG3': 'MPP3'}
+Activation of G protein gated Potassium channels	0	0	[]	{}
+Activation of GABAB receptors	0	0	[]	{}
+Activation of HOX genes during differentiation	2	0	[]	{'RQCD1': 'CNOT9', 'H2AFX': 'H2AX'}
+Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	0	0	[]	{}
+Activation of Matrix Metalloproteinases	0	0	[]	{}
+Activation of NF-kappaB in B cells	0	0	[]	{}
+Activation of NIMA Kinases NEK9, NEK6, NEK7	0	0	[]	{}
+Activation of NMDA receptors and postsynaptic events	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Activation of NOXA and translocation to mitochondria	0	0	[]	{}
+Activation of Na-permeable kainate receptors	1	0	[]	{'GRIK2': 'GRIK5'}
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation	0	0	[]	{}
+Activation of PUMA and translocation to mitochondria	0	0	[]	{}
+Activation of RAC1	3	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'PAK5': 'PAK6'}
+Activation of RAC1 downstream of NMDARs	0	0	[]	{}
+Activation of RAS in B cells	0	0	[]	{}
+Activation of SMO	1	0	[]	{'SMO': 'SMOX'}
+Activation of TRKA receptors	0	0	[]	{}
+Activation of anterior HOX genes in hindbrain development during early embryogenesis	2	0	[]	{'RQCD1': 'CNOT9', 'H2AFX': 'H2AX'}
+Activation of caspases through apoptosome-mediated cleavage	0	0	[]	{}
+Activation of gene expression by SREBF (SREBP)	3	0	[]	{'SC5DL': 'SC5D', 'MTF1': 'MELTF', 'SCD': 'SLC22A5'}
+Activation of kainate receptors upon glutamate binding	2	0	[]	{'GRIK2': 'GRIK5', 'DLG3': 'MPP3'}
+Activation of the AP-1 family of transcription factors	0	0	[]	{}
+Activation of the TFAP2 (AP-2) family of transcription factors	0	0	[]	{}
+Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	0	1	['18S rRNA']	{}
+Activation of the phototransduction cascade	1	0	[]	{'SAG': 'RNF7'}
+Activation of the pre-replicative complex	3	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'RPA1': 'POLR1A'}
+Activation, myristolyation of BID and translocation to mitochondria	0	0	[]	{}
+Activation, translocation and oligomerization of BAX	0	0	[]	{}
+Acyl chain remodeling of CL	1	0	[]	{'TAZ': 'WWTR1'}
+Acyl chain remodeling of DAG and TAG	0	0	[]	{}
+Acyl chain remodelling of PC	0	0	[]	{}
+Acyl chain remodelling of PE	0	0	[]	{}
+Acyl chain remodelling of PG	0	0	[]	{}
+Acyl chain remodelling of PI	0	0	[]	{}
+Acyl chain remodelling of PS	0	0	[]	{}
+Adaptive Immune System	11	7	['IGHV', 'porB', 'UL83', 'cd21', 'HA', 'IGLV', 'mip']	{'TAP2': 'SEC14L3', 'PARK2': 'PRKN', 'FYB': 'FYB1', 'CDH1': 'FZR1', 'PAK3': 'ARHGEF7', 'HLA-H': 'HFE', 'RILP': 'PRICKLE1', 'VPRBP': 'DCAF1', 'PAK1': 'PKN1', 'HN': 'MT-RNR2', 'LAT': 'SPNS1'}
+Adenosine P1 receptors	0	0	[]	{}
+Adenylate cyclase activating pathway	0	0	[]	{}
+Adenylate cyclase inhibitory pathway	0	0	[]	{}
+Adherens junctions interactions	3	0	[]	{'CDH3': 'CDH15', 'CDH7': 'CDH19', 'CDH1': 'FZR1'}
+Adrenaline signalling through Alpha-2 adrenergic receptor	0	0	[]	{}
+Adrenaline,noradrenaline inhibits insulin secretion	0	0	[]	{}
+Adrenoceptors	0	0	[]	{}
+Advanced glycosylation endproduct receptor signaling	0	0	[]	{}
+Aflatoxin activation and detoxification	0	0	[]	{}
+Aggrephagy	1	0	[]	{'PARK2': 'PRKN'}
+Agmatine biosynthesis	0	0	[]	{}
+Alanine metabolism	0	0	[]	{}
+Alpha-defensins	1	1	['env']	{'DEFA3': 'DEFA1A3'}
+Alpha-oxidation of phytanate	0	0	[]	{}
+Alpha-protein kinase 1 signaling pathway	0	0	[]	{}
+Alternative Lengthening of Telomeres (ALT)	0	0	[]	{}
+Alternative complement activation	0	0	[]	{}
+Amine Oxidase reactions	0	0	[]	{}
+Amine ligand-binding receptors	2	0	[]	{'HRH2': 'DHX15', 'TAAR3': 'TAAR3P'}
+Amino Acid conjugation	0	0	[]	{}
+Amino acid transport across the plasma membrane	0	0	[]	{}
+Amino acids regulate mTORC1	3	0	[]	{'GATSL2': 'CASTOR2', 'GATSL3': 'CASTOR1', 'C12orf66': 'KICS2'}
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Amplification of signal from the kinetochores	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Amyloid fiber formation	2	0	[]	{'H2AFX': 'H2AX', 'PARK2': 'PRKN'}
+Anchoring fibril formation	1	0	[]	{'LAMA3': 'LAMA4'}
+Anchoring of the basal body to the plasma membrane	0	0	[]	{}
+Androgen biosynthesis	0	0	[]	{}
+Antagonism of Activin by Follistatin	0	0	[]	{}
+Anti-inflammatory response favouring Leishmania parasite infection	5	3	['IGHV', 'LPG1G2', 'IGLV']	{'HRH2': 'DHX15', 'VIP': 'CPAMD8', 'TAAR3': 'TAAR3P', 'GIP': 'C1QTNF1', 'PTH2': 'PTENP1'}
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	2	0	[]	{'TAP2': 'SEC14L3', 'HLA-H': 'HFE'}
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	0	2	['IGHV', 'IGLV']	{}
+Antigen processing-Cross presentation	2	2	['porB', 'mip']	{'HLA-H': 'HFE', 'TAP2': 'SEC14L3'}
+Antigen processing: Ubiquitination & Proteasome degradation	2	0	[]	{'PARK2': 'PRKN', 'VPRBP': 'DCAF1'}
+Antimicrobial action and antimicrobial resistance in Mtb	0	4	['rpoA', 'rpoC', 'rpoZ', 'rpoB']	{}
+Antimicrobial peptides	5	1	['env']	{'SSA1': 'TRIM21', 'DEFA3': 'DEFA1A3', 'DEFB131': 'DEFB131A', 'SSA2': 'RO60', 'DEFB108P1': 'DEFB108A'}
+Antiviral mechanism by IFN-stimulated genes	3	2	['VP3', 'gag']	{'KPNA7': 'KPNA6', 'POM121': 'POMZP3', 'NS': 'GNL3'}
+Apoptosis	3	2	['MC159L', 'ORF71']	{'ARHGAP10': 'ARHGAP21', 'CDH1': 'FZR1', 'TRAF2': 'TANK'}
+Apoptosis induced DNA fragmentation	0	0	[]	{}
+Apoptotic cleavage of cell adhesion  proteins	1	0	[]	{'CDH1': 'FZR1'}
+Apoptotic cleavage of cellular proteins	1	0	[]	{'CDH1': 'FZR1'}
+Apoptotic execution phase	1	0	[]	{'CDH1': 'FZR1'}
+Apoptotic factor-mediated response	0	0	[]	{}
+Aquaporin-mediated transport	2	0	[]	{'MIP': 'MAFIP', 'AQP9': 'AQP7'}
+Arachidonate production from DAG	0	0	[]	{}
+Arachidonic acid metabolism	1	0	[]	{'FAAH': 'FA2H'}
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	0	0	[]	{}
+Aryl hydrocarbon receptor signalling	1	0	[]	{'AIP': 'AURKAIP1'}
+Asparagine N-linked glycosylation	6	0	[]	{'MGAT2': 'MOGAT2', 'NAPB': 'NAPSB', 'MGAT3': 'MOGAT3', 'NAPA': 'NAPSA', 'MIA2': 'CFAP73', 'ARFGAP1': 'ARFGAP3'}
+Aspartate and asparagine metabolism	0	0	[]	{}
+Assembly Of The HIV Virion	0	8	['rev', 'vif', 'env', 'vpu', 'gag', 'gag-pol', 'vpr', 'nef']	{}
+Assembly and cell surface presentation of NMDA receptors	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Assembly of Viral Components at the Budding Site	2	2	['M', 'HA']	{'NA': 'XK', 'NP': 'CTF2P'}
+Assembly of active LPL and LIPC lipase complexes	0	0	[]	{}
+Assembly of collagen fibrils and other multimeric structures	2	0	[]	{'MMP20': 'MMP25', 'LAMA3': 'LAMA4'}
+Assembly of the ORC complex at the origin of replication	1	0	[]	{'ORC1': 'SLC25A15'}
+Assembly of the SARS-CoV-1 Replication-Transcription Complex (RTC)	0	2	['rep', '1a']	{}
+Assembly of the SARS-CoV-2 Replication-Transcription Complex (RTC)	0	2	['pp1a', 'rep']	{}
+Assembly of the pre-replicative complex	2	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7'}
+Association of TriC/CCT with target proteins during biosynthesis	1	0	[]	{'FKBP9': 'FKBP1B'}
+Astrocytic Glutamate-Glutamine Uptake And Metabolism	0	0	[]	{}
+Asymmetric localization of PCP proteins	1	0	[]	{'FZD3': 'FZD9'}
+Attachment and Entry	0	7	['7a', 'N', 'S', 'SARS coronavirus, complete genome', '3a', 'M', 'E']	{}
+Attachment of GPI anchor to uPAR	0	0	[]	{}
+Attenuation phase	0	1	['HSBP2']	{}
+Autodegradation of Cdh1 by Cdh1:APC/C	0	0	[]	{}
+Autodegradation of the E3 ubiquitin ligase COP1	1	0	[]	{'RFWD2': 'COP1'}
+Autointegration results in viral DNA circles	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Autophagy	1	0	[]	{'PARK2': 'PRKN'}
+Axon guidance	15	5	['ROBO3.1', '5S rRNA', '5.8S rRNA', '18S rRNA', '28S rRNA']	{'DOK1': 'ART4', 'TRPC7': 'TRPM2', 'CAP2': 'TMPRSS4', 'DLG3': 'MPP3', 'RPL36A': 'RPL36AL', 'PAK5': 'PAK6', 'SLIT3': 'SLIT1', 'RPL13': 'MRPL13', 'HFE2': 'HJV', 'PAK3': 'ARHGEF7', 'MYH14': 'MYH7B', 'GRIN1': 'GPRIN1', 'PAK1': 'PKN1', 'RPL10': 'RPL15', 'NTN4': 'MLF2'}
+Axonal growth inhibition (RHOA activation)	0	0	[]	{}
+Axonal growth stimulation	0	0	[]	{}
+B-WICH complex positively regulates rRNA expression	1	0	[]	{'H2AFX': 'H2AX'}
+BBSome-mediated cargo-targeting to cilium	1	0	[]	{'SMO': 'SMOX'}
+BDNF activates NTRK2 (TRKB) signaling	0	0	[]	{}
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	0	0	[]	{}
+BMAL1:CLOCK,NPAS2 activates circadian gene expression	2	0	[]	{'DBP': 'GC', 'CCRN4L': 'NOCT'}
+Base Excision Repair	3	0	[]	{'LIG1': 'LRIG1', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A'}
+Base-Excision Repair, AP Site Formation	1	0	[]	{'H2AFX': 'H2AX'}
+Basigin interactions	1	0	[]	{'SPN': 'DEAF1'}
+Beta defensins	2	0	[]	{'DEFB108P1': 'DEFB108A', 'DEFB131': 'DEFB131A'}
+Beta oxidation of butanoyl-CoA to acetyl-CoA	0	0	[]	{}
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	0	0	[]	{}
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA	0	0	[]	{}
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	0	0	[]	{}
+Beta oxidation of myristoyl-CoA to lauroyl-CoA	0	0	[]	{}
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA	0	0	[]	{}
+Beta oxidation of palmitoyl-CoA to myristoyl-CoA	0	0	[]	{}
+Beta-catenin independent WNT signaling	3	1	['MIR92b']	{'ROR2': 'RORA', 'RAC3': 'NCOA3', 'FZD3': 'FZD9'}
+Beta-catenin phosphorylation cascade	0	0	[]	{}
+Beta-oxidation of pristanoyl-CoA	0	0	[]	{}
+Beta-oxidation of very long chain fatty acids	0	0	[]	{}
+Bicarbonate transporters	0	0	[]	{}
+Bile acid and bile salt metabolism	1	0	[]	{'ALB': 'FBF1'}
+Binding and Uptake of Ligands by Scavenger Receptors	2	3	['IGHV', 'porB', 'IGLV']	{'ALB': 'FBF1', 'LRP1': 'C1D'}
+Binding and entry of HIV virion	0	8	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr', 'nef', 'env']	{}
+Binding of TCF/LEF:CTNNB1 to target gene promoters	0	0	[]	{}
+Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	0	0	[]	{}
+Biological oxidations	6	0	[]	{'NAT1': 'EIF4G2', 'AIP': 'AURKAIP1', 'GSS': 'PRNP', 'NAT2': 'SLC38A1', 'CES2': 'CES1', 'SULT1C2': 'SULT1C4'}
+Biosynthesis of A2E, implicated in retinal degradation	0	0	[]	{}
+Biosynthesis of D-series resolvins	0	0	[]	{}
+Biosynthesis of DHA-derived SPMs	0	0	[]	{}
+Biosynthesis of DHA-derived sulfido conjugates	0	0	[]	{}
+Biosynthesis of DPA-derived SPMs	0	0	[]	{}
+Biosynthesis of DPAn-3 SPMs	0	0	[]	{}
+Biosynthesis of DPAn-3-derived 13-series resolvins	0	0	[]	{}
+Biosynthesis of DPAn-3-derived maresins	0	0	[]	{}
+Biosynthesis of DPAn-3-derived protectins and resolvins	0	0	[]	{}
+Biosynthesis of DPAn-6 SPMs	0	0	[]	{}
+Biosynthesis of E-series 18(R)-resolvins	0	0	[]	{}
+Biosynthesis of E-series 18(S)-resolvins	0	0	[]	{}
+Biosynthesis of EPA-derived SPMs	0	0	[]	{}
+Biosynthesis of aspirin-triggered D-series resolvins	0	0	[]	{}
+Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives	0	0	[]	{}
+Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	0	0	[]	{}
+Biosynthesis of maresin-like SPMs	0	0	[]	{}
+Biosynthesis of maresins	0	0	[]	{}
+Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	0	0	[]	{}
+Biosynthesis of protectins	0	0	[]	{}
+Biosynthesis of specialized proresolving mediators (SPMs)	0	0	[]	{}
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	0	0	[]	{}
+Biotin transport and metabolism	1	0	[]	{'PC': 'PODXL'}
+Blockage of phagosome acidification	0	1	['ptpA']	{}
+Blood group systems biosynthesis	0	0	[]	{}
+Branched-chain amino acid catabolism	0	0	[]	{}
+Breakdown of the nuclear lamina	0	0	[]	{}
+Budding	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+Budding and maturation of HIV virion	0	8	['rev', 'vif', 'env', 'vpu', 'gag', 'gag-pol', 'vpr', 'nef']	{}
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	0	0	[]	{}
+Butyrophilin (BTN) family interactions	0	0	[]	{}
+C-type lectin receptors (CLRs)	2	1	['env']	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+C6 deamination of adenosine	0	0	[]	{}
+CASP8 activity is inhibited	1	2	['CRMA', 'SPI-2']	{'TRAF2': 'TANK'}
+CD163 mediating an anti-inflammatory response	0	0	[]	{}
+CD209 (DC-SIGN) signaling	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+CD22 mediated BCR regulation	0	2	['IGHV', 'IGLV']	{}
+CD28 co-stimulation	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+CD28 dependent PI3K/Akt signaling	0	0	[]	{}
+CD28 dependent Vav1 pathway	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+CDC6 association with the ORC:origin complex	1	0	[]	{'ORC1': 'SLC25A15'}
+CDK-mediated phosphorylation and removal of Cdc6	0	0	[]	{}
+CDT1 association with the CDC6:ORC:origin complex	1	0	[]	{'ORC1': 'SLC25A15'}
+CHL1 interactions	0	0	[]	{}
+CLEC7A (Dectin-1) induces NFAT activation	0	0	[]	{}
+CLEC7A (Dectin-1) signaling	0	0	[]	{}
+CLEC7A/inflammasome pathway	0	0	[]	{}
+COPI-dependent Golgi-to-ER retrograde traffic	3	0	[]	{'NAPB': 'NAPSB', 'NAPA': 'NAPSA', 'ARFGAP1': 'ARFGAP3'}
+COPI-independent Golgi-to-ER retrograde traffic	0	0	[]	{}
+COPI-mediated anterograde transport	3	0	[]	{'NAPB': 'NAPSB', 'NAPA': 'NAPSA', 'ARFGAP1': 'ARFGAP3'}
+COPII-mediated vesicle transport	2	0	[]	{'NAPA': 'NAPSA', 'NAPB': 'NAPSB'}
+COX reactions	0	0	[]	{}
+CREB phosphorylation	0	0	[]	{}
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+CREB1 phosphorylation through the activation of Adenylate Cyclase	0	0	[]	{}
+CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	0	0	[]	{}
+CREB3 factors activate genes	0	0	[]	{}
+CRMPs in Sema3A signaling	0	0	[]	{}
+CS/DS degradation	0	0	[]	{}
+CTLA4 inhibitory signaling	0	0	[]	{}
+CYP2E1 reactions	0	0	[]	{}
+Ca-dependent events	0	0	[]	{}
+Ca2+ activated K+ channels	0	0	[]	{}
+Ca2+ pathway	1	1	['MIR92b']	{'FZD3': 'FZD9'}
+CaM pathway	0	0	[]	{}
+CaMK IV-mediated phosphorylation of CREB	0	0	[]	{}
+Calcineurin activates NFAT	0	0	[]	{}
+Calcitonin-like ligand receptors	0	0	[]	{}
+Calmodulin induced events	0	0	[]	{}
+Calnexin/calreticulin cycle	0	0	[]	{}
+Cam-PDE 1 activation	0	0	[]	{}
+Cap-dependent Translation Initiation	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Carboxyterminal post-translational modifications of tubulin	0	0	[]	{}
+Cardiac conduction	2	0	[]	{'ATP2B2': 'ATP2B4', 'NOS1': 'NANOS1'}
+Cargo concentration in the ER	1	0	[]	{'MIA2': 'CFAP73'}
+Cargo recognition for clathrin-mediated endocytosis	0	0	[]	{}
+Cargo trafficking to the periciliary membrane	4	0	[]	{'PKD2': 'PRKD2', 'SMO': 'SMOX', 'RP2': 'STK19B', 'INPP5E': 'PMPCA'}
+Carnitine metabolism	0	0	[]	{}
+Carnitine synthesis	0	0	[]	{}
+Caspase activation via Death Receptors in the presence of ligand	1	2	['MC159L', 'ORF71']	{'TRAF2': 'TANK'}
+Caspase activation via Dependence Receptors in the absence of ligand	0	0	[]	{}
+Caspase activation via extrinsic apoptotic signalling pathway	1	2	['ORF71', 'MC159L']	{'TRAF2': 'TANK'}
+Caspase-mediated cleavage of cytoskeletal proteins	0	0	[]	{}
+Catecholamine biosynthesis	0	0	[]	{}
+Cation-coupled Chloride cotransporters	0	0	[]	{}
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	0	0	[]	{}
+Cell Cycle	20	0	[]	{'POM121': 'POMZP3', 'RFWD2': 'COP1', 'APITD1': 'CENPS', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'H2AFX': 'H2AX', 'GAR1': 'CNGB1', 'ORC1': 'SLC25A15', 'STRA13': 'CENPX', 'LIG1': 'LRIG1', 'DMC1': 'HID1', 'NBN': 'ARTN', 'RPA1': 'POLR1A', 'TEN1': 'TENM1', 'RAD1': 'ERCC4', 'MCM2': 'MCM7', 'FKBP6': 'FKBP10', 'CENPC': 'CENPCP1', 'BRCC3': 'DEPDC1B'}
+Cell Cycle Checkpoints	13	0	[]	{'ORC1': 'SLC25A15', 'RAD1': 'ERCC4', 'MCM2': 'MCM7', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'CENPC': 'CENPCP1', 'RFWD2': 'COP1', 'RPA1': 'POLR1A', 'APITD1': 'CENPS', 'BRCC3': 'DEPDC1B'}
+Cell Cycle, Mitotic	8	0	[]	{'POM121': 'POMZP3', 'APITD1': 'CENPS', 'H2AFX': 'H2AX', 'ORC1': 'SLC25A15', 'LIG1': 'LRIG1', 'RPA1': 'POLR1A', 'MCM2': 'MCM7', 'CENPC': 'CENPCP1'}
+Cell death signalling via NRAGE, NRIF and NADE	1	0	[]	{'NET1': 'SLC6A2'}
+Cell junction organization	5	0	[]	{'LAMA3': 'LAMA4', 'CDH3': 'CDH15', 'CDH7': 'CDH19', 'CDH1': 'FZR1', 'PXN': 'PXDN'}
+Cell recruitment (pro-inflammatory response)	0	0	[]	{}
+Cell redox homeostasis	0	9	['ahpC', 'fgd1', 'tpx', 'trxB', 'trxA', 'trx-2', 'lpdC', 'ahpD', 'dlaT']	{}
+Cell surface interactions at the vascular wall	3	17	['opaD', 'opaI', 'IGHV', 'opaK', 'opaE', 'eba1', 'opaB', 'ebl-1', 'opaC', 'opaG', 'opaJ', 'eba-140', 'opaA', 'opaF', 'piiC', 'IGLV', 'opaH']	{'PSG11': 'PSG9', 'SPN': 'DEAF1', 'SELP': 'SELENOP'}
+Cell-Cell communication	7	0	[]	{'KIRREL': 'KIRREL1', 'LAMA3': 'LAMA4', 'CDH3': 'CDH15', 'CDH7': 'CDH19', 'CDH1': 'FZR1', 'PXN': 'PXDN', 'FYB': 'FYB1'}
+Cell-cell junction organization	3	0	[]	{'CDH3': 'CDH15', 'CDH7': 'CDH19', 'CDH1': 'FZR1'}
+Cell-extracellular matrix interactions	1	0	[]	{'PXN': 'PXDN'}
+Cellular Senescence	3	0	[]	{'IL8': 'CXCL8', 'NBN': 'ARTN', 'H2AFX': 'H2AX'}
+Cellular hexose transport	0	0	[]	{}
+Cellular response to heat stress	2	1	['HSBP2']	{'POM121': 'POMZP3', 'RPA1': 'POLR1A'}
+Cellular response to hypoxia	1	0	[]	{'EPO': 'EPX'}
+Cellular responses to external stimuli	15	5	['5S rRNA', '5.8S rRNA', 'HSBP2', '18S rRNA', '28S rRNA']	{'POM121': 'POMZP3', 'EPO': 'EPX', 'RPL36A': 'RPL36AL', 'RPL13': 'MRPL13', 'C12orf66': 'KICS2', 'H2AFX': 'H2AX', 'EIF2AK1': 'EIF2AK2', 'IL8': 'CXCL8', 'GPX6': 'GPX7', 'NBN': 'ARTN', 'GATSL2': 'CASTOR2', 'RPA1': 'POLR1A', 'GATSL3': 'CASTOR1', 'RPL10': 'RPL15', 'MTF1': 'MELTF'}
+Cellular responses to stress	14	5	['5S rRNA', '5.8S rRNA', 'HSBP2', '18S rRNA', '28S rRNA']	{'POM121': 'POMZP3', 'EPO': 'EPX', 'RPL36A': 'RPL36AL', 'RPL13': 'MRPL13', 'C12orf66': 'KICS2', 'H2AFX': 'H2AX', 'EIF2AK1': 'EIF2AK2', 'IL8': 'CXCL8', 'GPX6': 'GPX7', 'NBN': 'ARTN', 'GATSL2': 'CASTOR2', 'RPA1': 'POLR1A', 'GATSL3': 'CASTOR1', 'RPL10': 'RPL15'}
+Centrosome maturation	0	0	[]	{}
+Ceramide signalling	0	0	[]	{}
+ChREBP activates metabolic gene expression	0	0	[]	{}
+Chaperone Mediated Autophagy	0	0	[]	{}
+Chaperonin-mediated protein folding	1	0	[]	{'FKBP9': 'FKBP1B'}
+Chemokine receptors bind chemokines	0	0	[]	{}
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	0	0	[]	{}
+Cholesterol biosynthesis	1	0	[]	{'HSD17B7': 'HSD17B7P2'}
+Cholesterol biosynthesis via desmosterol	0	0	[]	{}
+Cholesterol biosynthesis via lathosterol	0	0	[]	{}
+Choline catabolism	0	0	[]	{}
+Chondroitin sulfate biosynthesis	0	0	[]	{}
+Chondroitin sulfate/dermatan sulfate metabolism	0	0	[]	{}
+Chromatin modifying enzymes	4	0	[]	{'MINA': 'RIOX2', 'H2AFX': 'H2AX', 'BRMS1': 'BRMS1L', 'IKBKAP': 'ELP1'}
+Chromatin organization	4	0	[]	{'MINA': 'RIOX2', 'H2AFX': 'H2AX', 'BRMS1': 'BRMS1L', 'IKBKAP': 'ELP1'}
+Chromosome Maintenance	8	0	[]	{'TEN1': 'TENM1', 'STRA13': 'CENPX', 'LIG1': 'LRIG1', 'H2AFX': 'H2AX', 'GAR1': 'CNGB1', 'CENPC': 'CENPCP1', 'RPA1': 'POLR1A', 'APITD1': 'CENPS'}
+Chylomicron assembly	1	0	[]	{'MTTP': 'MT-TP'}
+Chylomicron clearance	0	0	[]	{}
+Chylomicron remodeling	0	0	[]	{}
+Cilium Assembly	7	0	[]	{'SMO': 'SMOX', 'TCTEX1D2': 'DYNLT2B', 'TCTE3': 'DYNLT2', 'PKD2': 'PRKD2', 'RP2': 'STK19B', 'INPP5E': 'PMPCA', 'TCTEX1D1': 'DYNLT5'}
+Circadian Clock	2	0	[]	{'DBP': 'GC', 'CCRN4L': 'NOCT'}
+Citric acid cycle (TCA cycle)	0	0	[]	{}
+Class A/1 (Rhodopsin-like receptors)	7	0	[]	{'TAAR3': 'TAAR3P', 'PSAP': 'MTCH1', 'HRH2': 'DHX15', 'HCRTR2': 'CD200R1', 'NMB': 'GPNMB', 'CNR2': 'PCDHA6', 'GRP': 'LGALSL'}
+Class B/2 (Secretin family receptors)	5	0	[]	{'SMO': 'SMOX', 'VIP': 'CPAMD8', 'GIP': 'C1QTNF1', 'FZD3': 'FZD9', 'PTH2': 'PTENP1'}
+Class C/3 (Metabotropic glutamate/pheromone receptors)	0	0	[]	{}
+Class I MHC mediated antigen processing & presentation	4	2	['porB', 'mip']	{'TAP2': 'SEC14L3', 'PARK2': 'PRKN', 'HLA-H': 'HFE', 'VPRBP': 'DCAF1'}
+Class I peroxisomal membrane protein import	0	0	[]	{}
+Classical Kir channels	0	0	[]	{}
+Classical antibody-mediated complement activation	0	2	['IGHV', 'IGLV']	{}
+Clathrin-mediated endocytosis	1	0	[]	{'ARFGAP1': 'ARFGAP3'}
+Cleavage of the damaged purine	1	0	[]	{'H2AFX': 'H2AX'}
+Cleavage of the damaged pyrimidine	1	0	[]	{'H2AFX': 'H2AX'}
+Cobalamin (Cbl, vitamin B12) transport and metabolism	0	0	[]	{}
+Coenzyme A biosynthesis	0	0	[]	{}
+Cohesin Loading onto Chromatin	0	0	[]	{}
+Collagen biosynthesis and modifying enzymes	0	0	[]	{}
+Collagen chain trimerization	0	0	[]	{}
+Collagen degradation	1	0	[]	{'MMP20': 'MMP25'}
+Collagen formation	2	0	[]	{'MMP20': 'MMP25', 'LAMA3': 'LAMA4'}
+Common Pathway of Fibrin Clot Formation	0	0	[]	{}
+Competing endogenous RNAs (ceRNAs) regulate PTEN translation	0	0	[]	{}
+Complement cascade	1	2	['IGHV', 'IGLV']	{'CPN2': 'CYP11B2'}
+Complex I biogenesis	0	0	[]	{}
+Condensation of Prometaphase Chromosomes	0	0	[]	{}
+Condensation of Prophase Chromosomes	1	0	[]	{'H2AFX': 'H2AX'}
+Conjugation of benzoate with glycine	0	0	[]	{}
+Conjugation of carboxylic acids	0	0	[]	{}
+Conjugation of phenylacetate with glutamine	0	0	[]	{}
+Conjugation of salicylate with glycine	0	0	[]	{}
+Constitutive Signaling by AKT1 E17K in Cancer	0	0	[]	{}
+Constitutive Signaling by Aberrant PI3K in Cancer	1	0	[]	{'FGF2': 'FGF13'}
+Constitutive Signaling by EGFRvIII	0	0	[]	{}
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	0	0	[]	{}
+Constitutive Signaling by NOTCH1 HD Domain Mutants	0	0	[]	{}
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	0	0	[]	{}
+Constitutive Signaling by NOTCH1 PEST Domain Mutants	0	0	[]	{}
+Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	0	0	[]	{}
+Constitutive Signaling by Overexpressed ERBB2	0	0	[]	{}
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	0	0	[]	{}
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	0	0	[]	{}
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	0	0	[]	{}
+Costimulation by the CD28 family	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+Creatine metabolism	0	0	[]	{}
+Creation of C4 and C2 activators	0	2	['IGHV', 'IGLV']	{}
+Cristae formation	0	0	[]	{}
+Cross-presentation of particulate exogenous antigens (phagosomes)	0	0	[]	{}
+Cross-presentation of soluble exogenous antigens (endosomes)	0	0	[]	{}
+Crosslinking of collagen fibrils	0	0	[]	{}
+Cyclin A/B1/B2 associated events during G2/M transition	0	0	[]	{}
+Cyclin A:Cdk2-associated events at S phase entry	0	0	[]	{}
+Cyclin D associated events in G1	0	0	[]	{}
+Cyclin E associated events during G1/S transition	0	0	[]	{}
+Cysteine formation from homocysteine	0	0	[]	{}
+Cytochrome P450 - arranged by substrate type	0	0	[]	{}
+Cytochrome c-mediated apoptotic response	0	0	[]	{}
+Cytokine Signaling in Immune system	13	4	['VP3', 'gag', 'CSF2 gene', 'HSP9']	{'OSM': 'CCM2', 'POM121': 'POMZP3', 'AIP': 'AURKAIP1', 'TNFRSF11B': 'BTF3P11', 'FGF2': 'FGF13', 'KPNA7': 'KPNA6', 'TRAF2': 'TANK', 'HLA-H': 'HFE', 'IL8': 'CXCL8', 'NS': 'GNL3', 'TNFSF6': 'FASLG', 'LCP1': 'TOX4', 'IL27': 'IL17D'}
+Cytosolic iron-sulfur cluster assembly	1	0	[]	{'BRIP1': 'MRPL36'}
+Cytosolic sensors of pathogen-associated DNA	0	0	[]	{}
+Cytosolic sulfonation of small molecules	1	0	[]	{'SULT1C2': 'SULT1C4'}
+Cytosolic tRNA aminoacylation	0	0	[]	{}
+DAG and IP3 signaling	0	0	[]	{}
+DAP12 interactions	1	0	[]	{'LAT': 'SPNS1'}
+DAP12 signaling	1	0	[]	{'LAT': 'SPNS1'}
+DARPP-32 events	0	0	[]	{}
+DCC mediated attractive signaling	0	0	[]	{}
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	1	0	[]	{'TRAF2': 'TANK'}
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production	0	0	[]	{}
+DNA Damage Bypass	3	0	[]	{'UFD1L': 'UFD1', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+DNA Damage Recognition in GG-NER	0	0	[]	{}
+DNA Damage Reversal	0	0	[]	{}
+DNA Damage/Telomere Stress Induced Senescence	2	0	[]	{'H2AFX': 'H2AX', 'NBN': 'ARTN'}
+DNA Double Strand Break Response	6	0	[]	{'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'BAP1': 'RNF2', 'H2AFX': 'H2AX', 'BRCC3': 'DEPDC1B', 'NBN': 'ARTN'}
+DNA Double-Strand Break Repair	10	0	[]	{'RAD1': 'ERCC4', 'BRCC3': 'DEPDC1B', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'BAP1': 'RNF2', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+DNA Repair	15	0	[]	{'BAP1': 'RNF2', 'POLK': 'TENT4A', 'UFD1L': 'UFD1', 'APITD1': 'CENPS', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'H2AFX': 'H2AX', 'STRA13': 'CENPX', 'LIG1': 'LRIG1', 'NBN': 'ARTN', 'RPA1': 'POLR1A', 'RAD1': 'ERCC4', 'BRCC3': 'DEPDC1B', 'ISY1': 'RAB43'}
+DNA Replication	4	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+DNA Replication Pre-Initiation	3	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'RPA1': 'POLR1A'}
+DNA methylation	1	0	[]	{'H2AFX': 'H2AX'}
+DNA replication initiation	0	0	[]	{}
+DNA strand elongation	3	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A', 'MCM2': 'MCM7'}
+DSCAM interactions	1	0	[]	{'PAK1': 'PKN1'}
+Dasatinib-resistant KIT mutants	0	0	[]	{}
+Deactivation of the beta-catenin transactivating complex	0	0	[]	{}
+Deadenylation of mRNA	5	0	[]	{'PAN3': 'NLRP6', 'RQCD1': 'CNOT9', 'ZCCHC6': 'TUT7', 'ZCCHC11': 'TUT4', 'PAN2': 'NLRP4'}
+Deadenylation-dependent mRNA decay	5	0	[]	{'PAN3': 'NLRP6', 'RQCD1': 'CNOT9', 'ZCCHC6': 'TUT7', 'ZCCHC11': 'TUT4', 'PAN2': 'NLRP4'}
+Death Receptor Signalling	2	3	['SPI-2', 'UL36', 'CRMA']	{'NET1': 'SLC6A2', 'TRAF2': 'TANK'}
+Dectin-1 mediated noncanonical NF-kB signaling	0	0	[]	{}
+Dectin-2 family	0	1	['env']	{}
+Defective ABCA1 causes TGD	0	0	[]	{}
+Defective ABCA12 causes ARCI4B	0	0	[]	{}
+Defective ABCA3 causes SMDP3	0	0	[]	{}
+Defective ABCB11 causes PFIC2 and BRIC2	0	0	[]	{}
+Defective ABCB4 causes PFIC3, ICP3 and GBD1	0	0	[]	{}
+Defective ABCB6 causes MCOPCB7	0	0	[]	{}
+Defective ABCC2 causes DJS	0	0	[]	{}
+Defective ABCC6 causes PXE	0	0	[]	{}
+Defective ABCC8 can cause hypo- and hyper-glycemias	0	0	[]	{}
+Defective ABCC9 causes CMD10, ATFB12 and Cantu syndrome	0	0	[]	{}
+Defective ABCD1 causes ALD	0	0	[]	{}
+Defective ABCD4 causes MAHCJ	0	0	[]	{}
+Defective ABCG5 causes sitosterolemia	0	0	[]	{}
+Defective ABCG8 causes GBD4 and sitosterolemia	0	0	[]	{}
+Defective ACTH causes Obesity and Pro-opiomelanocortinin deficiency (POMCD)	0	0	[]	{}
+Defective ACY1 causes encephalopathy	0	0	[]	{}
+Defective AHCY causes Hypermethioninemia with S-adenosylhomocysteine hydrolase deficiency (HMAHCHD)	0	0	[]	{}
+Defective ALG1 causes ALG1-CDG (CDG-1k)	0	0	[]	{}
+Defective ALG11 causes ALG11-CDG (CDG-1p)	0	0	[]	{}
+Defective ALG12 causes ALG12-CDG (CDG-1g)	0	0	[]	{}
+Defective ALG14 causes congenital myasthenic syndrome (ALG14-CMS)	0	0	[]	{}
+Defective ALG2 causes ALG2-CDG (CDG-1i)	0	0	[]	{}
+Defective ALG3 causes ALG3-CDG (CDG-1d)	0	0	[]	{}
+Defective ALG6 causes ALG6-CDG (CDG-1c)	0	0	[]	{}
+Defective ALG8 causes ALG8-CDG (CDG-1h)	0	0	[]	{}
+Defective ALG9 causes ALG9-CDG (CDG-1l)	0	0	[]	{}
+Defective AMN causes hereditary megaloblastic anemia 1	0	0	[]	{}
+Defective AVP does not bind AVPR1A,B and causes neurohypophyseal diabetes insipidus (NDI)	0	0	[]	{}
+Defective AVP does not bind AVPR2 and causes neurohypophyseal diabetes insipidus (NDI)	0	0	[]	{}
+Defective B3GALT6 causes EDSP2 and SEMDJL1	0	0	[]	{}
+Defective B3GALTL causes Peters-plus syndrome (PpS)	0	0	[]	{}
+Defective B3GAT3 causes JDSSDHD	0	0	[]	{}
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)	0	0	[]	{}
+Defective B4GALT7 causes EDS, progeroid type	0	0	[]	{}
+Defective BTD causes biotidinase deficiency	0	0	[]	{}
+Defective Base Excision Repair Associated with MUTYH	0	0	[]	{}
+Defective Base Excision Repair Associated with NEIL1	0	0	[]	{}
+Defective Base Excision Repair Associated with NEIL3	0	0	[]	{}
+Defective Base Excision Repair Associated with NTHL1	0	0	[]	{}
+Defective Base Excision Repair Associated with OGG1	0	0	[]	{}
+Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)	0	0	[]	{}
+Defective CD320 causes methylmalonic aciduria	0	0	[]	{}
+Defective CFTR causes cystic fibrosis	0	0	[]	{}
+Defective CHST14 causes EDS, musculocontractural type	0	0	[]	{}
+Defective CHST3 causes SEDCJD	0	0	[]	{}
+Defective CHST6 causes MCDC1	0	0	[]	{}
+Defective CHSY1 causes TPBS	0	0	[]	{}
+Defective CP causes aceruloplasminemia (ACERULOP)	0	0	[]	{}
+Defective CSF2RA causes SMDP4	0	0	[]	{}
+Defective CSF2RB causes SMDP5	0	0	[]	{}
+Defective CUBN causes hereditary megaloblastic anemia 1	0	0	[]	{}
+Defective CYP11A1 causes Adrenal insufficiency, congenital, with 46,XY sex reversal (AICSR)	0	0	[]	{}
+Defective CYP11B1 causes Adrenal hyperplasia 4 (AH4)	0	0	[]	{}
+Defective CYP11B2 causes Corticosterone methyloxidase 1 deficiency (CMO-1 deficiency)	0	0	[]	{}
+Defective CYP17A1 causes Adrenal hyperplasia 5 (AH5)	0	0	[]	{}
+Defective CYP19A1 causes Aromatase excess syndrome (AEXS)	0	0	[]	{}
+Defective CYP1B1 causes Glaucoma	0	0	[]	{}
+Defective CYP21A2 causes Adrenal hyperplasia 3 (AH3)	0	0	[]	{}
+Defective CYP24A1 causes Hypercalcemia, infantile (HCAI)	0	0	[]	{}
+Defective CYP26B1 causes Radiohumeral fusions with other skeletal and craniofacial anomalies (RHFCA)	0	0	[]	{}
+Defective CYP26C1 causes Focal facial dermal dysplasia 4 (FFDD4)	0	0	[]	{}
+Defective CYP27A1 causes Cerebrotendinous xanthomatosis (CTX)	0	0	[]	{}
+Defective CYP27B1 causes Rickets vitamin D-dependent 1A (VDDR1A)	0	0	[]	{}
+Defective CYP2R1 causes Rickets vitamin D-dependent 1B (VDDR1B)	0	0	[]	{}
+Defective CYP2U1 causes Spastic paraplegia 56, autosomal recessive (SPG56)	0	0	[]	{}
+Defective CYP4F22 causes Ichthyosis, congenital, autosomal recessive 5 (ARCI5)	0	0	[]	{}
+Defective CYP7B1 causes Spastic paraplegia 5A, autosomal recessive (SPG5A) and Congenital bile acid synthesis defect 3 (CBAS3)	0	0	[]	{}
+Defective DHDDS causes retinitis pigmentosa 59	0	0	[]	{}
+Defective DNA double strand break response due to BARD1 loss of function	0	0	[]	{}
+Defective DNA double strand break response due to BRCA1 loss of function	0	0	[]	{}
+Defective DOLK causes DOLK-CDG (CDG-1m)	0	0	[]	{}
+Defective DPAGT1 causes DPAGT1-CDG (CDG-1j) and CMSTA2	0	0	[]	{}
+Defective DPM1 causes DPM1-CDG (CDG-1e)	0	0	[]	{}
+Defective DPM2 causes DPM2-CDG (CDG-1u)	0	0	[]	{}
+Defective DPM3 causes DPM3-CDG (CDG-1o)	0	0	[]	{}
+Defective EXT1 causes exostoses 1, TRPS2 and CHDS	0	0	[]	{}
+Defective EXT2 causes exostoses 2	0	0	[]	{}
+Defective F8 accelerates dissociation of the A2 domain	0	0	[]	{}
+Defective F8 binding to the cell membrane	0	0	[]	{}
+Defective F8 binding to von Willebrand factor	0	0	[]	{}
+Defective F8 cleavage by thrombin	0	0	[]	{}
+Defective F8 secretion	0	0	[]	{}
+Defective F8 sulfation at Y1699	0	0	[]	{}
+Defective F9 activation	0	0	[]	{}
+Defective F9 secretion	0	0	[]	{}
+Defective F9 variant does not activate FX	0	0	[]	{}
+Defective FMO3 causes Trimethylaminuria (TMAU)	0	0	[]	{}
+Defective GALE can cause Epimerase-deficiency galactosemia (EDG)	0	0	[]	{}
+Defective GALK1 can cause Galactosemia II (GALCT2)	0	0	[]	{}
+Defective GALNT12 causes colorectal cancer 1 (CRCS1)	0	0	[]	{}
+Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)	0	0	[]	{}
+Defective GALT can cause Galactosemia	0	0	[]	{}
+Defective GCK causes maturity-onset diabetes of the young 2 (MODY2)	1	0	[]	{'GCK': 'MAP4K2'}
+Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD)	0	0	[]	{}
+Defective GFPT1 causes CMSTA1	0	0	[]	{}
+Defective GGT1 causes Glutathionuria (GLUTH)	0	0	[]	{}
+Defective GIF causes intrinsic factor deficiency	0	0	[]	{}
+Defective GNE causes sialuria, Nonaka myopathy and inclusion body myopathy 2	0	0	[]	{}
+Defective GSS causes Glutathione synthetase deficiency (GSS deficiency)	1	0	[]	{'GSS': 'PRNP'}
+Defective HEXA causes GM2G1	0	0	[]	{}
+Defective HEXB causes GM2G2	0	0	[]	{}
+Defective HK1 causes hexokinase deficiency (HK deficiency)	1	0	[]	{'HK1': 'HOOK1'}
+Defective HLCS causes multiple carboxylase deficiency	1	0	[]	{'PC': 'PODXL'}
+Defective Inhibition of DNA Recombination at Telomere	0	0	[]	{}
+Defective Inhibition of DNA Recombination at Telomere Due to ATRX Mutations	0	0	[]	{}
+Defective Inhibition of DNA Recombination at Telomere Due to DAXX Mutations	0	0	[]	{}
+Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function	0	0	[]	{}
+Defective LARGE causes MDDGA6 and MDDGB6	0	0	[]	{}
+Defective LFNG causes SCDO3	0	0	[]	{}
+Defective LMBRD1 causes methylmalonic aciduria and homocystinuria type cblF	0	0	[]	{}
+Defective MAN1B1 causes MRT15	0	0	[]	{}
+Defective MAOA causes Brunner syndrome (BRUNS)	0	0	[]	{}
+Defective MAT1A causes Methionine adenosyltransferase deficiency (MATD)	0	0	[]	{}
+Defective MGAT2 causes MGAT2-CDG (CDG-2a)	1	0	[]	{'MGAT2': 'MOGAT2'}
+Defective MMAA causes methylmalonic aciduria type cblA	0	0	[]	{}
+Defective MMAB causes methylmalonic aciduria type cblB	0	0	[]	{}
+Defective MMACHC causes methylmalonic aciduria and homocystinuria type cblC	0	0	[]	{}
+Defective MMADHC causes methylmalonic aciduria and homocystinuria type cblD	0	0	[]	{}
+Defective MOGS causes MOGS-CDG (CDG-2b)	0	0	[]	{}
+Defective MPDU1 causes MPDU1-CDG (CDG-1f)	0	0	[]	{}
+Defective MPI causes MPI-CDG (CDG-1b)	0	0	[]	{}
+Defective MTR causes methylmalonic aciduria and homocystinuria type cblG	0	0	[]	{}
+Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE	0	0	[]	{}
+Defective MUT causes methylmalonic aciduria mut type	0	0	[]	{}
+Defective MUTYH substrate binding	0	0	[]	{}
+Defective MUTYH substrate processing	0	0	[]	{}
+Defective Mismatch Repair Associated With MLH1	0	0	[]	{}
+Defective Mismatch Repair Associated With MSH2	0	0	[]	{}
+Defective Mismatch Repair Associated With MSH3	0	0	[]	{}
+Defective Mismatch Repair Associated With MSH6	0	0	[]	{}
+Defective Mismatch Repair Associated With PMS2	0	0	[]	{}
+Defective NEU1 causes sialidosis	0	0	[]	{}
+Defective NTHL1 substrate binding	0	0	[]	{}
+Defective NTHL1 substrate processing	0	0	[]	{}
+Defective OGG1 Localization	0	0	[]	{}
+Defective OGG1 Substrate Binding	0	0	[]	{}
+Defective OGG1 Substrate Processing	0	0	[]	{}
+Defective OPLAH causes 5-oxoprolinase deficiency (OPLAHD)	0	0	[]	{}
+Defective PAPSS2 causes SEMD-PA	0	0	[]	{}
+Defective PGM1 causes PGM1-CDG (CDG1t)	0	0	[]	{}
+Defective PMM2 causes PMM2-CDG (CDG-1a)	0	0	[]	{}
+Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3	0	0	[]	{}
+Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1	0	0	[]	{}
+Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2	0	0	[]	{}
+Defective RFT1 causes RFT1-CDG (CDG-1n)	0	0	[]	{}
+Defective RHAG causes regulator type Rh-null hemolytic anemia (RHN)	0	0	[]	{}
+Defective RIPK1-mediated regulated necrosis	1	0	[]	{'TRAF2': 'TANK'}
+Defective SERPING1 causes hereditary angioedema	0	0	[]	{}
+Defective SFTPA2 causes IPF	0	0	[]	{}
+Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)	0	0	[]	{}
+Defective SLC12A1 causes Bartter syndrome 1 (BS1)	0	0	[]	{}
+Defective SLC12A3 causes Gitelman syndrome (GS)	0	0	[]	{}
+Defective SLC12A6 causes agenesis of the corpus callosum, with peripheral neuropathy (ACCPN)	0	0	[]	{}
+Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT)	0	0	[]	{}
+Defective SLC17A5 causes Salla disease (SD) and ISSD	0	0	[]	{}
+Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25)	0	0	[]	{}
+Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)	0	0	[]	{}
+Defective SLC1A3 causes episodic ataxia 6 (EA6)	0	0	[]	{}
+Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1)	0	0	[]	{}
+Defective SLC22A12 causes renal hypouricemia 1 (RHUC1)	0	0	[]	{}
+Defective SLC22A18 causes lung cancer (LNCR) and embryonal rhabdomyosarcoma 1 (RMSE1)	0	0	[]	{}
+Defective SLC22A5 causes systemic primary carnitine deficiency (CDSP)	0	0	[]	{}
+Defective SLC24A1 causes congenital stationary night blindness 1D (CSNB1D)	0	0	[]	{}
+Defective SLC24A4 causes hypomineralized amelogenesis imperfecta (AI)	0	0	[]	{}
+Defective SLC24A5 causes oculocutaneous albinism 6 (OCA6)	0	0	[]	{}
+Defective SLC26A2 causes chondrodysplasias	0	0	[]	{}
+Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1)	0	0	[]	{}
+Defective SLC26A4 causes Pendred syndrome (PDS)	0	0	[]	{}
+Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS)	0	0	[]	{}
+Defective SLC29A3 causes histiocytosis-lymphadenopathy plus syndrome (HLAS)	0	0	[]	{}
+Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1)	0	0	[]	{}
+Defective SLC2A10 causes arterial tortuosity syndrome (ATS)	0	0	[]	{}
+Defective SLC2A2 causes Fanconi-Bickel syndrome (FBS)	0	0	[]	{}
+Defective SLC2A9 causes hypouricemia renal 2 (RHUC2)	0	0	[]	{}
+Defective SLC33A1 causes spastic paraplegia 42 (SPG42)	0	0	[]	{}
+Defective SLC34A1 causes hypophosphatemic nephrolithiasis/osteoporosis 1 (NPHLOP1)	0	0	[]	{}
+Defective SLC34A2 causes PALM	0	0	[]	{}
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)	0	0	[]	{}
+Defective SLC34A3 causes Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)	0	0	[]	{}
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F)	0	0	[]	{}
+Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M)	0	0	[]	{}
+Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS)	0	0	[]	{}
+Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C)	0	0	[]	{}
+Defective SLC35D1 causes Schneckenbecken dysplasia (SCHBCKD)	0	0	[]	{}
+Defective SLC36A2 causes iminoglycinuria (IG) and hyperglycinuria (HG)	0	0	[]	{}
+Defective SLC39A4 causes acrodermatitis enteropathica, zinc-deficiency type (AEZ)	0	0	[]	{}
+Defective SLC3A1 causes cystinuria (CSNU)	0	0	[]	{}
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)	0	0	[]	{}
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)	0	0	[]	{}
+Defective SLC4A1 causes hereditary spherocytosis type 4 (HSP4),  distal renal tubular acidosis (dRTA) and dRTA with hemolytic anemia (dRTA-HA)	0	0	[]	{}
+Defective SLC4A4 causes renal tubular acidosis, proximal, with ocular abnormalities and mental retardation (pRTA-OA)	0	0	[]	{}
+Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM)	0	0	[]	{}
+Defective SLC5A2 causes renal glucosuria (GLYS1)	0	0	[]	{}
+Defective SLC5A5 causes thyroid dyshormonogenesis 1 (TDH1)	0	0	[]	{}
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)	0	0	[]	{}
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria	0	0	[]	{}
+Defective SLC6A19 causes Hartnup disorder (HND)	0	0	[]	{}
+Defective SLC6A2 causes orthostatic intolerance (OI)	0	0	[]	{}
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	0	0	[]	{}
+Defective SLC6A5 causes hyperekplexia 3 (HKPX3)	1	0	[]	{'SLC6A5': 'SLC6A2'}
+Defective SLC7A7 causes lysinuric protein intolerance (LPI)	0	0	[]	{}
+Defective SLC7A9 causes cystinuria (CSNU)	0	0	[]	{}
+Defective SLC9A6 causes  X-linked, syndromic mental retardation,, Christianson type (MRXSCH)	0	0	[]	{}
+Defective SLC9A9 causes autism 16 (AUTS16)	0	0	[]	{}
+Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)	0	0	[]	{}
+Defective SLCO1B3 causes hyperbilirubinemia, Rotor type (HBLRR)	0	0	[]	{}
+Defective SLCO2A1 causes primary, autosomal recessive hypertrophic osteoarthropathy 2 (PHOAR2)	0	0	[]	{}
+Defective SRD5A3 causes SRD5A3-CDG (CDG-1q) and KHRZ	0	0	[]	{}
+Defective ST3GAL3 causes MCT12 and EIEE15	0	0	[]	{}
+Defective TBXAS1 causes Ghosal hematodiaphyseal dysplasia (GHDD)	0	0	[]	{}
+Defective TCN2 causes hereditary megaloblastic anemia	0	0	[]	{}
+Defective TPMT causes Thiopurine S-methyltransferase deficiency (TPMT deficiency)	0	0	[]	{}
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)	2	0	[]	{'POM121': 'POMZP3', 'GCK': 'MAP4K2'}
+Defective UGT1A1 causes hyperbilirubinemia	0	0	[]	{}
+Defective UGT1A4 causes hyperbilirubinemia	0	0	[]	{}
+Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)	0	0	[]	{}
+Defective cofactor function of FVIIIa variant	0	0	[]	{}
+Defective factor IX causes hemophilia B	0	0	[]	{}
+Defective factor IX causes thrombophilia	0	0	[]	{}
+Defective factor VIII causes hemophilia A	0	0	[]	{}
+Defective factor XII causes hereditary angioedema	0	0	[]	{}
+Defective gamma-carboxylation of F9	0	0	[]	{}
+Defective pro-SFTPB causes SMDP1 and RDS	0	0	[]	{}
+Defective pro-SFTPC causes SMDP2 and RDS	0	0	[]	{}
+Defective translocation of RB1 mutants to the nucleus	0	0	[]	{}
+Defects in biotin (Btn) metabolism	1	0	[]	{'PC': 'PODXL'}
+Defects in cobalamin (B12) metabolism	0	0	[]	{}
+Defects in vitamin and cofactor metabolism	1	0	[]	{'PC': 'PODXL'}
+Defects of contact activation system (CAS) and kallikrein/kinin system (KKS)	0	0	[]	{}
+Defensins	3	1	['env']	{'DEFA3': 'DEFA1A3', 'DEFB108P1': 'DEFB108A', 'DEFB131': 'DEFB131A'}
+Degradation of AXIN	0	0	[]	{}
+Degradation of DVL	0	0	[]	{}
+Degradation of GABA	0	0	[]	{}
+Degradation of GLI1 by the proteasome	0	0	[]	{}
+Degradation of GLI2 by the proteasome	0	0	[]	{}
+Degradation of beta-catenin by the destruction complex	0	0	[]	{}
+Degradation of cysteine and homocysteine	1	0	[]	{'SQRDL': 'SQOR'}
+Degradation of the extracellular matrix	4	0	[]	{'MMP20': 'MMP25', 'LAMA3': 'LAMA4', 'CDH1': 'FZR1', 'SPP1': 'CXXC1'}
+Deletions in the AMER1 gene destabilize the destruction complex	0	0	[]	{}
+Deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT signaling	0	0	[]	{}
+Depolymerisation of the Nuclear Lamina	0	0	[]	{}
+Deposition of new CENPA-containing nucleosomes at the centromere	4	0	[]	{'APITD1': 'CENPS', 'H2AFX': 'H2AX', 'STRA13': 'CENPX', 'CENPC': 'CENPCP1'}
+Depurination	1	0	[]	{'H2AFX': 'H2AX'}
+Depyrimidination	1	0	[]	{'H2AFX': 'H2AX'}
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	0	0	[]	{}
+Dermatan sulfate biosynthesis	0	0	[]	{}
+Detoxification of Reactive Oxygen Species	1	0	[]	{'GPX6': 'GPX7'}
+Deubiquitination	10	0	[]	{'USP16': 'USP21', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'BAP1': 'RNF2', 'VDAC3': 'VDAC1P5', 'FAM175B': 'ABRAXAS2', 'UFD1L': 'UFD1', 'PARK2': 'PRKN', 'TRAF2': 'TANK', 'BRCC3': 'DEPDC1B'}
+Developmental Biology	28	7	['ROBO3.1', '5S rRNA', '5.8S rRNA', 'EPAS1 (HIF2A)', '18S rRNA', '28S rRNA', 'POU5F1 (OCT4)']	{'KRTAP5-1': 'KRTAP5-9', 'KRTAP5-3': 'KRTAP5-7', 'KRTAP5-6': 'KRTAP5-11', 'DOK1': 'ART4', 'TRPC7': 'TRPM2', 'PRX': 'PRDX6', 'CAP2': 'TMPRSS4', 'DLG3': 'MPP3', 'RPL36A': 'RPL36AL', 'PAK5': 'PAK6', 'SLIT3': 'SLIT1', 'PDX1': 'PDHX', 'RPL13': 'MRPL13', 'FGF2': 'FGF13', 'CER1': 'C3CER1', 'HFE2': 'HJV', 'H2AFX': 'H2AX', 'PAK3': 'ARHGEF7', 'RQCD1': 'CNOT9', 'MYH14': 'MYH7B', 'GRIN1': 'GPRIN1', 'DSC3': 'DSC2', 'KRTAP5-8': 'KRTAP5-2', 'PAK1': 'PKN1', 'GCK': 'MAP4K2', 'RPL10': 'RPL15', 'NTN4': 'MLF2', 'TCF4': 'TCF7L2'}
+Digestion	1	0	[]	{'SI': 'PMEL'}
+Digestion and absorption	1	0	[]	{'SI': 'PMEL'}
+Digestion of dietary carbohydrate	1	0	[]	{'SI': 'PMEL'}
+Digestion of dietary lipid	0	0	[]	{}
+Dimerization of procaspase-8	1	0	[]	{'TRAF2': 'TANK'}
+Disassembly of the destruction complex and recruitment of AXIN to the membrane	0	0	[]	{}
+Disease	41	225	['UL25', 'Rv1281c', 'sapM', 'UL144', 'gag', 'fliC', 'UL130', 'US3', 'secD', '5S rRNA', 'UL83', 'bfr', 'NS5B', 'lpdC', 'dlaT', '18S rRNA', 'US10', 'ha17', 'US28', 'Rv2895c', 'US22', 'Rv1280c', 'RNA4.9', 'ndkA', 'UL95', 'UL4', 'UL29', 'Rv3654c', 'trxB', 'HA', 'esxA', 'US32', 'UL114', 'US12', 'UL54', 'US8', '8b', 'UL70', 'adhE2', 'glbN', 'PPE2', 'US19', 'UL52', 'UL99', 'pstS1', 'UL122', 'gN', 'RIR1', 'rpoB', 'botA', 'US9', '3a', 'gag-pol', 'katG', 'US13', 'UL69', 'UL26', 'rev', 'Rv2779c', 'US26', 'secG', 'UL43', 'sodC', 'UL76', 'Rv2238c', 'UL22A', 'US16', 'UL96', 'secE', 'nef', 'E', 'UL38', 'irtA', '5.8S rRNA', 'irtB', 'eis', 'UL78', 'UL132', 'UL131A', 'UL92', 'UL87', 'RL1', 'LPG1G2', 'RL9A', 'Rv1282c', 'N', 'UL5', '28S rRNA', 'UL44', 'UL13', 'SARS coronavirus, complete genome', 'US34', 'US23', 'US30', 'US33A', 'UL146', 'UL91', 'msrA', 'ggtA', 'ptpA', 'UL9', 'RL11', '9b', 'IGLV', 'UL37', 'UL147', 'secF', 'rpoZ', 'HA-33', 'ahpC', 'UL16', 'inlB', 'gH', 'CVC1', 'UL119/UL118', 'UL34', 'Hh5 strain Merlin complete genome', 'UL7', 'Rv1410c', 'gL', 'UL2', 'pp1a', 'UL88', 'UL84', 'MT2748', 'UL18', 'M', 'UL74', 'env', 'UL124', 'cya', 'UL104', 'lprM', 'UL21A', 'UL103', 'sta1', 'UL98', 'secA2', 'CVC2', 'UL71', 'UL133', 'secA1', 'S', 'RL10', 'US18', 'UL120', 'UL35', 'UL31', 'Rv3364c', 'ntnha', 'UL148', 'rpoC', 'gM', 'trx-2', 'trxA', 'UL41A', 'botG', 'UL121', 'rep', 'mip', 'bfrB', 'inlA', 'HELI', 'tpx', 'botF', '1a', 'UL23', 'UL32', 'US2', 'tat', 'IGHV', 'UL138', 'porB', '7a', 'UL147A', 'UL82', 'US14', 'US11', 'UL15A', 'Rv1283c', 'US17', 'RL8A', 'UL117', 'US34A', 'Rv3655c', 'PB2', 'UL27', 'UL112/UL113', 'cpnT', 'gB', 'rpoA', 'UL47', 'vif', 'UL48', 'UL94', 'UL80', 'esxH', 'ha70', 'US24', 'UL123', 'vpr', 'pagA', 'secY', 'lprG', 'UL17', 'UL14', 'esxG', 'UL111A', 'botD', 'sodB', 'vpu', 'fgd1', 'botB', 'US20', 'UL79', 'tetX', 'UL11', 'lef', 'US27', 'UL36', 'ahpD', 'UL97', 'botE', 'UL102', 'UL24']	{'POM121': 'POMZP3', 'RPL13': 'MRPL13', 'NEC2': 'PCSK2', 'PA': 'EPB42', 'NEC1': 'PCSK1', 'RPL36A': 'RPL36AL', 'TRS1': 'TRS-TGA2-1', 'SCP': 'SLC50A1', 'HRH2': 'DHX15', 'GIP': 'C1QTNF1', 'TRX1': 'KMT2A', 'NP': 'CTF2P', 'CDH1': 'FZR1', 'SI': 'PMEL', 'TRM3': 'TARBP1', 'G6PC': 'G6PC1', 'TRX2': 'KMT2B', 'TRM2': 'TRX-CAT1-2', 'PB1': 'PBRM1', 'NS': 'GNL3', 'PC': 'PODXL', 'KSR2': 'CNKSR2', 'FGF2': 'FGF13', 'MCP': 'CAPG', 'VIP': 'CPAMD8', 'GSS': 'PRNP', 'SLC6A5': 'SLC6A2', 'NA': 'XK', 'TAAR3': 'TAAR3P', 'BRMS1': 'BRMS1L', 'TAF4B': 'PAPPA-AS1', 'PTH2': 'PTENP1', 'MGAT2': 'MOGAT2', 'KPNA7': 'KPNA6', 'TRM1': 'TRMT1', 'TRAF2': 'TANK', 'DBP': 'GC', 'LIG1': 'LRIG1', 'GCK': 'MAP4K2', 'HK1': 'HOOK1', 'RPL10': 'RPL15'}
+Diseases associated with N-glycosylation of proteins	1	0	[]	{'MGAT2': 'MOGAT2'}
+Diseases associated with O-glycosylation of proteins	0	0	[]	{}
+Diseases associated with glycosaminoglycan metabolism	0	0	[]	{}
+Diseases associated with glycosylation precursor biosynthesis	0	0	[]	{}
+Diseases associated with surfactant metabolism	0	0	[]	{}
+Diseases associated with the TLR signaling cascade	0	3	['fliC', 'porB', 'mip']	{}
+Diseases associated with visual transduction	0	0	[]	{}
+Diseases of Base Excision Repair	0	0	[]	{}
+Diseases of Cellular Senescence	0	0	[]	{}
+Diseases of DNA Double-Strand Break Repair	0	0	[]	{}
+Diseases of DNA repair	0	0	[]	{}
+Diseases of Immune System	0	3	['fliC', 'porB', 'mip']	{}
+Diseases of Mismatch Repair (MMR)	0	0	[]	{}
+Diseases of Telomere Maintenance	0	0	[]	{}
+Diseases of carbohydrate metabolism	2	0	[]	{'G6PC': 'G6PC1', 'SI': 'PMEL'}
+Diseases of cellular response to stress	0	0	[]	{}
+Diseases of glycosylation	1	0	[]	{'MGAT2': 'MOGAT2'}
+Diseases of hemostasis	0	0	[]	{}
+Diseases of metabolism	5	0	[]	{'MGAT2': 'MOGAT2', 'G6PC': 'G6PC1', 'GSS': 'PRNP', 'PC': 'PODXL', 'SI': 'PMEL'}
+Diseases of mitotic cell cycle	0	0	[]	{}
+Diseases of programmed cell death	1	0	[]	{'TRAF2': 'TANK'}
+Diseases of signal transduction by growth factor receptors and second messengers	2	0	[]	{'KSR2': 'CNKSR2', 'FGF2': 'FGF13'}
+Diseases of the neuronal system	0	0	[]	{}
+Disinhibition of SNARE formation	0	0	[]	{}
+Disorders of Developmental Biology	0	0	[]	{}
+Disorders of Nervous System Development	0	0	[]	{}
+Disorders of transmembrane transporters	4	0	[]	{'GCK': 'MAP4K2', 'HK1': 'HOOK1', 'POM121': 'POMZP3', 'SLC6A5': 'SLC6A2'}
+Displacement of DNA glycosylase by APEX1	0	0	[]	{}
+Dissolution of Fibrin Clot	1	0	[]	{'HRG': 'NRG1'}
+Dopamine Neurotransmitter Release Cycle	0	0	[]	{}
+Dopamine clearance from the synaptic cleft	0	0	[]	{}
+Dopamine receptors	0	0	[]	{}
+Downregulation of ERBB2 signaling	0	0	[]	{}
+Downregulation of ERBB2:ERBB3 signaling	0	0	[]	{}
+Downregulation of ERBB4 signaling	0	0	[]	{}
+Downregulation of SMAD2/3:SMAD4 transcriptional activity	0	0	[]	{}
+Downregulation of TGF-beta receptor signaling	1	0	[]	{'STRAP': 'SRFBP1'}
+Downstream TCR signaling	0	0	[]	{}
+Downstream signal transduction	0	0	[]	{}
+Downstream signaling events of B Cell Receptor (BCR)	0	0	[]	{}
+Downstream signaling of activated FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+Downstream signaling of activated FGFR2	1	0	[]	{'FGF2': 'FGF13'}
+Downstream signaling of activated FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+Downstream signaling of activated FGFR4	1	0	[]	{'FGF2': 'FGF13'}
+Drug resistance in ERBB2 KD mutants	0	0	[]	{}
+Drug resistance in ERBB2 TMD/JMD mutants	0	0	[]	{}
+Drug resistance of FLT3 mutants	0	0	[]	{}
+Drug resistance of KIT mutants	0	0	[]	{}
+Drug resistance of PDGFR mutants	0	0	[]	{}
+Drug-mediated inhibition of ERBB2 signaling	0	0	[]	{}
+Dual Incision in GG-NER	2	0	[]	{'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Dual incision in TC-NER	3	0	[]	{'ISY1': 'RAB43', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+E2F mediated regulation of DNA replication	1	0	[]	{'ORC1': 'SLC25A15'}
+E2F-enabled inhibition of pre-replication complex formation	1	0	[]	{'ORC1': 'SLC25A15'}
+E3 ubiquitin ligases ubiquitinate target proteins	0	1	['US11']	{}
+ECM proteoglycans	3	0	[]	{'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1', 'DMP1': 'DMTF1'}
+EGFR Transactivation by Gastrin	0	0	[]	{}
+EGFR downregulation	0	0	[]	{}
+EGFR interacts with phospholipase C-gamma	0	0	[]	{}
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	1	0	[]	{'PRX': 'PRDX6'}
+EML4 and NUDC in mitotic spindle formation	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+EPH-Ephrin signaling	4	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'MYH14': 'MYH7B', 'GRIN1': 'GPRIN1'}
+EPH-ephrin mediated repulsion of cells	0	0	[]	{}
+EPHA-mediated growth cone collapse	1	0	[]	{'MYH14': 'MYH7B'}
+EPHB-mediated forward signaling	2	0	[]	{'PAK1': 'PKN1', 'GRIN1': 'GPRIN1'}
+ER Quality Control Compartment (ERQC)	0	0	[]	{}
+ER to Golgi Anterograde Transport	4	0	[]	{'NAPB': 'NAPSB', 'NAPA': 'NAPSA', 'MIA2': 'CFAP73', 'ARFGAP1': 'ARFGAP3'}
+ER-Phagosome pathway	2	2	['porB', 'mip']	{'HLA-H': 'HFE', 'TAP2': 'SEC14L3'}
+ERBB2 Activates PTK6 Signaling	0	0	[]	{}
+ERBB2 Regulates Cell Motility	0	0	[]	{}
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	2	1	['45S pre-rRNA gene']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+ERK/MAPK targets	0	0	[]	{}
+ERKs are inactivated	0	0	[]	{}
+ESR-mediated signaling	2	0	[]	{'NOS3': 'NANOS3', 'H2AFX': 'H2AX'}
+Early Phase of HIV Life Cycle	1	8	['rev', 'vif', 'env', 'vpu', 'gag', 'gag-pol', 'vpr', 'nef']	{'LIG1': 'LRIG1'}
+Effects of PIP2 hydrolysis	1	0	[]	{'TRPC7': 'TRPM2'}
+Eicosanoid ligand-binding receptors	0	0	[]	{}
+Eicosanoids	0	0	[]	{}
+Elastic fibre formation	1	0	[]	{'LTBP3': 'LTBP2'}
+Electric Transmission Across Gap Junctions	2	0	[]	{'GJA10': 'GJA9', 'GJC1': 'GJD3'}
+Electron transport from NADPH to Ferredoxin	0	0	[]	{}
+Elevation of cytosolic Ca2+ levels	1	0	[]	{'TRPC7': 'TRPM2'}
+Endogenous sterols	0	0	[]	{}
+Endosomal Sorting Complex Required For Transport (ESCRT)	0	0	[]	{}
+Endosomal/Vacuolar pathway	1	0	[]	{'HLA-H': 'HFE'}
+Energy dependent regulation of mTOR by LKB1-AMPK	0	0	[]	{}
+Entry of Influenza Virion into Host Cell via Endocytosis	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'PB1': 'PBRM1', 'NP': 'CTF2P', 'NA': 'XK'}
+Enzymatic degradation of Dopamine by monoamine oxidase	0	0	[]	{}
+Enzymatic degradation of dopamine by COMT	0	0	[]	{}
+Ephrin signaling	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+Epigenetic regulation of gene expression	2	5	['45S pre-rRNA gene', '5S rRNA', '5.8S rRNA', '28S rRNA', '18S rRNA, 5.8S rRNA, 28S rRNA']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+Erythrocytes take up carbon dioxide and release oxygen	0	0	[]	{}
+Erythrocytes take up oxygen and release carbon dioxide	0	0	[]	{}
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	1	0	[]	{'EPO': 'EPX'}
+Erythropoietin activates Phospholipase C gamma (PLCG)	1	0	[]	{'EPO': 'EPX'}
+Erythropoietin activates RAS	1	0	[]	{'EPO': 'EPX'}
+Erythropoietin activates STAT5	1	0	[]	{'EPO': 'EPX'}
+Escape of Mtb from the phagocyte	0	1	['cpnT']	{}
+Essential fructosuria	0	0	[]	{}
+Essential pentosuria	0	0	[]	{}
+Establishment of Sister Chromatid Cohesion	0	0	[]	{}
+Estrogen biosynthesis	0	0	[]	{}
+Estrogen-dependent gene expression	1	0	[]	{'H2AFX': 'H2AX'}
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	0	0	[]	{}
+Estrogen-stimulated signaling through PRKCZ	0	0	[]	{}
+Ethanol oxidation	0	0	[]	{}
+Eukaryotic Translation Elongation	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Eukaryotic Translation Initiation	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Eukaryotic Translation Termination	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4	0	0	[]	{}
+Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	0	0	[]	{}
+Evasion of Oncogene Induced Senescence Due to p14ARF Defects	0	0	[]	{}
+Evasion of Oncogene Induced Senescence Due to p16INK4A Defects	0	0	[]	{}
+Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4	0	0	[]	{}
+Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	0	0	[]	{}
+Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects	0	0	[]	{}
+Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects	0	0	[]	{}
+Events associated with phagocytolytic activity of PMN cells	0	0	[]	{}
+Export of Viral Ribonucleoproteins from Nucleus	5	2	['M', 'PB2']	{'PB1': 'PBRM1', 'POM121': 'POMZP3', 'NS': 'GNL3', 'PA': 'EPB42', 'NP': 'CTF2P'}
+Expression and Processing of Neurotrophins	0	0	[]	{}
+Extension of Telomeres	4	0	[]	{'TEN1': 'TENM1', 'LIG1': 'LRIG1', 'GAR1': 'CNGB1', 'RPA1': 'POLR1A'}
+Extra-nuclear estrogen signaling	1	0	[]	{'NOS3': 'NANOS3'}
+Extracellular matrix organization	9	0	[]	{'MMP20': 'MMP25', 'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1', 'DMP1': 'DMTF1', 'FGF2': 'FGF13', 'LTBP3': 'LTBP2', 'NTN4': 'MLF2', 'CDH1': 'FZR1', 'SPP1': 'CXXC1'}
+Extrinsic Pathway of Fibrin Clot Formation	1	0	[]	{'F3': 'CNTN1'}
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	0	0	[]	{}
+FBXW7 Mutants and NOTCH1 in Cancer	0	0	[]	{}
+FCERI mediated Ca+2 mobilization	1	2	['IGHV', 'IGLV']	{'LAT': 'SPNS1'}
+FCERI mediated MAPK activation	2	2	['IGHV', 'IGLV']	{'PAK1': 'PKN1', 'LAT': 'SPNS1'}
+FCERI mediated NF-kB activation	0	2	['IGHV', 'IGLV']	{}
+FCGR activation	0	2	['IGHV', 'IGLV']	{}
+FCGR3A-mediated IL10 synthesis	0	3	['IGHV', 'LPG1G2', 'IGLV']	{}
+FCGR3A-mediated phagocytosis	0	3	['IGHV', 'LPG1G2', 'IGLV']	{}
+FGFR1 ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR1 mutant receptor activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR1b ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR1c and Klotho ligand binding and activation	0	0	[]	{}
+FGFR1c ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR2 alternative splicing	0	2	['FGFR2b', 'FGFR2c']	{}
+FGFR2 ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR2 mutant receptor activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR2b ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR2c ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR3 ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR3 mutant receptor activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR3b ligand binding and activation	0	0	[]	{}
+FGFR3c ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR4 ligand binding and activation	1	0	[]	{'FGF2': 'FGF13'}
+FGFR4 mutant receptor activation	0	0	[]	{}
+FGFRL1 modulation of FGFR1 signaling	1	0	[]	{'FGF2': 'FGF13'}
+FLT3 Signaling	0	0	[]	{}
+FLT3 mutants bind TKIs	0	0	[]	{}
+FLT3 signaling by CBL mutants	0	0	[]	{}
+FLT3 signaling in disease	0	0	[]	{}
+FLT3 signaling through SRC family kinases	0	0	[]	{}
+FMO oxidises nucleophiles	0	0	[]	{}
+FOXO-mediated transcription	2	0	[]	{'GCK': 'MAP4K2', 'G6PC': 'G6PC1'}
+FOXO-mediated transcription of cell cycle genes	0	0	[]	{}
+FOXO-mediated transcription of cell death genes	0	0	[]	{}
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	2	0	[]	{'GCK': 'MAP4K2', 'G6PC': 'G6PC1'}
+FRS-mediated FGFR1 signaling	1	0	[]	{'FGF2': 'FGF13'}
+FRS-mediated FGFR2 signaling	1	0	[]	{'FGF2': 'FGF13'}
+FRS-mediated FGFR3 signaling	1	0	[]	{'FGF2': 'FGF13'}
+FRS-mediated FGFR4 signaling	1	0	[]	{'FGF2': 'FGF13'}
+Factors involved in megakaryocyte development and platelet production	0	0	[]	{}
+Fanconi Anemia Pathway	3	0	[]	{'APITD1': 'CENPS', 'STRA13': 'CENPX', 'RPA1': 'POLR1A'}
+FasL/ CD95L signaling	0	0	[]	{}
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	0	0	[]	{}
+Fatty acid metabolism	3	1	['ACOT7L']	{'FAAH': 'FA2H', 'DBI': 'TSPO', 'SCD': 'SLC22A5'}
+Fatty acids	0	0	[]	{}
+Fatty acyl-CoA biosynthesis	1	0	[]	{'SCD': 'SLC22A5'}
+Fc epsilon receptor (FCERI) signaling	3	2	['IGHV', 'IGLV']	{'PAK1': 'PKN1', 'LAT2': 'SLC7A8', 'LAT': 'SPNS1'}
+Fcgamma receptor (FCGR) dependent phagocytosis	1	2	['IGHV', 'IGLV']	{'PAK1': 'PKN1'}
+Fertilization	0	0	[]	{}
+Fibronectin matrix formation	0	0	[]	{}
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	0	0	[]	{}
+Folding of actin by CCT/TriC	0	0	[]	{}
+Formation of ATP by chemiosmotic coupling	0	0	[]	{}
+Formation of Fibrin Clot (Clotting Cascade)	1	0	[]	{'F3': 'CNTN1'}
+Formation of HIV elongation complex in the absence of HIV Tat	0	0	[]	{}
+Formation of HIV-1 elongation complex containing HIV-1 Tat	0	1	['tat']	{}
+Formation of Incision Complex in GG-NER	1	0	[]	{'RPA1': 'POLR1A'}
+Formation of RNA Pol II elongation complex	1	0	[]	{'EAF2': 'DMAP1'}
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	0	0	[]	{}
+Formation of TC-NER Pre-Incision Complex	1	0	[]	{'ISY1': 'RAB43'}
+Formation of a pool of free 40S subunits	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Formation of annular gap junctions	0	0	[]	{}
+Formation of apoptosome	0	0	[]	{}
+Formation of editosomes by ADAR proteins	0	0	[]	{}
+Formation of the Early Elongation Complex	0	0	[]	{}
+Formation of the Editosome	0	0	[]	{}
+Formation of the HIV-1 Early Elongation Complex	0	0	[]	{}
+Formation of the active cofactor, UDP-glucuronate	0	0	[]	{}
+Formation of the beta-catenin:TCF transactivating complex	2	0	[]	{'H2AFX': 'H2AX', 'TCF4': 'TCF7L2'}
+Formation of the cornified envelope	1	0	[]	{'DSC3': 'DSC2'}
+Formation of the ternary complex, and subsequently, the 43S complex	0	1	['18S rRNA']	{}
+Formation of tubulin folding intermediates by CCT/TriC	0	0	[]	{}
+Formation of xylulose-5-phosphate	0	0	[]	{}
+Formyl peptide receptors bind formyl peptides and many other ligands	0	0	[]	{}
+Free fatty acid receptors	0	0	[]	{}
+Free fatty acids regulate insulin secretion	0	0	[]	{}
+Frs2-mediated activation	0	0	[]	{}
+Fructose biosynthesis	0	0	[]	{}
+Fructose catabolism	0	0	[]	{}
+Fructose metabolism	0	0	[]	{}
+Fusion and Uncoating of the Influenza Virion	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+Fusion of the Influenza Virion to the Host Cell Endosome	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+G alpha (12/13) signalling events	1	0	[]	{'NET1': 'SLC6A2'}
+G alpha (i) signalling events	7	0	[]	{'LRP1': 'C1D', 'PSAP': 'MTCH1', 'RBP2': 'RIMBP2', 'RGS13': 'RGS18', 'SAG': 'RNF7', 'CNR2': 'PCDHA6', 'RBP3': 'E2F1'}
+G alpha (q) signalling events	5	0	[]	{'TRPC7': 'TRPM2', 'GRP': 'LGALSL', 'HCRTR2': 'CD200R1', 'NMB': 'GPNMB', 'RGS13': 'RGS18'}
+G alpha (s) signalling events	8	0	[]	{'TAAR3': 'TAAR3P', 'OR8G2': 'OR8G2P', 'PTH2': 'PTENP1', 'HRH2': 'DHX15', 'OR2W5': 'OR2W5P', 'GIP': 'C1QTNF1', 'VIP': 'CPAMD8', 'OR5R1': 'OR8U3'}
+G alpha (z) signalling events	0	0	[]	{}
+G beta:gamma signalling through BTK	0	0	[]	{}
+G beta:gamma signalling through CDC42	1	0	[]	{'PAK1': 'PKN1'}
+G beta:gamma signalling through PI3Kgamma	0	0	[]	{}
+G beta:gamma signalling through PLC beta	0	0	[]	{}
+G protein gated Potassium channels	0	0	[]	{}
+G-protein activation	0	0	[]	{}
+G-protein beta:gamma signalling	1	0	[]	{'PAK1': 'PKN1'}
+G-protein mediated events	0	0	[]	{}
+G0 and Early G1	0	0	[]	{}
+G1 Phase	0	0	[]	{}
+G1/S DNA Damage Checkpoints	1	0	[]	{'RFWD2': 'COP1'}
+G1/S Transition	3	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'RPA1': 'POLR1A'}
+G1/S-Specific Transcription	1	0	[]	{'ORC1': 'SLC25A15'}
+G2 Phase	0	0	[]	{}
+G2/M Checkpoints	10	0	[]	{'ORC1': 'SLC25A15', 'RAD1': 'ERCC4', 'MCM2': 'MCM7', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'BRCC3': 'DEPDC1B'}
+G2/M DNA damage checkpoint	8	0	[]	{'RAD1': 'ERCC4', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'BRCC3': 'DEPDC1B'}
+G2/M DNA replication checkpoint	0	0	[]	{}
+G2/M Transition	0	0	[]	{}
+GAB1 signalosome	1	0	[]	{'PXN': 'PXDN'}
+GABA B receptor activation	0	0	[]	{}
+GABA receptor activation	0	0	[]	{}
+GABA synthesis	0	0	[]	{}
+GABA synthesis, release, reuptake and degradation	0	0	[]	{}
+GDP-fucose biosynthesis	0	0	[]	{}
+GLI proteins bind promoters of Hh responsive genes to promote transcription	0	0	[]	{}
+GLI3 is processed to GLI3R by the proteasome	0	0	[]	{}
+GP1b-IX-V activation signalling	0	0	[]	{}
+GPCR downstream signalling	21	0	[]	{'TAAR3': 'TAAR3P', 'TRPC7': 'TRPM2', 'LRP1': 'C1D', 'OR8G2': 'OR8G2P', 'NET1': 'SLC6A2', 'PSAP': 'MTCH1', 'PTH2': 'PTENP1', 'HRH2': 'DHX15', 'OR2W5': 'OR2W5P', 'GIP': 'C1QTNF1', 'RBP2': 'RIMBP2', 'HCRTR2': 'CD200R1', 'RGS13': 'RGS18', 'VIP': 'CPAMD8', 'SAG': 'RNF7', 'NMB': 'GPNMB', 'PAK1': 'PKN1', 'CNR2': 'PCDHA6', 'RBP3': 'E2F1', 'OR5R1': 'OR8U3', 'GRP': 'LGALSL'}
+GPCR ligand binding	12	0	[]	{'TAAR3': 'TAAR3P', 'PSAP': 'MTCH1', 'PTH2': 'PTENP1', 'HRH2': 'DHX15', 'GIP': 'C1QTNF1', 'HCRTR2': 'CD200R1', 'VIP': 'CPAMD8', 'NMB': 'GPNMB', 'CNR2': 'PCDHA6', 'SMO': 'SMOX', 'GRP': 'LGALSL', 'FZD3': 'FZD9'}
+GPVI-mediated activation cascade	1	1	['G6B']	{'LAT': 'SPNS1'}
+GRB2 events in EGFR signaling	0	0	[]	{}
+GRB2 events in ERBB2 signaling	0	0	[]	{}
+GRB2:SOS provides linkage to MAPK signaling for Integrins	0	0	[]	{}
+GRB7 events in ERBB2 signaling	0	0	[]	{}
+GTP hydrolysis and joining of the 60S ribosomal subunit	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Galactose catabolism	0	0	[]	{}
+Gamma carboxylation, hypusine formation and arylsulfatase activation	0	0	[]	{}
+Gamma-carboxylation of protein precursors	0	0	[]	{}
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	0	0	[]	{}
+Gap junction assembly	2	0	[]	{'GJC1': 'GJD3', 'GJA10': 'GJA9'}
+Gap junction degradation	0	0	[]	{}
+Gap junction trafficking	2	0	[]	{'GJC1': 'GJD3', 'GJA10': 'GJA9'}
+Gap junction trafficking and regulation	2	0	[]	{'GJC1': 'GJD3', 'GJA10': 'GJA9'}
+Gap-filling DNA repair synthesis and ligation in GG-NER	3	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Gap-filling DNA repair synthesis and ligation in TC-NER	4	0	[]	{'LIG1': 'LRIG1', 'ISY1': 'RAB43', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Gastrin-CREB signalling pathway via PKC and MAPK	0	0	[]	{}
+Gene Silencing by RNA	3	0	[]	{'POM121': 'POMZP3', 'FKBP6': 'FKBP10', 'H2AFX': 'H2AX'}
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	2	1	['HSP9']	{'AIP': 'AURKAIP1', 'LCP1': 'TOX4'}
+Gene expression (Transcription)	33	6	['5S rRNA', '5.8S rRNA', '28S rRNA', 'CSF2 gene', '45S pre-rRNA gene', '18S rRNA, 5.8S rRNA, 28S rRNA']	{'EAF2': 'DMAP1', 'CTGF': 'CCN2', 'VWA9': 'INTS14', 'POM121': 'POMZP3', 'SPP1': 'CXXC1', 'TTF1': 'NKX2-1', 'PVALB': 'MB', 'PTRF': 'CAVIN1', 'NBN': 'ARTN', 'MGA': 'MGAM', 'RPA1': 'POLR1A', 'RAD1': 'ERCC4', 'BDP1': 'PTPN18', 'HTT': 'SLC6A4', 'BRIP1': 'MRPL36', 'ZNF225': 'EGR1', 'RQCD1': 'CNOT9', 'G6PC': 'G6PC1', 'BRF2': 'ZFP36L2', 'BRF1': 'ZFP36L1', 'MIR378': 'MIR378A', 'GLS': 'GLS2', 'FKBP6': 'FKBP10', 'CPSF3L': 'INTS11', 'U2AF1L4': 'IGFLR1', 'RNU12': 'RNU12-2P', 'TMEM55B': 'PIP4P1', 'HKR1': 'ZNF875', 'TAF4B': 'PAPPA-AS1', 'ASUN': 'INTS13', 'H2AFX': 'H2AX', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1'}
+Generation of second messenger molecules	4	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'FYB': 'FYB1', 'LAT': 'SPNS1'}
+Generic Transcription Pathway	20	1	['CSF2 gene']	{'CTGF': 'CCN2', 'SPP1': 'CXXC1', 'PVALB': 'MB', 'NBN': 'ARTN', 'MGA': 'MGAM', 'RPA1': 'POLR1A', 'RAD1': 'ERCC4', 'HTT': 'SLC6A4', 'BRIP1': 'MRPL36', 'ZNF225': 'EGR1', 'RQCD1': 'CNOT9', 'G6PC': 'G6PC1', 'MIR378': 'MIR378A', 'GLS': 'GLS2', 'TMEM55B': 'PIP4P1', 'HKR1': 'ZNF875', 'TAF4B': 'PAPPA-AS1', 'H2AFX': 'H2AX', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1'}
+Global Genome Nucleotide Excision Repair (GG-NER)	3	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Glucagon signaling in metabolic regulation	0	0	[]	{}
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	0	0	[]	{}
+Glucagon-type ligand receptors	2	0	[]	{'GIP': 'C1QTNF1', 'VIP': 'CPAMD8'}
+Glucocorticoid biosynthesis	0	0	[]	{}
+Gluconeogenesis	5	0	[]	{'FBP2': 'KHSRP', 'PC': 'PODXL', 'GPI': 'GNPDA1', 'G6PC': 'G6PC1', 'PGAM1': 'PGAM4'}
+Glucose metabolism	11	0	[]	{'FBP2': 'KHSRP', 'GCK': 'MAP4K2', 'HK3': 'HOOK3', 'PGP': 'PGPEP1', 'HK2': 'HOOK2', 'HK1': 'HOOK1', 'GPI': 'GNPDA1', 'POM121': 'POMZP3', 'G6PC': 'G6PC1', 'PC': 'PODXL', 'PGAM1': 'PGAM4'}
+Glucuronidation	0	0	[]	{}
+Glutamate Neurotransmitter Release Cycle	1	0	[]	{'GLS': 'GLS2'}
+Glutamate and glutamine metabolism	2	0	[]	{'PYCRL': 'PYCR3', 'GLS': 'GLS2'}
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	0	0	[]	{}
+Glutathione conjugation	1	0	[]	{'GSS': 'PRNP'}
+Glutathione synthesis and recycling	1	0	[]	{'GSS': 'PRNP'}
+Glycerophospholipid biosynthesis	3	0	[]	{'CDS1': 'CHEK2', 'PISD': 'SFI1', 'TAZ': 'WWTR1'}
+Glycerophospholipid catabolism	0	0	[]	{}
+Glycine degradation	0	0	[]	{}
+Glycogen breakdown (glycogenolysis)	0	0	[]	{}
+Glycogen metabolism	0	0	[]	{}
+Glycogen storage disease type 0 (liver GYS2)	0	0	[]	{}
+Glycogen storage disease type 0 (muscle GYS1)	0	0	[]	{}
+Glycogen storage disease type II (GAA)	0	0	[]	{}
+Glycogen storage disease type IV (GBE1)	0	0	[]	{}
+Glycogen storage disease type Ia (G6PC)	1	0	[]	{'G6PC': 'G6PC1'}
+Glycogen storage disease type Ib (SLC37A4)	0	0	[]	{}
+Glycogen storage disease type XV (GYG1)	0	0	[]	{}
+Glycogen storage diseases	1	0	[]	{'G6PC': 'G6PC1'}
+Glycogen synthesis	0	0	[]	{}
+Glycolysis	8	0	[]	{'HK2': 'HOOK2', 'HK1': 'HOOK1', 'GPI': 'GNPDA1', 'POM121': 'POMZP3', 'GCK': 'MAP4K2', 'HK3': 'HOOK3', 'PGAM1': 'PGAM4', 'PGP': 'PGPEP1'}
+Glycoprotein hormones	0	0	[]	{}
+Glycosaminoglycan metabolism	1	0	[]	{'HAS1': 'HNF1A-AS1'}
+Glycosphingolipid metabolism	1	0	[]	{'PSAP': 'MTCH1'}
+Glyoxylate metabolism and glycine degradation	0	0	[]	{}
+Golgi Associated Vesicle Biogenesis	2	0	[]	{'NAPA': 'NAPSA', 'CPD': 'HOMER2'}
+Golgi Cisternae Pericentriolar Stack Reorganization	0	0	[]	{}
+Golgi-to-ER retrograde transport	3	0	[]	{'NAPB': 'NAPSB', 'NAPA': 'NAPSA', 'ARFGAP1': 'ARFGAP3'}
+Growth hormone receptor signaling	0	0	[]	{}
+HATs acetylate histones	1	0	[]	{'IKBKAP': 'ELP1'}
+HCMV Early Events	9	92	['US17', 'US19', 'UL23', 'UL25', 'UL32', 'UL74', 'UL4', 'US2', 'US26', 'US34', 'UL132', 'UL124', 'US24', 'US23', 'gL', 'UL131A', 'UL43', 'UL99', 'UL138', 'UL76', 'US20', 'US30', 'UL123', 'RL10', 'US33A', 'UL122', 'gN', 'US10', 'UL79', 'RL1', 'UL104', 'US18', 'US34A', 'US3', 'UL130', 'RIR1', 'UL35', 'UL17', 'US16', 'UL11', 'UL96', 'US28', 'US27', 'UL111A', 'US9', 'UL27', 'UL21A', 'UL103', 'UL112/UL113', 'UL36', 'US22', 'HELI', 'UL38', 'UL114', 'UL83', 'UL88', 'UL97', 'UL37', 'UL16', 'UL98', 'gB', 'UL47', 'UL5', 'gM', 'US12', 'RL11', 'UL82', 'US14', 'UL54', 'RNA4.9', 'CVC2', 'UL71', 'UL48', 'UL94', 'UL44', 'US8', 'gH', 'UL102', 'UL13', 'UL133', 'CVC1', 'US11', 'UL84', 'US13', 'UL95', 'UL24', 'UL119/UL118', 'UL34', 'UL69', 'Hh5 strain Merlin complete genome', 'UL78', 'UL26']	{'SCP': 'SLC50A1', 'MCP': 'CAPG', 'TRX1': 'KMT2A', 'DBP': 'GC', 'POM121': 'POMZP3', 'TRX2': 'KMT2B', 'NEC2': 'PCSK2', 'NEC1': 'PCSK1', 'TRS1': 'TRS-TGA2-1'}
+HCMV Infection	12	119	['US17', 'US19', 'UL23', 'UL25', 'UL32', 'UL74', 'UL4', 'US2', 'US26', 'US34', 'UL132', 'UL52', 'UL124', 'US24', 'US23', 'gL', 'UL131A', 'UL147', 'UL43', 'UL99', 'UL138', 'UL144', 'RL8A', 'UL92', 'UL76', 'US20', 'US30', 'UL123', 'UL117', 'RL10', 'US33A', 'UL121', 'UL146', 'UL122', 'gN', 'UL87', 'US10', 'UL2', 'RL1', 'UL22A', 'UL79', 'UL104', 'US18', 'US34A', 'UL120', 'US3', 'UL130', 'RIR1', 'UL35', 'UL29', 'UL17', 'US16', 'UL11', 'UL31', 'UL96', 'US28', 'UL14', 'UL91', 'US27', 'RL9A', 'UL111A', 'US9', 'UL27', 'UL21A', 'UL103', 'UL112/UL113', 'UL147A', 'UL36', 'US22', 'UL148', 'HELI', 'US32', 'UL38', 'UL114', 'UL83', 'UL88', 'UL97', 'UL9', 'UL37', 'UL16', 'UL98', 'gB', 'UL47', 'UL5', 'gM', 'US12', 'RL11', 'UL82', 'US14', 'UL54', 'RNA4.9', 'CVC2', 'UL71', 'UL48', 'UL94', 'UL44', 'US8', 'UL102', 'gH', 'UL13', 'UL133', 'CVC1', 'UL80', 'US11', 'UL84', 'US13', 'UL15A', 'UL41A', 'UL95', 'UL70', 'UL24', 'UL119/UL118', 'UL34', 'UL69', 'UL18', 'Hh5 strain Merlin complete genome', 'UL7', 'UL78', 'UL26']	{'SCP': 'SLC50A1', 'MCP': 'CAPG', 'TRX1': 'KMT2A', 'DBP': 'GC', 'POM121': 'POMZP3', 'TRX2': 'KMT2B', 'TRM2': 'TRX-CAT1-2', 'TRM1': 'TRMT1', 'NEC2': 'PCSK2', 'NEC1': 'PCSK1', 'TRM3': 'TARBP1', 'TRS1': 'TRS-TGA2-1'}
+HCMV Late Events	12	77	['UL23', 'UL25', 'UL32', 'UL74', 'UL132', 'UL52', 'US23', 'gL', 'UL131A', 'UL147', 'UL43', 'UL99', 'UL144', 'RL8A', 'UL92', 'UL76', 'UL117', 'UL121', 'UL146', 'UL122', 'gN', 'UL87', 'UL2', 'UL22A', 'UL79', 'UL104', 'UL120', 'UL130', 'RIR1', 'UL35', 'UL29', 'UL96', 'UL31', 'UL14', 'UL91', 'RL9A', 'UL111A', 'UL103', 'UL112/UL113', 'UL147A', 'UL36', 'US22', 'UL148', 'HELI', 'US32', 'UL38', 'UL83', 'UL88', 'UL97', 'UL9', 'gB', 'UL47', 'gM', 'RL11', 'UL82', 'UL54', 'RNA4.9', 'CVC2', 'UL71', 'UL48', 'UL94', 'UL44', 'gH', 'UL102', 'CVC1', 'UL80', 'UL84', 'UL15A', 'UL41A', 'UL95', 'UL70', 'UL24', 'UL69', 'UL18', 'Hh5 strain Merlin complete genome', 'UL7', 'UL26']	{'SCP': 'SLC50A1', 'MCP': 'CAPG', 'TRX1': 'KMT2A', 'DBP': 'GC', 'POM121': 'POMZP3', 'TRX2': 'KMT2B', 'TRM2': 'TRX-CAT1-2', 'TRM1': 'TRMT1', 'NEC2': 'PCSK2', 'NEC1': 'PCSK1', 'TRM3': 'TARBP1', 'TRS1': 'TRS-TGA2-1'}
+HCN channels	0	0	[]	{}
+HDACs deacetylate histones	1	0	[]	{'BRMS1': 'BRMS1L'}
+HDL assembly	0	0	[]	{}
+HDL clearance	0	0	[]	{}
+HDL remodeling	1	0	[]	{'ALB': 'FBF1'}
+HDMs demethylate histones	1	0	[]	{'MINA': 'RIOX2'}
+HDR through Homologous Recombination (HRR)	5	0	[]	{'BRIP1': 'MRPL36', 'POLK': 'TENT4A', 'RAD1': 'ERCC4', 'RPA1': 'POLR1A', 'NBN': 'ARTN'}
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	9	0	[]	{'RAD1': 'ERCC4', 'BRCC3': 'DEPDC1B', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+HDR through MMEJ (alt-NHEJ)	1	0	[]	{'NBN': 'ARTN'}
+HDR through Single Strand Annealing (SSA)	4	0	[]	{'BRIP1': 'MRPL36', 'RAD1': 'ERCC4', 'RPA1': 'POLR1A', 'NBN': 'ARTN'}
+HHAT G278V doesn't palmitoylate Hh-Np	0	0	[]	{}
+HIV Infection	3	9	['rev', 'env', 'tat', 'gag', 'vpr', 'nef', 'vpu', 'gag-pol', 'vif']	{'LIG1': 'LRIG1', 'POM121': 'POMZP3', 'TAF4B': 'PAPPA-AS1'}
+HIV Life Cycle	3	9	['rev', 'env', 'tat', 'gag', 'vpr', 'nef', 'vpu', 'gag-pol', 'vif']	{'LIG1': 'LRIG1', 'POM121': 'POMZP3', 'TAF4B': 'PAPPA-AS1'}
+HIV Transcription Elongation	0	1	['tat']	{}
+HIV Transcription Initiation	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+HIV elongation arrest and recovery	0	0	[]	{}
+HS-GAG biosynthesis	0	0	[]	{}
+HS-GAG degradation	0	0	[]	{}
+HSF1 activation	1	1	['HSBP2']	{'RPA1': 'POLR1A'}
+HSF1-dependent transactivation	0	1	['HSBP2']	{}
+HSP90 chaperone cycle for steroid hormone receptors (SHR)	0	0	[]	{}
+Hedgehog 'off' state	1	0	[]	{'SMO': 'SMOX'}
+Hedgehog 'on' state	1	0	[]	{'SMO': 'SMOX'}
+Hedgehog ligand biogenesis	0	0	[]	{}
+Heme biosynthesis	1	0	[]	{'ALB': 'FBF1'}
+Heme degradation	1	0	[]	{'ALB': 'FBF1'}
+Hemostasis	16	18	['IGHV', 'opaK', 'opaJ', 'opaA', 'opaH', 'opaD', 'opaE', 'eba1', 'opaB', 'opaI', 'eba-140', 'opaF', 'IGLV', 'ebl-1', 'opaC', 'G6B', 'opaG', 'piiC']	{'TRPC7': 'TRPM2', 'SCG3': 'SGCG', 'PSAP': 'MTCH1', 'NOS1': 'NANOS1', 'SELP': 'SELENOP', 'SPN': 'DEAF1', 'ALB': 'FBF1', 'SPP2': 'SGPP2', 'ATP2B2': 'ATP2B4', 'HRG': 'NRG1', 'GUCY1A3': 'GUCY1A1', 'GUCY1B3': 'GUCY1B1', 'F3': 'CNTN1', 'NOS3': 'NANOS3', 'LAT': 'SPNS1', 'PSG11': 'PSG9'}
+Heparan sulfate/heparin (HS-GAG) metabolism	0	0	[]	{}
+Hereditary fructose intolerance	0	0	[]	{}
+Hh mutants abrogate ligand secretion	0	0	[]	{}
+Hh mutants are degraded by ERAD	0	0	[]	{}
+Highly calcium permeable nicotinic acetylcholine receptors	0	0	[]	{}
+Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	0	0	[]	{}
+Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	0	0	[]	{}
+Histamine receptors	1	0	[]	{'HRH2': 'DHX15'}
+Histidine catabolism	0	0	[]	{}
+Homologous DNA Pairing and Strand Exchange	4	0	[]	{'BRIP1': 'MRPL36', 'RAD1': 'ERCC4', 'RPA1': 'POLR1A', 'NBN': 'ARTN'}
+Homology Directed Repair	9	0	[]	{'RAD1': 'ERCC4', 'BRCC3': 'DEPDC1B', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Hormone ligand-binding receptors	0	0	[]	{}
+Host Interactions of HIV factors	1	8	['rev', 'tat', 'gag', 'vpr', 'nef', 'vpu', 'gag-pol', 'vif']	{'POM121': 'POMZP3'}
+HuR (ELAVL1) binds and stabilizes mRNA	0	0	[]	{}
+Hyaluronan biosynthesis and export	1	0	[]	{'HAS1': 'HNF1A-AS1'}
+Hyaluronan metabolism	1	0	[]	{'HAS1': 'HNF1A-AS1'}
+Hyaluronan uptake and degradation	0	0	[]	{}
+Hydrolysis of LPC	0	0	[]	{}
+Hydrolysis of LPE	0	0	[]	{}
+Hydroxycarboxylic acid-binding receptors	0	0	[]	{}
+Hypusine synthesis from eIF5A-lysine	0	0	[]	{}
+IGF1R signaling cascade	1	0	[]	{'FGF2': 'FGF13'}
+IKBKB deficiency causes SCID	0	0	[]	{}
+IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)	0	0	[]	{}
+IKK complex recruitment mediated by RIP1	0	0	[]	{}
+IL-6-type cytokine receptor ligand interactions	1	0	[]	{'OSM': 'CCM2'}
+IRAK1 recruits IKK complex	0	0	[]	{}
+IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	0	0	[]	{}
+IRAK2 mediated activation of TAK1 complex	0	0	[]	{}
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	0	0	[]	{}
+IRAK4 deficiency (TLR2/4)	0	2	['mip', 'porB']	{}
+IRAK4 deficiency (TLR5)	0	1	['fliC']	{}
+IRE1alpha activates chaperones	3	2	['FKBP14 gene', 'ATPV0D1']	{'C19orf10': 'MYDGF', 'SRPR': 'SRPRA', 'ARFGAP1': 'ARFGAP3'}
+IRF3 mediated activation of type 1 IFN	0	0	[]	{}
+IRF3-mediated induction of type I IFN	0	0	[]	{}
+IRS activation	0	0	[]	{}
+IRS-mediated signalling	1	0	[]	{'FGF2': 'FGF13'}
+IRS-related events triggered by IGF1R	1	0	[]	{'FGF2': 'FGF13'}
+ISG15 antiviral mechanism	3	1	['gag']	{'KPNA7': 'KPNA6', 'POM121': 'POMZP3', 'NS': 'GNL3'}
+IkBA variant leads to EDA-ID	0	0	[]	{}
+Imatinib-resistant KIT mutants	0	0	[]	{}
+Imatinib-resistant PDGFR mutants	0	0	[]	{}
+Immune System	43	16	['VP3', 'gag', 'fliC', 'UL83', 'HA', 'CSF2 gene', 'cd21', 'IGLV', 'env', 'prgJ', 'hly', 'HSP9', 'mip', 'IGHV', 'fljB', 'porB']	{'POM121': 'POMZP3', 'PARK2': 'PRKN', 'NOS1': 'NANOS1', 'TNFRSF11B': 'BTF3P11', 'HK3': 'HOOK3', 'PLAC8': 'LGALS13', 'FABP5': 'FABP5P1', 'CPN2': 'CYP11B2', 'RILP': 'PRICKLE1', 'PAK1': 'PKN1', 'NOS3': 'NANOS3', 'IL27': 'IL17D', 'OSM': 'CCM2', 'HMHA1': 'ARHGAP45', 'MMTAG2': 'C1orf35', 'TAP2': 'SEC14L3', 'PSAP': 'MTCH1', 'CDH1': 'FZR1', 'PAK3': 'ARHGEF7', 'IL8': 'CXCL8', 'SSA2': 'RO60', 'NS': 'GNL3', 'HN': 'MT-RNR2', 'DEFA3': 'DEFA1A3', 'PGAM1': 'PGAM4', 'FGF2': 'FGF13', 'CECR1': 'ADA2', 'HLA-H': 'HFE', 'VPRBP': 'DCAF1', 'LCP1': 'TOX4', 'LAT2': 'SLC7A8', 'SSA1': 'TRIM21', 'LAT': 'SPNS1', 'VAT1': 'SLC18A1', 'AIP': 'AURKAIP1', 'FYB': 'FYB1', 'KPNA7': 'KPNA6', 'TRAF2': 'TANK', 'DEFB131': 'DEFB131A', 'BRI3': 'ITM2C', 'TNFSF6': 'FASLG', 'DEFB108P1': 'DEFB108A', 'GPI': 'GNPDA1'}
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	3	5	['IGHV', 'cd21', 'HA', 'UL83', 'IGLV']	{'HLA-H': 'HFE', 'HN': 'MT-RNR2', 'CDH1': 'FZR1'}
+Inactivation of APC/C via direct inhibition of the APC/C complex	0	0	[]	{}
+Inactivation of CDC42 and RAC1	0	0	[]	{}
+Inactivation, recovery and regulation of the phototransduction cascade	1	0	[]	{'SAG': 'RNF7'}
+Incretin synthesis, secretion, and inactivation	2	0	[]	{'GRP': 'LGALSL', 'GIP': 'C1QTNF1'}
+Infection with Mycobacterium tuberculosis	0	55	['secA1', 'PPE2', 'Rv2779c', 'Rv1281c', 'sapM', 'Rv1410c', 'secG', 'lpdC', 'dlaT', 'sodC', 'Rv2238c', 'pstS1', 'secF', 'secY', 'rpoZ', 'lprG', 'Rv3655c', 'lprM', 'rpoB', 'Rv3654c', 'trxB', 'Rv3364c', 'secE', 'ahpC', 'esxG', 'Rv2895c', 'secD', 'msrA', 'bfrB', 'ggtA', 'ptpA', 'Rv1282c', 'cpnT', 'Rv1280c', 'ahpD', 'rpoC', 'esxA', 'tpx', 'sodB', 'rpoA', 'irtA', 'irtB', 'bfr', 'secA2', 'ndkA', 'trx-2', 'katG', 'esxH', 'fgd1', 'eis', 'trxA', 'adhE2', 'MT2748', 'Rv1283c', 'glbN']	{}
+Infectious disease	31	222	['rev', 'Rv2779c', 'UL23', 'UL25', 'UL32', 'US2', 'Rv1281c', 'US26', 'sapM', 'tat', 'Rv1410c', 'IGHV', 'gL', 'secG', 'UL43', 'UL144', 'UL138', 'sodC', 'UL76', 'Rv2238c', 'gag', 'rpoA', 'US3', 'UL130', 'US16', 'UL96', 'secE', '7a', 'nef', 'E', 'secD', 'pp1a', '5S rRNA', 'UL147A', 'UL38', 'UL83', 'UL88', 'irtA', '5.8S rRNA', 'UL82', 'US14', 'irtB', 'bfr', 'US11', 'UL84', 'eis', 'UL15A', 'MT2748', 'Rv1283c', 'UL18', 'UL78', 'US17', 'M', 'UL74', 'env', 'UL132', 'UL124', 'UL131A', 'NS5B', 'lpdC', 'dlaT', 'RL8A', 'UL92', 'UL117', '18S rRNA', 'UL87', 'US10', 'RL1', 'cya', 'UL104', 'US34A', 'Rv3655c', 'lprM', 'PB2', 'LPG1G2', 'ha17', 'US28', 'RL9A', 'Rv2895c', 'UL27', 'UL21A', 'UL103', 'UL112/UL113', 'Rv1282c', 'US22', 'cpnT', 'Rv1280c', 'sta1', 'N', 'UL47', 'UL98', 'UL5', 'gB', '28S rRNA', 'secA2', 'RNA4.9', 'vif', 'CVC2', 'ndkA', 'UL71', 'UL48', 'UL94', 'UL44', 'UL13', 'UL133', 'UL80', 'SARS coronavirus, complete genome', 'esxH', 'UL95', 'secA1', 'UL4', 'US34', 'ha70', 'US24', 'US23', 'S', 'UL22A', 'US30', 'RL10', 'UL123', 'US33A', 'vpr', 'UL146', 'pagA', 'secY', 'US18', 'UL120', 'lprG', 'UL35', 'UL29', 'UL17', 'UL31', 'Rv3654c', 'trxB', 'Rv3364c', 'UL14', 'UL91', 'esxG', 'UL111A', 'HA', 'msrA', 'ntnha', 'UL26', 'ggtA', 'ptpA', 'UL148', 'botD', 'esxA', 'rpoC', 'US32', 'sodB', 'UL114', 'UL9', 'US12', 'gM', 'RL11', 'vpu', 'UL54', 'trx-2', 'US8', '9b', '8b', 'fgd1', 'trxA', 'IGLV', 'UL41A', 'UL70', 'botB', 'adhE2', 'UL37', 'glbN', 'PPE2', 'US19', 'UL52', 'UL147', 'UL99', 'botG', 'US20', 'UL121', 'pstS1', 'UL122', 'gN', 'secF', 'rep', 'UL2', 'UL79', 'rpoZ', 'RIR1', 'rpoB', 'tetX', 'botA', 'UL11', 'lef', 'US27', 'HA-33', 'ahpC', 'US9', '3a', 'bfrB', 'UL36', 'inlA', 'ahpD', 'HELI', 'tpx', 'UL97', 'botE', 'UL16', 'botF', 'gag-pol', 'inlB', 'gH', 'UL102', 'CVC1', 'katG', 'US13', 'UL119/UL118', 'UL24', 'UL34', 'UL69', 'Hh5 strain Merlin complete genome', 'UL7', '1a']	{'TAAR3': 'TAAR3P', 'POM121': 'POMZP3', 'BRMS1': 'BRMS1L', 'RPL36A': 'RPL36AL', 'TAF4B': 'PAPPA-AS1', 'TRS1': 'TRS-TGA2-1', 'PTH2': 'PTENP1', 'SCP': 'SLC50A1', 'MGAT2': 'MOGAT2', 'HRH2': 'DHX15', 'RPL13': 'MRPL13', 'GIP': 'C1QTNF1', 'KPNA7': 'KPNA6', 'TRX1': 'KMT2A', 'NP': 'CTF2P', 'CDH1': 'FZR1', 'TRM1': 'TRMT1', 'NEC2': 'PCSK2', 'TRM3': 'TARBP1', 'MCP': 'CAPG', 'VIP': 'CPAMD8', 'DBP': 'GC', 'LIG1': 'LRIG1', 'TRX2': 'KMT2B', 'TRM2': 'TRX-CAT1-2', 'PB1': 'PBRM1', 'NS': 'GNL3', 'PA': 'EPB42', 'RPL10': 'RPL15', 'NA': 'XK', 'NEC1': 'PCSK1'}
+Inflammasomes	0	4	['fliC', 'fljB', 'prgJ', 'hly']	{}
+Influenza Infection	10	7	['M', '18S rRNA', 'PB2', 'HA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'PA': 'EPB42', 'RPL13': 'MRPL13', 'KPNA7': 'KPNA6', 'POM121': 'POMZP3', 'RPL10': 'RPL15', 'NP': 'CTF2P', 'NA': 'XK', 'PB1': 'PBRM1', 'NS': 'GNL3', 'RPL36A': 'RPL36AL'}
+Influenza Viral RNA Transcription and Replication	9	7	['M', '18S rRNA', 'PB2', 'HA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'PA': 'EPB42', 'RPL13': 'MRPL13', 'POM121': 'POMZP3', 'RPL10': 'RPL15', 'NP': 'CTF2P', 'NA': 'XK', 'PB1': 'PBRM1', 'NS': 'GNL3', 'RPL36A': 'RPL36AL'}
+Influenza Virus Induced Apoptosis	2	0	[]	{'PB1': 'PBRM1', 'NA': 'XK'}
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	0	0	[]	{}
+Inhibition of DNA recombination at telomere	1	0	[]	{'H2AFX': 'H2AX'}
+Inhibition of Host mRNA Processing and RNA Silencing	1	0	[]	{'NS': 'GNL3'}
+Inhibition of IFN-beta	1	0	[]	{'NS': 'GNL3'}
+Inhibition of Interferon Synthesis	1	0	[]	{'NS': 'GNL3'}
+Inhibition of PKR	1	0	[]	{'NS': 'GNL3'}
+Inhibition of Signaling by Overexpressed EGFR	0	0	[]	{}
+Inhibition of TSC complex formation by PKB	0	0	[]	{}
+Inhibition of membrane repair	0	2	['esxG', 'esxH']	{}
+Inhibition of nitric oxide production	0	1	['PPE2']	{}
+Inhibition of replication initiation of damaged DNA by RB1/E2F1	0	0	[]	{}
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	0	0	[]	{}
+Initial triggering of complement	0	2	['IGHV', 'IGLV']	{}
+Initiation of Nuclear Envelope (NE) Reformation	0	0	[]	{}
+InlA-mediated entry of Listeria monocytogenes into host cells	1	1	['inlA']	{'CDH1': 'FZR1'}
+InlB-mediated entry of Listeria monocytogenes into host cell	0	1	['inlB']	{}
+Innate Immune System	25	9	['IGHV', 'fljB', 'fliC', 'porB', 'env', 'prgJ', 'hly', 'IGLV', 'mip']	{'HMHA1': 'ARHGAP45', 'DEFA3': 'DEFA1A3', 'MMTAG2': 'C1orf35', 'VAT1': 'SLC18A1', 'PGAM1': 'PGAM4', 'PSAP': 'MTCH1', 'NOS1': 'NANOS1', 'HK3': 'HOOK3', 'CECR1': 'ADA2', 'PLAC8': 'LGALS13', 'FABP5': 'FABP5P1', 'CPN2': 'CYP11B2', 'TRAF2': 'TANK', 'PAK3': 'ARHGEF7', 'HLA-H': 'HFE', 'DEFB131': 'DEFB131A', 'BRI3': 'ITM2C', 'SSA2': 'RO60', 'DEFB108P1': 'DEFB108A', 'PAK1': 'PKN1', 'LAT2': 'SLC7A8', 'SSA1': 'TRIM21', 'GPI': 'GNPDA1', 'NOS3': 'NANOS3', 'LAT': 'SPNS1'}
+Inositol phosphate metabolism	0	0	[]	{}
+Inositol transporters	0	0	[]	{}
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	0	0	[]	{}
+Insulin effects increased synthesis of Xylulose-5-Phosphate	0	0	[]	{}
+Insulin processing	0	0	[]	{}
+Insulin receptor recycling	0	0	[]	{}
+Insulin receptor signalling cascade	1	0	[]	{'FGF2': 'FGF13'}
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA	0	0	[]	{}
+Integration of energy metabolism	0	0	[]	{}
+Integration of provirus	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Integration of viral DNA into host genomic DNA	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Integrin cell surface interactions	2	0	[]	{'SPP1': 'CXXC1', 'CDH1': 'FZR1'}
+Integrin signaling	0	0	[]	{}
+Interaction With Cumulus Cells And The Zona Pellucida	0	0	[]	{}
+Interaction between L1 and Ankyrins	0	0	[]	{}
+Interaction between PHLDA1 and AURKA	0	0	[]	{}
+Interactions of Rev with host cellular proteins	1	1	['rev']	{'POM121': 'POMZP3'}
+Interactions of Tat with host cellular proteins	0	1	['tat']	{}
+Interactions of Vpr with host cellular proteins	1	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{'POM121': 'POMZP3'}
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	0	0	[]	{}
+Interconversion of nucleotide di- and triphosphates	2	0	[]	{'NME1': 'RMRP', 'AK6': 'AK3'}
+Interconversion of polyamines	0	0	[]	{}
+Interferon Signaling	4	2	['VP3', 'gag']	{'HLA-H': 'HFE', 'KPNA7': 'KPNA6', 'POM121': 'POMZP3', 'NS': 'GNL3'}
+Interferon alpha/beta signaling	1	0	[]	{'HLA-H': 'HFE'}
+Interferon gamma signaling	1	0	[]	{'HLA-H': 'HFE'}
+Interleukin receptor SHC signaling	0	0	[]	{}
+Interleukin-1 family signaling	0	0	[]	{}
+Interleukin-1 processing	0	0	[]	{}
+Interleukin-1 signaling	0	0	[]	{}
+Interleukin-10 signaling	1	1	['CSF2 gene']	{'IL8': 'CXCL8'}
+Interleukin-12 family signaling	3	1	['HSP9']	{'AIP': 'AURKAIP1', 'IL27': 'IL17D', 'LCP1': 'TOX4'}
+Interleukin-12 signaling	2	1	['HSP9']	{'AIP': 'AURKAIP1', 'LCP1': 'TOX4'}
+Interleukin-15 signaling	0	0	[]	{}
+Interleukin-17 signaling	0	0	[]	{}
+Interleukin-18 signaling	0	0	[]	{}
+Interleukin-2 family signaling	0	0	[]	{}
+Interleukin-2 signaling	0	0	[]	{}
+Interleukin-20 family signaling	0	0	[]	{}
+Interleukin-21 signaling	0	0	[]	{}
+Interleukin-23 signaling	0	0	[]	{}
+Interleukin-27 signaling	1	0	[]	{'IL27': 'IL17D'}
+Interleukin-3, Interleukin-5 and GM-CSF signaling	0	0	[]	{}
+Interleukin-33 signaling	0	0	[]	{}
+Interleukin-35 Signalling	0	0	[]	{}
+Interleukin-36 pathway	0	0	[]	{}
+Interleukin-37 signaling	0	0	[]	{}
+Interleukin-38 signaling	0	0	[]	{}
+Interleukin-4 and Interleukin-13 signaling	3	0	[]	{'OSM': 'CCM2', 'IL8': 'CXCL8', 'FGF2': 'FGF13'}
+Interleukin-6 family signaling	1	0	[]	{'OSM': 'CCM2'}
+Interleukin-6 signaling	0	0	[]	{}
+Interleukin-7 signaling	0	0	[]	{}
+Interleukin-9 signaling	0	0	[]	{}
+Intestinal absorption	0	0	[]	{}
+Intestinal hexose absorption	0	0	[]	{}
+Intestinal infectious diseases	0	1	['sta1']	{}
+Intestinal lipid absorption	0	0	[]	{}
+Intestinal saccharidase deficiencies	1	0	[]	{'SI': 'PMEL'}
+Intra-Golgi and retrograde Golgi-to-ER traffic	4	0	[]	{'NAPB': 'NAPSB', 'RGP1': 'RGPD1', 'NAPA': 'NAPSA', 'ARFGAP1': 'ARFGAP3'}
+Intra-Golgi traffic	3	0	[]	{'NAPA': 'NAPSA', 'NAPB': 'NAPSB', 'RGP1': 'RGPD1'}
+Intracellular metabolism of fatty acids regulates insulin secretion	0	0	[]	{}
+Intracellular oxygen transport	0	0	[]	{}
+Intracellular signaling by second messengers	1	0	[]	{'FGF2': 'FGF13'}
+Intraflagellar transport	3	0	[]	{'TCTEX1D2': 'DYNLT2B', 'TCTEX1D1': 'DYNLT5', 'TCTE3': 'DYNLT2'}
+Intrinsic Pathway for Apoptosis	0	0	[]	{}
+Intrinsic Pathway of Fibrin Clot Formation	0	0	[]	{}
+Invadopodia formation	0	0	[]	{}
+Inwardly rectifying K+ channels	0	0	[]	{}
+Ion channel transport	3	0	[]	{'SGK2': 'SGK3', 'TRPC7': 'TRPM2', 'ATP2B2': 'ATP2B4'}
+Ion homeostasis	2	0	[]	{'NOS1': 'NANOS1', 'ATP2B2': 'ATP2B4'}
+Ion influx/efflux at host-pathogen interface	0	0	[]	{}
+Ion transport by P-type ATPases	1	0	[]	{'ATP2B2': 'ATP2B4'}
+Ionotropic activity of kainate receptors	2	0	[]	{'GRIK2': 'GRIK5', 'DLG3': 'MPP3'}
+Iron uptake and transport	0	0	[]	{}
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	0	0	[]	{}
+Josephin domain DUBs	1	0	[]	{'PARK2': 'PRKN'}
+KIT mutants bind TKIs	0	0	[]	{}
+KSRP (KHSRP) binds and destabilizes mRNA	0	0	[]	{}
+KW2449-resistant FLT3 mutants	0	0	[]	{}
+Keratan sulfate biosynthesis	0	0	[]	{}
+Keratan sulfate degradation	0	0	[]	{}
+Keratan sulfate/keratin metabolism	0	0	[]	{}
+Keratinization	5	0	[]	{'KRTAP5-1': 'KRTAP5-9', 'KRTAP5-3': 'KRTAP5-7', 'KRTAP5-6': 'KRTAP5-11', 'DSC3': 'DSC2', 'KRTAP5-8': 'KRTAP5-2'}
+Ketone body metabolism	0	0	[]	{}
+Killing mechanisms	0	0	[]	{}
+Kinesins	0	0	[]	{}
+L13a-mediated translational silencing of Ceruloplasmin expression	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+L1CAM interactions	2	0	[]	{'PAK1': 'PKN1', 'DLG3': 'MPP3'}
+LDL clearance	0	0	[]	{}
+LDL remodeling	0	0	[]	{}
+LGI-ADAM interactions	0	0	[]	{}
+LGK974 inhibits PORCN	0	0	[]	{}
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	0	0	[]	{}
+LTC4-CYSLTR mediated IL4 production	0	0	[]	{}
+Lactose synthesis	0	0	[]	{}
+Lagging Strand Synthesis	2	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Laminin interactions	2	0	[]	{'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1'}
+Late Phase of HIV Life Cycle	2	9	['rev', 'env', 'tat', 'gag', 'vpr', 'nef', 'vpu', 'gag-pol', 'vif']	{'POM121': 'POMZP3', 'TAF4B': 'PAPPA-AS1'}
+Late endosomal microautophagy	0	0	[]	{}
+Latent infection - Other responses of Mtb to phagocytosis	0	34	['bfr', 'secA1', 'secA2', 'secD', 'secF', 'msrA', 'secY', 'trx-2', 'bfrB', 'ggtA', 'Rv1281c', 'Rv1282c', 'Rv1280c', 'ahpD', 'katG', 'fgd1', 'tpx', 'secG', 'sodB', 'trxB', 'secE', 'trxA', 'lpdC', 'dlaT', 'irtA', 'ahpC', 'sodC', 'adhE2', 'Rv2238c', 'MT2748', 'Rv1283c', 'irtB', 'Rv2895c', 'glbN']	{}
+Leading Strand Synthesis	0	0	[]	{}
+Lectin pathway of complement activation	0	0	[]	{}
+Leishmania infection	5	3	['IGHV', 'LPG1G2', 'IGLV']	{'TAAR3': 'TAAR3P', 'PTH2': 'PTENP1', 'HRH2': 'DHX15', 'GIP': 'C1QTNF1', 'VIP': 'CPAMD8'}
+Leishmania parasite growth and survival	5	3	['IGHV', 'LPG1G2', 'IGLV']	{'HRH2': 'DHX15', 'VIP': 'CPAMD8', 'TAAR3': 'TAAR3P', 'GIP': 'C1QTNF1', 'PTH2': 'PTENP1'}
+Leishmania phagocytosis	0	3	['IGHV', 'LPG1G2', 'IGLV']	{}
+Leukotriene receptors	0	0	[]	{}
+Lewis blood group biosynthesis	0	0	[]	{}
+Ligand-receptor interactions	0	0	[]	{}
+Linoleic acid (LA) metabolism	0	0	[]	{}
+Lipid particle organization	0	0	[]	{}
+Lipophagy	0	0	[]	{}
+Listeria monocytogenes entry into host cells	1	2	['inlB', 'inlA']	{'CDH1': 'FZR1'}
+Localization of the PINCH-ILK-PARVIN complex to focal adhesions	1	0	[]	{'PXN': 'PXDN'}
+Long-term potentiation	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling	0	0	[]	{}
+Loss of Function of SMAD2/3 in Cancer	0	0	[]	{}
+Loss of Function of SMAD4 in Cancer	0	0	[]	{}
+Loss of Function of TGFBR1 in Cancer	0	0	[]	{}
+Loss of Function of TGFBR2 in Cancer	0	0	[]	{}
+Loss of MECP2 binding ability to 5hmC-DNA	0	0	[]	{}
+Loss of MECP2 binding ability to 5mC-DNA	0	0	[]	{}
+Loss of MECP2 binding ability to the NCoR/SMRT complex	0	0	[]	{}
+Loss of Nlp from mitotic centrosomes	0	0	[]	{}
+Loss of function of MECP2 in Rett syndrome	0	0	[]	{}
+Loss of phosphorylation of MECP2 at T308	0	0	[]	{}
+Loss of proteins required for interphase microtubule organization from the centrosome	0	0	[]	{}
+Lysine catabolism	0	0	[]	{}
+Lysosomal oligosaccharide catabolism	0	0	[]	{}
+Lysosome Vesicle Biogenesis	0	0	[]	{}
+Lysosphingolipid and LPA receptors	0	0	[]	{}
+M Phase	4	0	[]	{'POM121': 'POMZP3', 'APITD1': 'CENPS', 'H2AFX': 'H2AX', 'CENPC': 'CENPCP1'}
+MAP kinase activation	0	0	[]	{}
+MAP2K and MAPK activation	1	0	[]	{'KSR2': 'CNKSR2'}
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	0	0	[]	{}
+MAPK family signaling cascades	8	1	['MAPK6 gene']	{'DUSP1': 'DUSP12', 'DLG3': 'MPP3', 'KSR2': 'CNKSR2', 'FGF2': 'FGF13', 'PAK3': 'ARHGEF7', 'GRIN1': 'GPRIN1', 'PAK1': 'PKN1', 'LAT': 'SPNS1'}
+MAPK targets/ Nuclear events mediated by MAP kinases	0	0	[]	{}
+MAPK1 (ERK2) activation	0	0	[]	{}
+MAPK1/MAPK3 signaling	6	0	[]	{'FGF2': 'FGF13', 'GRIN1': 'GPRIN1', 'LAT': 'SPNS1', 'DUSP1': 'DUSP12', 'DLG3': 'MPP3', 'KSR2': 'CNKSR2'}
+MAPK3 (ERK1) activation	0	0	[]	{}
+MAPK6/MAPK4 signaling	2	1	['MAPK6 gene']	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+MASTL Facilitates Mitotic Progression	0	0	[]	{}
+MECP2 regulates neuronal receptors and channels	0	0	[]	{}
+MECP2 regulates transcription factors	0	0	[]	{}
+MECP2 regulates transcription of genes involved in GABA signaling	0	0	[]	{}
+MECP2 regulates transcription of neuronal ligands	0	0	[]	{}
+MET Receptor Activation	0	0	[]	{}
+MET activates PI3K/AKT signaling	0	0	[]	{}
+MET activates PTK2 signaling	2	0	[]	{'LAMB2': 'LAMC1', 'LAMA3': 'LAMA4'}
+MET activates PTPN11	0	0	[]	{}
+MET activates RAP1 and RAC1	0	0	[]	{}
+MET activates RAS signaling	0	0	[]	{}
+MET activates STAT3	0	0	[]	{}
+MET interacts with TNS proteins	0	0	[]	{}
+MET promotes cell motility	2	0	[]	{'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1'}
+MET receptor recycling	0	0	[]	{}
+MGMT-mediated DNA damage reversal	0	0	[]	{}
+MHC class II antigen presentation	1	0	[]	{'RILP': 'PRICKLE1'}
+MPS I - Hurler syndrome	0	0	[]	{}
+MPS II - Hunter syndrome	0	0	[]	{}
+MPS IIIA - Sanfilippo syndrome A	0	0	[]	{}
+MPS IIIB - Sanfilippo syndrome B	0	0	[]	{}
+MPS IIIC - Sanfilippo syndrome C	0	0	[]	{}
+MPS IIID - Sanfilippo syndrome D	0	0	[]	{}
+MPS IV - Morquio syndrome A	0	0	[]	{}
+MPS IV - Morquio syndrome B	0	0	[]	{}
+MPS IX - Natowicz syndrome	0	0	[]	{}
+MPS VI - Maroteaux-Lamy syndrome	0	0	[]	{}
+MPS VII - Sly syndrome	0	0	[]	{}
+MTF1 activates gene expression	1	0	[]	{'MTF1': 'MELTF'}
+MTOR signalling	0	0	[]	{}
+Macroautophagy	1	0	[]	{'PARK2': 'PRKN'}
+Major pathway of rRNA processing in the nucleolus and cytosol	8	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RRP1': 'RRP1B', 'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'DIEXF': 'UTP25', 'IMP4': 'SPPL2B', 'IMP3': 'SPPL2A', 'WBSCR22': 'BUD23', 'RPL36A': 'RPL36AL'}
+Manipulation of host energy metabolism	0	1	['esxA']	{}
+Masitinib-resistant KIT mutants	0	0	[]	{}
+Maturation of nucleoprotein	0	1	['N']	{}
+Maturation of protein 3a	0	1	['3a']	{}
+Maturation of protein E	0	1	['E']	{}
+Maturation of protein M	0	1	['M']	{}
+Maturation of replicase proteins	0	2	['rep', '1a']	{}
+Maturation of spike protein	0	1	['S']	{}
+Meiosis	5	0	[]	{'DMC1': 'HID1', 'FKBP6': 'FKBP10', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A'}
+Meiotic recombination	4	0	[]	{'H2AFX': 'H2AX', 'DMC1': 'HID1', 'RPA1': 'POLR1A', 'NBN': 'ARTN'}
+Meiotic synapsis	2	0	[]	{'H2AFX': 'H2AX', 'FKBP6': 'FKBP10'}
+Melanin biosynthesis	0	0	[]	{}
+Membrane Trafficking	10	0	[]	{'MIA2': 'CFAP73', 'NAPB': 'NAPSB', 'GJA10': 'GJA9', 'GJC1': 'GJD3', 'ARFGAP1': 'ARFGAP3', 'ST5': 'DENND2B', 'RGP1': 'RGPD1', 'CPD': 'HOMER2', 'NAPA': 'NAPSA', 'RAB11B': 'RAB43'}
+Membrane binding and targetting of GAG proteins	0	1	['gag']	{}
+Metabolic disorders of biological oxidation enzymes	1	0	[]	{'GSS': 'PRNP'}
+Metabolism	58	5	['5S rRNA', '18S rRNA', '5.8S rRNA', '28S rRNA', 'ACOT7L']	{'SC5DL': 'SC5D', 'POM121': 'POMZP3', 'ADSSL1': 'ADSS1', 'HK3': 'HOOK3', 'RPL13': 'MRPL13', 'FABP5': 'FABP5P1', 'SQRDL': 'SQOR', 'ALB': 'FBF1', 'HK2': 'HOOK2', 'DIO1': 'DIDO1', 'SCD': 'SLC22A5', 'NAT2': 'SLC38A1', 'CES2': 'CES1', 'ADSS': 'ADSS2', 'TAZ': 'WWTR1', 'NOS3': 'NANOS3', 'HSD17B7': 'HSD17B7P2', 'GK2': 'GALK2', 'NAT1': 'EIF4G2', 'PISD': 'SFI1', 'PSAP': 'MTCH1', 'RPL36A': 'RPL36AL', 'BRIP1': 'MRPL36', 'RBP2': 'RIMBP2', 'SULT1C2': 'SULT1C4', 'FAAH': 'FA2H', 'G6PC': 'G6PC1', 'TPO': 'THPO', 'INPP5E': 'PMPCA', 'GDA': 'SLC25A16', 'GLS': 'GLS2', 'CDS1': 'CHEK2', 'MTF1': 'MELTF', 'PC': 'PODXL', 'TRAP1': 'HSP90B2P', 'PGP': 'PGPEP1', 'PGAM1': 'PGAM4', 'AK6': 'AK3', 'DBI': 'TSPO', 'CPS1': 'CYP21A2', 'NME1': 'RMRP', 'GSS': 'PRNP', 'CAD': 'DFFB', 'TMEM55B': 'PIP4P1', 'LRP1': 'C1D', 'AIP': 'AURKAIP1', 'TPH2': 'TDO2', 'ME1': 'PCDHB16', 'FAH': 'FANCA', 'FBP2': 'KHSRP', 'PYCRL': 'PYCR3', 'GCK': 'MAP4K2', 'HAS1': 'HNF1A-AS1', 'HK1': 'HOOK1', 'GPI': 'GNPDA1', 'PDP1': 'PLPP6', 'RPL10': 'RPL15', 'SLC23A2': 'SLC23A1'}
+Metabolism of Angiotensinogen to Angiotensins	1	0	[]	{'REN': 'KCTD11'}
+Metabolism of RNA	21	4	['5S rRNA', '5.8S rRNA', '18S rRNA', '28S rRNA']	{'RRP1': 'RRP1B', 'POM121': 'POMZP3', 'U2AF1L4': 'IGFLR1', 'IMP4': 'SPPL2B', 'POP1': 'BVES', 'RPL36A': 'RPL36AL', 'SF1': 'NR5A1', 'SNRPD1': 'SNRPD2', 'RPL13': 'MRPL13', 'RNU12': 'RNU12-2P', 'GAR1': 'CNGB1', 'RQCD1': 'CNOT9', 'ZCCHC11': 'TUT4', 'WBSCR22': 'BUD23', 'PAN2': 'NLRP4', 'PAN3': 'NLRP6', 'ZCCHC6': 'TUT7', 'RPL10': 'RPL15', 'DIEXF': 'UTP25', 'ISY1': 'RAB43', 'IMP3': 'SPPL2A'}
+Metabolism of amine-derived hormones	3	0	[]	{'TPO': 'THPO', 'TPH2': 'TDO2', 'DIO1': 'DIDO1'}
+Metabolism of amino acids and derivatives	11	4	['5S rRNA', '5.8S rRNA', '18S rRNA', '28S rRNA']	{'RPL36A': 'RPL36AL', 'RPL13': 'MRPL13', 'TPH2': 'TDO2', 'FAH': 'FANCA', 'CPS1': 'CYP21A2', 'SQRDL': 'SQOR', 'DIO1': 'DIDO1', 'TPO': 'THPO', 'PYCRL': 'PYCR3', 'GLS': 'GLS2', 'RPL10': 'RPL15'}
+Metabolism of carbohydrates	12	0	[]	{'FBP2': 'KHSRP', 'GCK': 'MAP4K2', 'HK3': 'HOOK3', 'HAS1': 'HNF1A-AS1', 'PGP': 'PGPEP1', 'HK2': 'HOOK2', 'HK1': 'HOOK1', 'GPI': 'GNPDA1', 'G6PC': 'G6PC1', 'POM121': 'POMZP3', 'PC': 'PODXL', 'PGAM1': 'PGAM4'}
+Metabolism of cofactors	1	0	[]	{'NOS3': 'NANOS3'}
+Metabolism of fat-soluble vitamins	2	0	[]	{'RBP2': 'RIMBP2', 'LRP1': 'C1D'}
+Metabolism of folate and pterines	0	0	[]	{}
+Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	0	0	[]	{}
+Metabolism of ingested MeSeO2H into MeSeH	0	0	[]	{}
+Metabolism of ingested SeMet, Sec, MeSec into H2Se	0	0	[]	{}
+Metabolism of lipids	16	1	['ACOT7L']	{'SC5DL': 'SC5D', 'PISD': 'SFI1', 'PSAP': 'MTCH1', 'DBI': 'TSPO', 'FABP5': 'FABP5P1', 'ME1': 'PCDHB16', 'ALB': 'FBF1', 'FAAH': 'FA2H', 'SCD': 'SLC22A5', 'INPP5E': 'PMPCA', 'CDS1': 'CHEK2', 'TMEM55B': 'PIP4P1', 'TAZ': 'WWTR1', 'MTF1': 'MELTF', 'HSD17B7': 'HSD17B7P2', 'GK2': 'GALK2'}
+Metabolism of nitric oxide: NOS3 activation and regulation	1	0	[]	{'NOS3': 'NANOS3'}
+Metabolism of non-coding RNA	2	0	[]	{'SNRPD1': 'SNRPD2', 'POM121': 'POMZP3'}
+Metabolism of nucleotides	6	0	[]	{'CAD': 'DFFB', 'GDA': 'SLC25A16', 'ADSS': 'ADSS2', 'AK6': 'AK3', 'NME1': 'RMRP', 'ADSSL1': 'ADSS1'}
+Metabolism of polyamines	0	0	[]	{}
+Metabolism of porphyrins	1	0	[]	{'ALB': 'FBF1'}
+Metabolism of proteins	49	9	['FKBP14 gene', '5S rRNA', '18S rRNA', '5.8S rRNA', '7SL RNA (ENSG00000222639)', '28S rRNA', '7SL RNA (ENSG00000222619)', 'ATPV0D1', 'US11']	{'LAMB2': 'LAMC1', 'POM121': 'POMZP3', 'PARK2': 'PRKN', 'DAP3': 'DLGAP3', 'SPP1': 'CXXC1', 'TTF1': 'NKX2-1', 'NAPB': 'NAPSB', 'MGAT3': 'MOGAT3', 'RPL13': 'MRPL13', 'FAM175A': 'ABRAXAS1', 'ALB': 'FBF1', 'MRPS28': 'MRPS35', 'SPP2': 'SGPP2', 'RPA1': 'POLR1A', 'RAB11B': 'RAB43', 'HARS2': 'DTD1', 'GALNT15': 'GALNT18', 'USP16': 'USP21', 'BAP1': 'RNF2', 'SCG3': 'SGCG', 'UFD1L': 'UFD1', 'CYR61': 'CCN1', 'RPL36A': 'RPL36AL', 'MIA2': 'CFAP73', 'GIP': 'C1QTNF1', 'REN': 'KCTD11', 'IL8': 'CXCL8', 'VDAC3': 'VDAC1P5', 'N6AMT2': 'EEF1AKMT1', 'MRPL27': 'MRPL41', 'GRP': 'LGALSL', 'BRCC3': 'DEPDC1B', 'RFWD2': 'COP1', 'DMP1': 'DMTF1', 'CECR1': 'ADA2', 'FKBP9': 'FKBP1B', 'C19orf10': 'MYDGF', 'ARFGAP1': 'ARFGAP3', 'GALNT17': 'GALNTL6', 'LY6G6D': 'LY6G6F', 'METTL10': 'EEF1AKMT2', 'MGAT2': 'MOGAT2', 'BRE': 'BABAM2', 'FAM175B': 'ABRAXAS2', 'H2AFX': 'H2AX', 'TRAF2': 'TANK', 'RPL10': 'RPL15', 'NAPA': 'NAPSA', 'SRPR': 'SRPRA'}
+Metabolism of serotonin	0	0	[]	{}
+Metabolism of steroid hormones	0	0	[]	{}
+Metabolism of steroids	5	0	[]	{'ALB': 'FBF1', 'SC5DL': 'SC5D', 'SCD': 'SLC22A5', 'MTF1': 'MELTF', 'HSD17B7': 'HSD17B7P2'}
+Metabolism of vitamin K	0	0	[]	{}
+Metabolism of vitamins and cofactors	5	0	[]	{'LRP1': 'C1D', 'RBP2': 'RIMBP2', 'NOS3': 'NANOS3', 'PC': 'PODXL', 'SLC23A2': 'SLC23A1'}
+Metabolism of water-soluble vitamins and cofactors	2	0	[]	{'PC': 'PODXL', 'SLC23A2': 'SLC23A1'}
+Metal ion SLC transporters	0	0	[]	{}
+Metal sequestration by antimicrobial proteins	0	0	[]	{}
+Metalloprotease DUBs	4	0	[]	{'BRE': 'BABAM2', 'FAM175B': 'ABRAXAS2', 'FAM175A': 'ABRAXAS1', 'BRCC3': 'DEPDC1B'}
+Metallothioneins bind metals	0	0	[]	{}
+Methionine salvage pathway	0	0	[]	{}
+Methylation	0	0	[]	{}
+Methylation of MeSeH for excretion	0	0	[]	{}
+MicroRNA (miRNA) biogenesis	0	0	[]	{}
+Microbial modulation of RIPK1-mediated regulated necrosis	1	5	['CRMA', 'UL36', '3a', 'SPI-2', 'RIR1']	{'NS': 'GNL3'}
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	0	0	[]	{}
+Mineralocorticoid biosynthesis	0	0	[]	{}
+Minus-strand DNA synthesis	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Miscellaneous substrates	0	0	[]	{}
+Miscellaneous transport and binding events	0	0	[]	{}
+Mismatch Repair	2	0	[]	{'RPA1': 'POLR1A', 'LIG1': 'LRIG1'}
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	2	0	[]	{'RPA1': 'POLR1A', 'LIG1': 'LRIG1'}
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	2	0	[]	{'RPA1': 'POLR1A', 'LIG1': 'LRIG1'}
+Mitochondrial ABC transporters	0	0	[]	{}
+Mitochondrial Fatty Acid Beta-Oxidation	1	1	['ACOT7L']	{'DBI': 'TSPO'}
+Mitochondrial Uncoupling	0	0	[]	{}
+Mitochondrial biogenesis	3	0	[]	{'ATP5B': 'ATP5F1B', 'PEO1': 'TWNK', 'MTERF': 'MTERF1'}
+Mitochondrial calcium ion transport	2	0	[]	{'VDAC3': 'VDAC1P5', 'C2orf47': 'MAIP1'}
+Mitochondrial iron-sulfur cluster biogenesis	0	0	[]	{}
+Mitochondrial protein import	1	0	[]	{'TAZ': 'WWTR1'}
+Mitochondrial tRNA aminoacylation	1	0	[]	{'HARS2': 'DTD1'}
+Mitochondrial transcription initiation	0	0	[]	{}
+Mitochondrial transcription termination	0	0	[]	{}
+Mitochondrial translation	3	0	[]	{'MRPS28': 'MRPS35', 'MRPL27': 'MRPL41', 'DAP3': 'DLGAP3'}
+Mitochondrial translation elongation	3	0	[]	{'MRPS28': 'MRPS35', 'MRPL27': 'MRPL41', 'DAP3': 'DLGAP3'}
+Mitochondrial translation initiation	3	0	[]	{'MRPS28': 'MRPS35', 'MRPL27': 'MRPL41', 'DAP3': 'DLGAP3'}
+Mitochondrial translation termination	3	0	[]	{'MRPS28': 'MRPS35', 'MRPL27': 'MRPL41', 'DAP3': 'DLGAP3'}
+Mitophagy	1	0	[]	{'PARK2': 'PRKN'}
+Mitotic Anaphase	3	0	[]	{'POM121': 'POMZP3', 'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Mitotic G1 phase and G1/S transition	3	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'RPA1': 'POLR1A'}
+Mitotic G2-G2/M phases	0	0	[]	{}
+Mitotic Metaphase and Anaphase	3	0	[]	{'POM121': 'POMZP3', 'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Mitotic Metaphase/Anaphase Transition	0	0	[]	{}
+Mitotic Prometaphase	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Mitotic Prophase	2	0	[]	{'POM121': 'POMZP3', 'H2AFX': 'H2AX'}
+Mitotic Spindle Checkpoint	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Mitotic Telophase/Cytokinesis	0	0	[]	{}
+Modulation by Mtb of host immune system	0	4	['Rv2779c', 'ptpA', 'pstS1', 'esxA']	{}
+Molecules associated with elastic fibres	1	0	[]	{'LTBP3': 'LTBP2'}
+Molybdenum cofactor biosynthesis	0	0	[]	{}
+Mtb iron assimilation by chelation	0	5	['irtA', 'bfr', 'irtB', 'Rv2895c', 'bfrB']	{}
+Mucopolysaccharidoses	0	0	[]	{}
+Multifunctional anion exchangers	0	0	[]	{}
+Muscarinic acetylcholine receptors	0	0	[]	{}
+Muscle contraction	6	0	[]	{'PAK1': 'PKN1', 'ATP2B2': 'ATP2B4', 'PXN': 'PXDN', 'GUCY1A3': 'GUCY1A1', 'GUCY1B3': 'GUCY1B1', 'NOS1': 'NANOS1'}
+MyD88 cascade initiated on plasma membrane	0	1	['fliC']	{}
+MyD88 deficiency (TLR2/4)	0	2	['mip', 'porB']	{}
+MyD88 deficiency (TLR5)	0	1	['fliC']	{}
+MyD88 dependent cascade initiated on endosome	0	0	[]	{}
+MyD88-independent TLR4 cascade	0	0	[]	{}
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	0	2	['porB', 'mip']	{}
+Myoclonic epilepsy of Lafora	0	0	[]	{}
+Myogenesis	1	0	[]	{'TCF4': 'TCF7L2'}
+N-Glycan antennae elongation	0	0	[]	{}
+N-glycan antennae elongation in the medial/trans-Golgi	2	0	[]	{'MGAT2': 'MOGAT2', 'MGAT3': 'MOGAT3'}
+N-glycan trimming and elongation in the cis-Golgi	0	0	[]	{}
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle	0	0	[]	{}
+NADE modulates death signalling	0	0	[]	{}
+NADPH regeneration	0	0	[]	{}
+NCAM signaling for neurite out-growth	0	0	[]	{}
+NCAM1 interactions	0	0	[]	{}
+NEIL3-mediated resolution of ICLs	0	0	[]	{}
+NEP/NS2 Interacts with the Cellular Export Machinery	5	2	['M', 'PB2']	{'PB1': 'PBRM1', 'POM121': 'POMZP3', 'NS': 'GNL3', 'PA': 'EPB42', 'NP': 'CTF2P'}
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	0	0	[]	{}
+NF-kB is activated and signals survival	0	0	[]	{}
+NFG and proNGF binds to p75NTR	0	0	[]	{}
+NGF processing	0	0	[]	{}
+NGF-independant TRKA activation	0	0	[]	{}
+NGF-stimulated transcription	1	0	[]	{'F3': 'CNTN1'}
+NIK-->noncanonical NF-kB signaling	0	0	[]	{}
+NOD1/2 Signaling Pathway	0	0	[]	{}
+NOSIP mediated eNOS trafficking	1	0	[]	{'NOS3': 'NANOS3'}
+NOSTRIN mediated eNOS trafficking	1	0	[]	{'NOS3': 'NANOS3'}
+NOTCH1 Intracellular Domain Regulates Transcription	0	0	[]	{}
+NOTCH2 Activation and Transmission of Signal to the Nucleus	0	0	[]	{}
+NOTCH2 intracellular domain regulates transcription	0	0	[]	{}
+NOTCH3 Activation and Transmission of Signal to the Nucleus	0	0	[]	{}
+NOTCH3 Intracellular Domain Regulates Transcription	0	0	[]	{}
+NOTCH4 Activation and Transmission of Signal to the Nucleus	0	0	[]	{}
+NOTCH4 Intracellular Domain Regulates Transcription	0	0	[]	{}
+NR1D1 (REV-ERBA) represses gene expression	0	0	[]	{}
+NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis	0	0	[]	{}
+NR1H2 & NR1H3 regulate gene expression linked to lipogenesis	1	0	[]	{'SCD': 'SLC22A5'}
+NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose	0	0	[]	{}
+NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	0	0	[]	{}
+NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake	0	0	[]	{}
+NR1H2 and NR1H3-mediated signaling	1	0	[]	{'SCD': 'SLC22A5'}
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	0	0	[]	{}
+NRAGE signals death through JNK	1	0	[]	{'NET1': 'SLC6A2'}
+NRIF signals cell death from the nucleus	0	0	[]	{}
+NS1 Mediated Effects on Host Pathways	3	0	[]	{'KPNA7': 'KPNA6', 'POM121': 'POMZP3', 'NS': 'GNL3'}
+NTF3 activates NTRK2 (TRKB) signaling	0	0	[]	{}
+NTF3 activates NTRK3 signaling	0	0	[]	{}
+NTF4 activates NTRK2 (TRKB) signaling	0	0	[]	{}
+NTRK2 activates RAC1	0	0	[]	{}
+NTRK3 as a dependence receptor	0	0	[]	{}
+Na+/Cl- dependent neurotransmitter transporters	1	0	[]	{'SLC6A5': 'SLC6A2'}
+Nectin/Necl  trans heterodimerization	0	0	[]	{}
+Neddylation	1	0	[]	{'RFWD2': 'COP1'}
+Nef Mediated CD4 Down-regulation	0	1	['nef']	{}
+Nef Mediated CD8 Down-regulation	0	1	['nef']	{}
+Nef and signal transduction	0	1	['nef']	{}
+Nef mediated downregulation of CD28 cell surface expression	0	1	['nef']	{}
+Nef mediated downregulation of MHC class I complex cell surface expression	0	1	['nef']	{}
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	0	1	['nef']	{}
+Negative epigenetic regulation of rRNA expression	2	5	['45S pre-rRNA gene', '5S rRNA', '5.8S rRNA', '28S rRNA', '18S rRNA, 5.8S rRNA, 28S rRNA']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+Negative feedback regulation of MAPK pathway	0	0	[]	{}
+Negative regulation of FGFR1 signaling	1	0	[]	{'FGF2': 'FGF13'}
+Negative regulation of FGFR2 signaling	1	0	[]	{'FGF2': 'FGF13'}
+Negative regulation of FGFR3 signaling	1	0	[]	{'FGF2': 'FGF13'}
+Negative regulation of FGFR4 signaling	1	0	[]	{'FGF2': 'FGF13'}
+Negative regulation of FLT3	0	0	[]	{}
+Negative regulation of MAPK pathway	1	0	[]	{'DUSP1': 'DUSP12'}
+Negative regulation of MET activity	0	0	[]	{}
+Negative regulation of NMDA receptor-mediated neuronal transmission	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Negative regulation of NOTCH4 signaling	0	0	[]	{}
+Negative regulation of TCF-dependent signaling by DVL-interacting proteins	0	0	[]	{}
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists	0	0	[]	{}
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors	0	0	[]	{}
+Negative regulation of the PI3K/AKT network	1	0	[]	{'FGF2': 'FGF13'}
+Negative regulators of DDX58/IFIH1 signaling	0	0	[]	{}
+Nephrin family interactions	1	0	[]	{'KIRREL': 'KIRREL1'}
+Nervous system development	16	5	['ROBO3.1', '5S rRNA', '5.8S rRNA', '18S rRNA', '28S rRNA']	{'DOK1': 'ART4', 'TRPC7': 'TRPM2', 'PRX': 'PRDX6', 'CAP2': 'TMPRSS4', 'DLG3': 'MPP3', 'RPL36A': 'RPL36AL', 'PAK5': 'PAK6', 'SLIT3': 'SLIT1', 'RPL13': 'MRPL13', 'HFE2': 'HJV', 'PAK3': 'ARHGEF7', 'MYH14': 'MYH7B', 'GRIN1': 'GPRIN1', 'PAK1': 'PKN1', 'RPL10': 'RPL15', 'NTN4': 'MLF2'}
+Netrin mediated repulsion signals	0	0	[]	{}
+Netrin-1 signaling	5	0	[]	{'PAK1': 'PKN1', 'NTN4': 'MLF2', 'HFE2': 'HJV', 'TRPC7': 'TRPM2', 'SLIT3': 'SLIT1'}
+Neurexins and neuroligins	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Neurodegenerative Diseases	0	0	[]	{}
+Neurofascin interactions	0	0	[]	{}
+Neuronal System	6	0	[]	{'DLG3': 'MPP3', 'GRIK2': 'GRIK5', 'GJA10': 'GJA9', 'GJC1': 'GJD3', 'GRIN1': 'GPRIN1', 'GLS': 'GLS2'}
+Neurophilin interactions with VEGF and VEGFR	0	0	[]	{}
+Neurotoxicity of clostridium toxins	0	11	['ntnha', 'ha70', 'botD', 'botA', 'tetX', 'ha17', 'botE', 'HA-33', 'botG', 'botB', 'botF']	{}
+Neurotransmitter clearance	0	0	[]	{}
+Neurotransmitter receptors and postsynaptic signal transmission	3	0	[]	{'GRIK2': 'GRIK5', 'GRIN1': 'GPRIN1', 'DLG3': 'MPP3'}
+Neurotransmitter release cycle	1	0	[]	{'GLS': 'GLS2'}
+Neurotransmitter uptake and metabolism In glial cells	0	0	[]	{}
+Neutrophil degranulation	12	0	[]	{'HMHA1': 'ARHGAP45', 'MMTAG2': 'C1orf35', 'VAT1': 'SLC18A1', 'PGAM1': 'PGAM4', 'PSAP': 'MTCH1', 'HK3': 'HOOK3', 'CECR1': 'ADA2', 'PLAC8': 'LGALS13', 'FABP5': 'FABP5P1', 'HLA-H': 'HFE', 'BRI3': 'ITM2C', 'GPI': 'GNPDA1'}
+Nicotinamide salvaging	0	0	[]	{}
+Nicotinate metabolism	0	0	[]	{}
+Nilotinib-resistant KIT mutants	0	0	[]	{}
+Nitric oxide stimulates guanylate cyclase	4	0	[]	{'GUCY1A3': 'GUCY1A1', 'NOS3': 'NANOS3', 'GUCY1B3': 'GUCY1B1', 'NOS1': 'NANOS1'}
+NoRC negatively regulates rRNA expression	2	2	['45S pre-rRNA gene', '18S rRNA, 5.8S rRNA, 28S rRNA']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+Non-integrin membrane-ECM interactions	4	0	[]	{'FGF2': 'FGF13', 'NTN4': 'MLF2', 'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1'}
+Noncanonical activation of NOTCH3	0	0	[]	{}
+Nonhomologous End-Joining (NHEJ)	5	0	[]	{'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'H2AFX': 'H2AX', 'BRCC3': 'DEPDC1B', 'NBN': 'ARTN'}
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Nonsense-Mediated Decay (NMD)	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Norepinephrine Neurotransmitter Release Cycle	0	0	[]	{}
+Notch-HLH transcription pathway	0	0	[]	{}
+NrCAM interactions	1	0	[]	{'DLG3': 'MPP3'}
+Nuclear Envelope (NE) Reassembly	1	0	[]	{'POM121': 'POMZP3'}
+Nuclear Envelope Breakdown	1	0	[]	{'POM121': 'POMZP3'}
+Nuclear Events (kinase and transcription factor activation)	1	0	[]	{'F3': 'CNTN1'}
+Nuclear Pore Complex (NPC) Disassembly	1	0	[]	{'POM121': 'POMZP3'}
+Nuclear Receptor transcription pathway	0	0	[]	{}
+Nuclear import of Rev protein	1	0	[]	{'POM121': 'POMZP3'}
+Nuclear signaling by ERBB4	0	0	[]	{}
+Nucleobase biosynthesis	3	0	[]	{'ADSSL1': 'ADSS1', 'ADSS': 'ADSS2', 'CAD': 'DFFB'}
+Nucleobase catabolism	1	0	[]	{'GDA': 'SLC25A16'}
+Nucleosome assembly	4	0	[]	{'APITD1': 'CENPS', 'H2AFX': 'H2AX', 'STRA13': 'CENPX', 'CENPC': 'CENPCP1'}
+Nucleotide Excision Repair	4	0	[]	{'LIG1': 'LRIG1', 'ISY1': 'RAB43', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Nucleotide salvage	0	0	[]	{}
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	0	4	['fliC', 'fljB', 'prgJ', 'hly']	{}
+Nucleotide-like (purinergic) receptors	0	0	[]	{}
+O-glycosylation of TSR domain-containing proteins	0	0	[]	{}
+O-linked glycosylation	2	0	[]	{'GALNT17': 'GALNTL6', 'GALNT15': 'GALNT18'}
+O-linked glycosylation of mucins	2	0	[]	{'GALNT17': 'GALNTL6', 'GALNT15': 'GALNT18'}
+O2/CO2 exchange in erythrocytes	0	0	[]	{}
+OAS antiviral response	0	1	['VP3']	{}
+Oleoyl-phe metabolism	0	0	[]	{}
+Olfactory Signaling Pathway	3	0	[]	{'OR8G2': 'OR8G2P', 'OR2W5': 'OR2W5P', 'OR5R1': 'OR8U3'}
+Oligomerization of connexins into connexons	0	0	[]	{}
+Oncogene Induced Senescence	0	0	[]	{}
+Oncogenic MAPK signaling	1	0	[]	{'KSR2': 'CNKSR2'}
+Opioid Signalling	0	0	[]	{}
+Opsins	0	0	[]	{}
+Orc1 removal from chromatin	2	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7'}
+Orexin and neuropeptides FF and QRFP bind to their respective receptors	1	0	[]	{'HCRTR2': 'CD200R1'}
+Organelle biogenesis and maintenance	10	0	[]	{'ATP5B': 'ATP5F1B', 'SMO': 'SMOX', 'TCTEX1D2': 'DYNLT2B', 'TCTE3': 'DYNLT2', 'PKD2': 'PRKD2', 'PEO1': 'TWNK', 'RP2': 'STK19B', 'INPP5E': 'PMPCA', 'TCTEX1D1': 'DYNLT5', 'MTERF': 'MTERF1'}
+Organic anion transport	0	0	[]	{}
+Organic anion transporters	0	0	[]	{}
+Organic cation transport	0	0	[]	{}
+Organic cation/anion/zwitterion transport	0	0	[]	{}
+Other interleukin signaling	0	0	[]	{}
+Other semaphorin interactions	0	0	[]	{}
+Ovarian tumor domain proteases	0	0	[]	{}
+Oxidative Stress Induced Senescence	1	0	[]	{'H2AFX': 'H2AX'}
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	0	0	[]	{}
+P2Y receptors	0	0	[]	{}
+PAOs oxidise polyamines to amines	0	0	[]	{}
+PCNA-Dependent Long Patch Base Excision Repair	2	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+PCP/CE pathway	3	0	[]	{'ROR2': 'RORA', 'RAC3': 'NCOA3', 'FZD3': 'FZD9'}
+PD-1 signaling	0	0	[]	{}
+PDE3B signalling	0	0	[]	{}
+PDGFR mutants bind TKIs	0	0	[]	{}
+PECAM1 interactions	0	0	[]	{}
+PERK regulates gene expression	1	0	[]	{'IL8': 'CXCL8'}
+PI Metabolism	2	0	[]	{'TMEM55B': 'PIP4P1', 'INPP5E': 'PMPCA'}
+PI and PC transport between ER and Golgi membranes	0	0	[]	{}
+PI-3K cascade:FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+PI-3K cascade:FGFR2	1	0	[]	{'FGF2': 'FGF13'}
+PI-3K cascade:FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+PI-3K cascade:FGFR4	1	0	[]	{'FGF2': 'FGF13'}
+PI3K Cascade	1	0	[]	{'FGF2': 'FGF13'}
+PI3K events in ERBB2 signaling	0	0	[]	{}
+PI3K events in ERBB4 signaling	0	0	[]	{}
+PI3K/AKT Signaling in Cancer	1	0	[]	{'FGF2': 'FGF13'}
+PI3K/AKT activation	0	0	[]	{}
+PI5P Regulates TP53 Acetylation	1	0	[]	{'TMEM55B': 'PIP4P1'}
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	1	0	[]	{'FGF2': 'FGF13'}
+PINK1-PRKN Mediated Mitophagy	1	0	[]	{'PARK2': 'PRKN'}
+PIP3 activates AKT signaling	1	0	[]	{'FGF2': 'FGF13'}
+PIWI-interacting RNA (piRNA) biogenesis	1	0	[]	{'FKBP6': 'FKBP10'}
+PKA activation	0	0	[]	{}
+PKA activation in glucagon signalling	0	0	[]	{}
+PKA-mediated phosphorylation of CREB	0	0	[]	{}
+PKA-mediated phosphorylation of key metabolic factors	0	0	[]	{}
+PKB-mediated events	0	0	[]	{}
+PKMTs methylate histone lysines	0	0	[]	{}
+PLC beta mediated events	0	0	[]	{}
+PLC-gamma1 signalling	0	0	[]	{}
+PLCG1 events in ERBB2 signaling	0	0	[]	{}
+POLB-Dependent Long Patch Base Excision Repair	1	0	[]	{'LIG1': 'LRIG1'}
+POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	1	0	[]	{'FGF2': 'FGF13'}
+POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation	0	0	[]	{}
+PP2A-mediated dephosphorylation of key metabolic factors	0	0	[]	{}
+PPARA activates gene expression	2	0	[]	{'MTF1': 'MELTF', 'ME1': 'PCDHB16'}
+PRC2 methylates histones and DNA	1	0	[]	{'H2AFX': 'H2AX'}
+PTEN Loss of Function in Cancer	0	0	[]	{}
+PTEN Regulation	0	0	[]	{}
+PTK6 Activates STAT3	0	0	[]	{}
+PTK6 Down-Regulation	0	0	[]	{}
+PTK6 Expression	0	0	[]	{}
+PTK6 Regulates Cell Cycle	0	0	[]	{}
+PTK6 Regulates Proteins Involved in RNA Processing	0	0	[]	{}
+PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	1	0	[]	{'PXN': 'PXDN'}
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	1	0	[]	{'DOK1': 'ART4'}
+PTK6 promotes HIF1A stabilization	0	0	[]	{}
+Packaging Of Telomere Ends	1	0	[]	{'H2AFX': 'H2AX'}
+Packaging of Eight RNA Segments	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+Paradoxical activation of RAF signaling by kinase inactive BRAF	1	0	[]	{'KSR2': 'CNKSR2'}
+Parasite infection	0	3	['IGHV', 'LPG1G2', 'IGLV']	{}
+Passive transport by Aquaporins	2	0	[]	{'AQP9': 'AQP7', 'MIP': 'MAFIP'}
+Pausing and recovery of HIV elongation	0	0	[]	{}
+Pausing and recovery of Tat-mediated HIV elongation	0	1	['tat']	{}
+Pentose phosphate pathway	0	0	[]	{}
+Pentose phosphate pathway disease	0	0	[]	{}
+Peptide chain elongation	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Peptide hormone biosynthesis	0	0	[]	{}
+Peptide hormone metabolism	3	0	[]	{'GIP': 'C1QTNF1', 'REN': 'KCTD11', 'GRP': 'LGALSL'}
+Peptide ligand-binding receptors	4	0	[]	{'GRP': 'LGALSL', 'HCRTR2': 'CD200R1', 'PSAP': 'MTCH1', 'NMB': 'GPNMB'}
+Peroxisomal lipid metabolism	0	0	[]	{}
+Peroxisomal protein import	0	0	[]	{}
+Pervasive developmental disorders	0	0	[]	{}
+Pexophagy	0	0	[]	{}
+Phagocyte cell death caused by cytosolic Mtb	0	1	['cpnT']	{}
+Phase 0 - rapid depolarisation	0	0	[]	{}
+Phase 1 - inactivation of fast Na+ channels	0	0	[]	{}
+Phase 2 - plateau phase	0	0	[]	{}
+Phase 3 - rapid repolarisation	0	0	[]	{}
+Phase 4 - resting membrane potential	0	0	[]	{}
+Phase I - Functionalization of compounds	2	0	[]	{'AIP': 'AURKAIP1', 'CES2': 'CES1'}
+Phase II - Conjugation of compounds	4	0	[]	{'NAT1': 'EIF4G2', 'GSS': 'PRNP', 'NAT2': 'SLC38A1', 'SULT1C2': 'SULT1C4'}
+Phenylalanine and tyrosine metabolism	1	0	[]	{'FAH': 'FANCA'}
+Phenylalanine metabolism	0	0	[]	{}
+Phenylketonuria	0	0	[]	{}
+Phosphate bond hydrolysis by NTPDase proteins	0	0	[]	{}
+Phosphate bond hydrolysis by NUDT proteins	0	0	[]	{}
+Phospholipase C-mediated cascade: FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+Phospholipase C-mediated cascade; FGFR2	1	0	[]	{'FGF2': 'FGF13'}
+Phospholipase C-mediated cascade; FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+Phospholipase C-mediated cascade; FGFR4	1	0	[]	{'FGF2': 'FGF13'}
+Phospholipid metabolism	5	0	[]	{'CDS1': 'CHEK2', 'PISD': 'SFI1', 'TMEM55B': 'PIP4P1', 'INPP5E': 'PMPCA', 'TAZ': 'WWTR1'}
+Phosphorylation of CD3 and TCR zeta chains	0	0	[]	{}
+Phosphorylation of Emi1	0	0	[]	{}
+Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	0	0	[]	{}
+Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2 complexes	0	0	[]	{}
+Phosphorylation of the APC/C	0	0	[]	{}
+Physiological factors	0	0	[]	{}
+Plasma lipoprotein assembly	1	0	[]	{'MTTP': 'MT-TP'}
+Plasma lipoprotein assembly, remodeling, and clearance	2	0	[]	{'ALB': 'FBF1', 'MTTP': 'MT-TP'}
+Plasma lipoprotein clearance	0	0	[]	{}
+Plasma lipoprotein remodeling	1	0	[]	{'ALB': 'FBF1'}
+Plasmalogen biosynthesis	0	0	[]	{}
+Platelet Adhesion to exposed collagen	0	0	[]	{}
+Platelet Aggregation (Plug Formation)	0	0	[]	{}
+Platelet activation, signaling and aggregation	8	1	['G6B']	{'ALB': 'FBF1', 'TRPC7': 'TRPM2', 'SPP2': 'SGPP2', 'SCG3': 'SGCG', 'LAT': 'SPNS1', 'PSAP': 'MTCH1', 'HRG': 'NRG1', 'SELP': 'SELENOP'}
+Platelet calcium homeostasis	2	0	[]	{'TRPC7': 'TRPM2', 'ATP2B2': 'ATP2B4'}
+Platelet degranulation	6	0	[]	{'ALB': 'FBF1', 'SPP2': 'SGPP2', 'SCG3': 'SGCG', 'PSAP': 'MTCH1', 'HRG': 'NRG1', 'SELP': 'SELENOP'}
+Platelet homeostasis	6	0	[]	{'TRPC7': 'TRPM2', 'ATP2B2': 'ATP2B4', 'NOS3': 'NANOS3', 'GUCY1A3': 'GUCY1A1', 'GUCY1B3': 'GUCY1B1', 'NOS1': 'NANOS1'}
+Platelet sensitization by LDL	0	0	[]	{}
+Plus-strand DNA synthesis	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Polo-like kinase mediated events	0	0	[]	{}
+Polymerase switching	0	0	[]	{}
+Polymerase switching on the C-strand of the telomere	1	0	[]	{'TEN1': 'TENM1'}
+Positive epigenetic regulation of rRNA expression	2	1	['45S pre-rRNA gene']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+Post NMDA receptor activation events	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Post-chaperonin tubulin folding pathway	0	0	[]	{}
+Post-transcriptional silencing by small RNAs	0	0	[]	{}
+Post-translational modification: synthesis of GPI-anchored proteins	1	0	[]	{'LY6G6D': 'LY6G6F'}
+Post-translational protein modification	32	1	['US11']	{'LAMB2': 'LAMC1', 'POM121': 'POMZP3', 'PARK2': 'PRKN', 'SPP1': 'CXXC1', 'NAPB': 'NAPSB', 'MGAT3': 'MOGAT3', 'FAM175A': 'ABRAXAS1', 'ALB': 'FBF1', 'SPP2': 'SGPP2', 'RPA1': 'POLR1A', 'RAB11B': 'RAB43', 'GALNT15': 'GALNT18', 'USP16': 'USP21', 'BAP1': 'RNF2', 'SCG3': 'SGCG', 'UFD1L': 'UFD1', 'CYR61': 'CCN1', 'MIA2': 'CFAP73', 'VDAC3': 'VDAC1P5', 'N6AMT2': 'EEF1AKMT1', 'BRCC3': 'DEPDC1B', 'RFWD2': 'COP1', 'DMP1': 'DMTF1', 'ARFGAP1': 'ARFGAP3', 'GALNT17': 'GALNTL6', 'LY6G6D': 'LY6G6F', 'METTL10': 'EEF1AKMT2', 'MGAT2': 'MOGAT2', 'BRE': 'BABAM2', 'FAM175B': 'ABRAXAS2', 'TRAF2': 'TANK', 'NAPA': 'NAPSA'}
+Post-translational protein phosphorylation	7	0	[]	{'ALB': 'FBF1', 'LAMB2': 'LAMC1', 'DMP1': 'DMTF1', 'SPP2': 'SGPP2', 'SCG3': 'SGCG', 'SPP1': 'CXXC1', 'CYR61': 'CCN1'}
+Postmitotic nuclear pore complex (NPC) reformation	1	0	[]	{'POM121': 'POMZP3'}
+Postsynaptic nicotinic acetylcholine receptors	0	0	[]	{}
+Potassium Channels	0	0	[]	{}
+Potassium transport channels	0	0	[]	{}
+Potential therapeutics for SARS	1	1	['NS5B']	{'BRMS1': 'BRMS1L'}
+Pre-NOTCH Expression and Processing	1	0	[]	{'H2AFX': 'H2AX'}
+Pre-NOTCH Processing in Golgi	0	0	[]	{}
+Pre-NOTCH Processing in the Endoplasmic Reticulum	0	0	[]	{}
+Pre-NOTCH Transcription and Translation	1	0	[]	{'H2AFX': 'H2AX'}
+Prefoldin mediated transfer of substrate  to CCT/TriC	0	0	[]	{}
+Pregnenolone biosynthesis	0	0	[]	{}
+Presynaptic depolarization and calcium channel opening	0	0	[]	{}
+Presynaptic function of Kainate receptors	0	0	[]	{}
+Presynaptic nicotinic acetylcholine receptors	0	0	[]	{}
+Presynaptic phase of homologous DNA pairing and strand exchange	4	0	[]	{'BRIP1': 'MRPL36', 'RAD1': 'ERCC4', 'RPA1': 'POLR1A', 'NBN': 'ARTN'}
+Prevention of phagosomal-lysosomal fusion	0	9	['secA2', 'esxG', 'esxH', 'sapM', 'lprG', 'ptpA', 'Rv1410c', 'ndkA', 'lpdC']	{}
+Processing and activation of SUMO	0	0	[]	{}
+Processing of Capped Intron-Containing Pre-mRNA	6	0	[]	{'SNRPD1': 'SNRPD2', 'POM121': 'POMZP3', 'RNU12': 'RNU12-2P', 'U2AF1L4': 'IGFLR1', 'ISY1': 'RAB43', 'SF1': 'NR5A1'}
+Processing of Capped Intronless Pre-mRNA	0	0	[]	{}
+Processing of DNA double-strand break ends	8	0	[]	{'RAD1': 'ERCC4', 'BRIP1': 'MRPL36', 'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A', 'BRCC3': 'DEPDC1B'}
+Processing of Intronless Pre-mRNAs	0	0	[]	{}
+Processing of SMDT1	1	0	[]	{'C2orf47': 'MAIP1'}
+Processive synthesis on the C-strand of the telomere	2	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Processive synthesis on the lagging strand	2	0	[]	{'RPA1': 'POLR1A', 'LIG1': 'LRIG1'}
+Programmed Cell Death	4	7	['MC159L', 'SPI-2', 'RIR1', '3a', 'UL36', 'ORF71', 'CRMA']	{'ARHGAP10': 'ARHGAP21', 'NS': 'GNL3', 'CDH1': 'FZR1', 'TRAF2': 'TANK'}
+Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2	0	0	[]	{}
+Prolactin receptor signaling	0	0	[]	{}
+Proline catabolism	0	0	[]	{}
+Prolonged ERK activation events	0	0	[]	{}
+Propionyl-CoA catabolism	0	0	[]	{}
+Prostacyclin signalling through prostacyclin receptor	0	0	[]	{}
+Prostanoid ligand receptors	0	0	[]	{}
+Protein folding	1	0	[]	{'FKBP9': 'FKBP1B'}
+Protein localization	1	0	[]	{'TAZ': 'WWTR1'}
+Protein methylation	2	0	[]	{'METTL10': 'EEF1AKMT2', 'N6AMT2': 'EEF1AKMT1'}
+Protein repair	0	0	[]	{}
+Protein ubiquitination	0	1	['US11']	{}
+Protein-protein interactions at synapses	2	0	[]	{'GRIN1': 'GPRIN1', 'DLG3': 'MPP3'}
+Proton-coupled monocarboxylate transport	0	0	[]	{}
+Proton-coupled neutral amino acid transporters	0	0	[]	{}
+Proton/oligopeptide cotransporters	0	0	[]	{}
+Purine catabolism	1	0	[]	{'GDA': 'SLC25A16'}
+Purine ribonucleoside monophosphate biosynthesis	2	0	[]	{'ADSSL1': 'ADSS1', 'ADSS': 'ADSS2'}
+Purine salvage	0	0	[]	{}
+Purinergic signaling in leishmaniasis infection	0	0	[]	{}
+Pyrimidine biosynthesis	1	0	[]	{'CAD': 'DFFB'}
+Pyrimidine catabolism	0	0	[]	{}
+Pyrimidine salvage	0	0	[]	{}
+Pyrophosphate hydrolysis	0	0	[]	{}
+Pyruvate metabolism	2	0	[]	{'ME1': 'PCDHB16', 'PDP1': 'PLPP6'}
+Pyruvate metabolism and Citric Acid (TCA) cycle	2	0	[]	{'ME1': 'PCDHB16', 'PDP1': 'PLPP6'}
+RA biosynthesis pathway	0	0	[]	{}
+RAB GEFs exchange GTP for GDP on RABs	2	0	[]	{'RGP1': 'RGPD1', 'ST5': 'DENND2B'}
+RAB geranylgeranylation	1	0	[]	{'RAB11B': 'RAB43'}
+RAF activation	0	0	[]	{}
+RAF-independent MAPK1/3 activation	1	0	[]	{'DUSP1': 'DUSP12'}
+RAF/MAP kinase cascade	6	0	[]	{'FGF2': 'FGF13', 'GRIN1': 'GPRIN1', 'LAT': 'SPNS1', 'DUSP1': 'DUSP12', 'DLG3': 'MPP3', 'KSR2': 'CNKSR2'}
+RAS GTPase cycle mutants	0	0	[]	{}
+RAS processing	0	0	[]	{}
+RAS signaling downstream of NF1 loss-of-function variants	0	0	[]	{}
+RET signaling	1	0	[]	{'DOK1': 'ART4'}
+RHO GTPase Effectors	7	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'MYH14': 'MYH7B', 'H2AFX': 'H2AX', 'CDH1': 'FZR1', 'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+RHO GTPases Activate Formins	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+RHO GTPases Activate NADPH Oxidases	0	0	[]	{}
+RHO GTPases Activate ROCKs	2	0	[]	{'PAK1': 'PKN1', 'MYH14': 'MYH7B'}
+RHO GTPases Activate Rhotekin and Rhophilins	0	0	[]	{}
+RHO GTPases Activate WASPs and WAVEs	0	0	[]	{}
+RHO GTPases activate CIT	1	0	[]	{'MYH14': 'MYH7B'}
+RHO GTPases activate IQGAPs	1	0	[]	{'CDH1': 'FZR1'}
+RHO GTPases activate KTN1	0	0	[]	{}
+RHO GTPases activate PAKs	3	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'MYH14': 'MYH7B'}
+RHO GTPases activate PKNs	3	0	[]	{'PAK1': 'PKN1', 'MYH14': 'MYH7B', 'H2AFX': 'H2AX'}
+RHO GTPases regulate CFTR trafficking	0	0	[]	{}
+RHOBTB GTPase Cycle	0	0	[]	{}
+RHOBTB1 GTPase cycle	0	0	[]	{}
+RHOBTB2 GTPase cycle	0	0	[]	{}
+RHOBTB3 ATPase cycle	0	0	[]	{}
+RIP-mediated NFkB activation via ZBP1	0	0	[]	{}
+RIPK1-mediated regulated necrosis	2	5	['CRMA', 'SPI-2', 'UL36', 'RIR1', '3a']	{'TRAF2': 'TANK', 'NS': 'GNL3'}
+RMTs methylate histone arginines	1	0	[]	{'H2AFX': 'H2AX'}
+RNA Pol II CTD phosphorylation and interaction with CE	0	0	[]	{}
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	0	0	[]	{}
+RNA Polymerase I Promoter Clearance	2	1	['45S pre-rRNA gene']	{'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+RNA Polymerase I Promoter Escape	1	0	[]	{'H2AFX': 'H2AX'}
+RNA Polymerase I Promoter Opening	1	0	[]	{'H2AFX': 'H2AX'}
+RNA Polymerase I Transcription	3	1	['45S pre-rRNA gene']	{'PTRF': 'CAVIN1', 'H2AFX': 'H2AX', 'TTF1': 'NKX2-1'}
+RNA Polymerase I Transcription Initiation	1	1	['45S pre-rRNA gene']	{'TTF1': 'NKX2-1'}
+RNA Polymerase I Transcription Termination	2	1	['45S pre-rRNA gene']	{'PTRF': 'CAVIN1', 'TTF1': 'NKX2-1'}
+RNA Polymerase II HIV Promoter Escape	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Pre-transcription Events	2	0	[]	{'EAF2': 'DMAP1', 'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Promoter Escape	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Transcription	26	1	['CSF2 gene']	{'EAF2': 'DMAP1', 'CTGF': 'CCN2', 'VWA9': 'INTS14', 'SPP1': 'CXXC1', 'PVALB': 'MB', 'NBN': 'ARTN', 'MGA': 'MGAM', 'RPA1': 'POLR1A', 'RAD1': 'ERCC4', 'HTT': 'SLC6A4', 'BRIP1': 'MRPL36', 'ZNF225': 'EGR1', 'RQCD1': 'CNOT9', 'G6PC': 'G6PC1', 'MIR378': 'MIR378A', 'GLS': 'GLS2', 'CPSF3L': 'INTS11', 'U2AF1L4': 'IGFLR1', 'RNU12': 'RNU12-2P', 'TMEM55B': 'PIP4P1', 'HKR1': 'ZNF875', 'TAF4B': 'PAPPA-AS1', 'ASUN': 'INTS13', 'H2AFX': 'H2AX', 'GCK': 'MAP4K2', 'GPI': 'GNPDA1'}
+RNA Polymerase II Transcription Elongation	1	0	[]	{'EAF2': 'DMAP1'}
+RNA Polymerase II Transcription Initiation	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Transcription Initiation And Promoter Clearance	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	1	0	[]	{'TAF4B': 'PAPPA-AS1'}
+RNA Polymerase II Transcription Termination	1	0	[]	{'U2AF1L4': 'IGFLR1'}
+RNA Polymerase III Abortive And Retractive Initiation	3	0	[]	{'BRF1': 'ZFP36L1', 'BDP1': 'PTPN18', 'BRF2': 'ZFP36L2'}
+RNA Polymerase III Chain Elongation	0	0	[]	{}
+RNA Polymerase III Transcription	3	0	[]	{'BRF1': 'ZFP36L1', 'BDP1': 'PTPN18', 'BRF2': 'ZFP36L2'}
+RNA Polymerase III Transcription Initiation	3	0	[]	{'BRF1': 'ZFP36L1', 'BDP1': 'PTPN18', 'BRF2': 'ZFP36L2'}
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	2	0	[]	{'BRF1': 'ZFP36L1', 'BDP1': 'PTPN18'}
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	2	0	[]	{'BRF1': 'ZFP36L1', 'BDP1': 'PTPN18'}
+RNA Polymerase III Transcription Initiation From Type 3 Promoter	2	0	[]	{'BDP1': 'PTPN18', 'BRF2': 'ZFP36L2'}
+RNA Polymerase III Transcription Termination	0	0	[]	{}
+RNA polymerase II transcribes snRNA genes	4	0	[]	{'CPSF3L': 'INTS11', 'VWA9': 'INTS14', 'ASUN': 'INTS13', 'RNU12': 'RNU12-2P'}
+ROBO receptors bind AKAP5	0	0	[]	{}
+RORA activates gene expression	0	0	[]	{}
+ROS and RNS production in phagocytes	2	0	[]	{'NOS3': 'NANOS3', 'NOS1': 'NANOS1'}
+RPIA deficiency: failed conversion of R5P to RU5P	0	0	[]	{}
+RPIA deficiency: failed conversion of RU5P to R5P	0	0	[]	{}
+RSK activation	0	0	[]	{}
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	0	0	[]	{}
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	0	0	[]	{}
+RUNX1 regulates estrogen receptor mediated transcription	0	0	[]	{}
+RUNX1 regulates expression of components of tight junctions	0	0	[]	{}
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	1	0	[]	{'H2AFX': 'H2AX'}
+RUNX1 regulates transcription of genes involved in BCR signaling	0	0	[]	{}
+RUNX1 regulates transcription of genes involved in WNT signaling	0	0	[]	{}
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	1	0	[]	{'H2AFX': 'H2AX'}
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	0	0	[]	{}
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	0	1	['CSF2 gene']	{}
+RUNX1 regulates transcription of genes involved in interleukin signaling	0	0	[]	{}
+RUNX2 regulates bone development	0	0	[]	{}
+RUNX2 regulates chondrocyte maturation	0	0	[]	{}
+RUNX2 regulates genes involved in cell migration	0	0	[]	{}
+RUNX2 regulates genes involved in differentiation of myeloid cells	0	0	[]	{}
+RUNX2 regulates osteoblast differentiation	0	0	[]	{}
+RUNX3 Regulates Immune Response and Cell Migration	1	0	[]	{'SPP1': 'CXXC1'}
+RUNX3 regulates BCL2L11 (BIM) transcription	0	0	[]	{}
+RUNX3 regulates CDKN1A transcription	0	0	[]	{}
+RUNX3 regulates NOTCH signaling	0	0	[]	{}
+RUNX3 regulates RUNX1-mediated transcription	0	0	[]	{}
+RUNX3 regulates WNT signaling	0	0	[]	{}
+RUNX3 regulates YAP1-mediated transcription	1	0	[]	{'CTGF': 'CCN2'}
+RUNX3 regulates p14-ARF	0	0	[]	{}
+Rab regulation of trafficking	3	0	[]	{'RGP1': 'RGPD1', 'RAB11B': 'RAB43', 'ST5': 'DENND2B'}
+Rap1 signalling	0	0	[]	{}
+Ras activation upon Ca2+ influx through NMDA receptor	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Reactions specific to the complex N-glycan synthesis pathway	1	0	[]	{'MGAT2': 'MOGAT2'}
+Reactions specific to the hybrid N-glycan synthesis pathway	1	0	[]	{'MGAT3': 'MOGAT3'}
+Receptor Mediated Mitophagy	0	0	[]	{}
+Receptor-type tyrosine-protein phosphatases	0	0	[]	{}
+Recognition and association of DNA glycosylase with site containing an affected purine	1	0	[]	{'H2AFX': 'H2AX'}
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	1	0	[]	{'H2AFX': 'H2AX'}
+Recognition of DNA damage by PCNA-containing replication complex	1	0	[]	{'RPA1': 'POLR1A'}
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	6	0	[]	{'BRE': 'BABAM2', 'FAM175A': 'ABRAXAS1', 'BAP1': 'RNF2', 'H2AFX': 'H2AX', 'BRCC3': 'DEPDC1B', 'NBN': 'ARTN'}
+Recruitment of NuMA to mitotic centrosomes	0	0	[]	{}
+Recruitment of mitotic centrosome proteins and complexes	0	0	[]	{}
+Recycling of bile acids and salts	1	0	[]	{'ALB': 'FBF1'}
+Recycling of eIF2:GDP	0	0	[]	{}
+Recycling pathway of L1	0	0	[]	{}
+Reduction of cytosolic Ca++ levels	1	0	[]	{'ATP2B2': 'ATP2B4'}
+Reelin signalling pathway	0	0	[]	{}
+Regorafenib-resistant KIT mutants	0	0	[]	{}
+Regorafenib-resistant PDGFR mutants	0	0	[]	{}
+Regulated Necrosis	2	5	['CRMA', 'SPI-2', 'UL36', 'RIR1', '3a']	{'TRAF2': 'TANK', 'NS': 'GNL3'}
+Regulated proteolysis of p75NTR	0	0	[]	{}
+Regulation by TREX1	0	0	[]	{}
+Regulation by c-FLIP	1	0	[]	{'TRAF2': 'TANK'}
+Regulation of APC/C activators between G1/S and early anaphase	0	0	[]	{}
+Regulation of Apoptosis	1	0	[]	{'ARHGAP10': 'ARHGAP21'}
+Regulation of Complement cascade	1	2	['IGHV', 'IGLV']	{'CPN2': 'CYP11B2'}
+Regulation of FOXO transcriptional activity by acetylation	0	0	[]	{}
+Regulation of FZD by ubiquitination	0	0	[]	{}
+Regulation of Glucokinase by Glucokinase Regulatory Protein	2	0	[]	{'POM121': 'POMZP3', 'GCK': 'MAP4K2'}
+Regulation of HSF1-mediated heat shock response	2	1	['HSBP2']	{'POM121': 'POMZP3', 'RPA1': 'POLR1A'}
+Regulation of IFNA signaling	0	0	[]	{}
+Regulation of IFNG signaling	0	0	[]	{}
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	7	0	[]	{'ALB': 'FBF1', 'LAMB2': 'LAMC1', 'DMP1': 'DMTF1', 'SPP2': 'SGPP2', 'SCG3': 'SGCG', 'SPP1': 'CXXC1', 'CYR61': 'CCN1'}
+Regulation of KIT signaling	0	0	[]	{}
+Regulation of MECP2 expression and activity	1	0	[]	{'HTT': 'SLC6A4'}
+Regulation of PAK-2p34 activity by PS-GAP/RHG10	1	0	[]	{'ARHGAP10': 'ARHGAP21'}
+Regulation of PLK1 Activity at G2/M Transition	0	0	[]	{}
+Regulation of PTEN gene transcription	0	0	[]	{}
+Regulation of PTEN localization	0	0	[]	{}
+Regulation of PTEN mRNA translation	0	0	[]	{}
+Regulation of PTEN stability and activity	0	0	[]	{}
+Regulation of RAS by GAPs	0	0	[]	{}
+Regulation of RUNX1 Expression and Activity	1	0	[]	{'MIR378': 'MIR378A'}
+Regulation of RUNX2 expression and activity	0	0	[]	{}
+Regulation of RUNX3 expression and activity	0	0	[]	{}
+Regulation of TLR by endogenous ligand	0	0	[]	{}
+Regulation of TNFR1 signaling	1	3	['CRMA', 'SPI-2', 'UL36']	{'TRAF2': 'TANK'}
+Regulation of TP53 Activity	6	0	[]	{'RAD1': 'ERCC4', 'BRIP1': 'MRPL36', 'TMEM55B': 'PIP4P1', 'NBN': 'ARTN', 'RPA1': 'POLR1A', 'TAF4B': 'PAPPA-AS1'}
+Regulation of TP53 Activity through Acetylation	1	0	[]	{'TMEM55B': 'PIP4P1'}
+Regulation of TP53 Activity through Association with Co-factors	0	0	[]	{}
+Regulation of TP53 Activity through Methylation	0	0	[]	{}
+Regulation of TP53 Activity through Phosphorylation	5	0	[]	{'RAD1': 'ERCC4', 'BRIP1': 'MRPL36', 'NBN': 'ARTN', 'RPA1': 'POLR1A', 'TAF4B': 'PAPPA-AS1'}
+Regulation of TP53 Degradation	0	0	[]	{}
+Regulation of TP53 Expression	0	0	[]	{}
+Regulation of TP53 Expression and Degradation	0	0	[]	{}
+Regulation of actin dynamics for phagocytic cup formation	1	2	['IGHV', 'IGLV']	{'PAK1': 'PKN1'}
+Regulation of activated PAK-2p34 by proteasome mediated degradation	0	0	[]	{}
+Regulation of beta-cell development	2	0	[]	{'GCK': 'MAP4K2', 'PDX1': 'PDHX'}
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	3	0	[]	{'SC5DL': 'SC5D', 'MTF1': 'MELTF', 'SCD': 'SLC22A5'}
+Regulation of commissural axon pathfinding by SLIT and ROBO	1	0	[]	{'SLIT3': 'SLIT1'}
+Regulation of cortical dendrite branching	0	0	[]	{}
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	1	0	[]	{'PXN': 'PXDN'}
+Regulation of expression of SLITs and ROBOs	3	5	['18S rRNA', 'ROBO3.1', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Regulation of gap junction activity	0	0	[]	{}
+Regulation of gene expression by Hypoxia-inducible Factor	1	0	[]	{'EPO': 'EPX'}
+Regulation of gene expression in beta cells	2	0	[]	{'GCK': 'MAP4K2', 'PDX1': 'PDHX'}
+Regulation of gene expression in early pancreatic precursor cells	1	0	[]	{'PDX1': 'PDHX'}
+Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells	0	0	[]	{}
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	0	0	[]	{}
+Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	0	0	[]	{}
+Regulation of innate immune responses to cytosolic DNA	0	0	[]	{}
+Regulation of insulin secretion	0	0	[]	{}
+Regulation of lipid metabolism by PPARalpha	2	0	[]	{'MTF1': 'MELTF', 'ME1': 'PCDHB16'}
+Regulation of localization of FOXO transcription factors	0	0	[]	{}
+Regulation of mRNA stability by proteins that bind AU-rich elements	0	0	[]	{}
+Regulation of mitotic cell cycle	0	0	[]	{}
+Regulation of necroptotic cell death	1	2	['CRMA', 'SPI-2']	{'TRAF2': 'TANK'}
+Regulation of ornithine decarboxylase (ODC)	0	0	[]	{}
+Regulation of pyruvate dehydrogenase (PDH) complex	1	0	[]	{'PDP1': 'PLPP6'}
+Regulation of signaling by CBL	0	0	[]	{}
+Regulation of signaling by NODAL	1	0	[]	{'CER1': 'C3CER1'}
+Regulation of the apoptosome activity	0	0	[]	{}
+Regulation of thyroid hormone activity	1	0	[]	{'DIO1': 'DIDO1'}
+Relaxin receptors	0	0	[]	{}
+Release	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+Release of Hh-Np from the secreting cell	0	0	[]	{}
+Release of apoptotic factors from the mitochondria	0	0	[]	{}
+Removal of aminoterminal propeptides from gamma-carboxylated proteins	0	0	[]	{}
+Removal of the Flap Intermediate	1	0	[]	{'RPA1': 'POLR1A'}
+Removal of the Flap Intermediate from the C-strand	1	0	[]	{'RPA1': 'POLR1A'}
+Replication of the SARS-CoV-1 genome	0	4	['1a', 'SARS coronavirus, complete genome', 'rep', 'N']	{}
+Replication of the SARS-CoV-2 genome	0	4	['SARS coronavirus, complete genome', 'rep', 'pp1a', 'N']	{}
+Repression of WNT target genes	0	0	[]	{}
+Reproduction	5	0	[]	{'DMC1': 'HID1', 'FKBP6': 'FKBP10', 'NBN': 'ARTN', 'H2AFX': 'H2AX', 'RPA1': 'POLR1A'}
+Resistance of ERBB2 KD mutants to AEE788	0	0	[]	{}
+Resistance of ERBB2 KD mutants to afatinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to lapatinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to neratinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to osimertinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to sapitinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to tesevatinib	0	0	[]	{}
+Resistance of ERBB2 KD mutants to trastuzumab	0	0	[]	{}
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway	2	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Resolution of AP sites via the single-nucleotide replacement pathway	0	0	[]	{}
+Resolution of Abasic Sites (AP sites)	2	0	[]	{'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Resolution of D-Loop Structures	2	0	[]	{'BRIP1': 'MRPL36', 'NBN': 'ARTN'}
+Resolution of D-loop Structures through Holliday Junction Intermediates	2	0	[]	{'BRIP1': 'MRPL36', 'NBN': 'ARTN'}
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	2	0	[]	{'BRIP1': 'MRPL36', 'NBN': 'ARTN'}
+Resolution of Sister Chromatid Cohesion	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Respiratory electron transport	1	0	[]	{'TRAP1': 'HSP90B2P'}
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	1	0	[]	{'TRAP1': 'HSP90B2P'}
+Response of EIF2AK1 (HRI) to heme deficiency	1	0	[]	{'EIF2AK1': 'EIF2AK2'}
+Response of EIF2AK4 (GCN2) to amino acid deficiency	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Response of Mtb to phagocytosis	0	16	['secA2', 'PPE2', 'ndkA', 'sapM', 'lprG', 'ptpA', 'Rv1410c', 'Rv3655c', 'lprM', 'esxA', 'esxH', 'eis', 'Rv3654c', 'Rv3364c', 'lpdC', 'esxG']	{}
+Response to elevated platelet cytosolic Ca2+	6	0	[]	{'ALB': 'FBF1', 'SPP2': 'SGPP2', 'SCG3': 'SGCG', 'PSAP': 'MTCH1', 'HRG': 'NRG1', 'SELP': 'SELENOP'}
+Response to metal ions	1	0	[]	{'MTF1': 'MELTF'}
+Retinoid cycle disease events	0	0	[]	{}
+Retinoid metabolism and transport	2	0	[]	{'RBP2': 'RIMBP2', 'LRP1': 'C1D'}
+Retinoid metabolism disease events	0	0	[]	{}
+Retrograde neurotrophin signalling	0	0	[]	{}
+Retrograde transport at the Trans-Golgi-Network	3	0	[]	{'NAPA': 'NAPSA', 'NAPB': 'NAPSB', 'RGP1': 'RGPD1'}
+Reuptake of GABA	0	0	[]	{}
+Rev-mediated nuclear export of HIV RNA	1	1	['rev']	{'POM121': 'POMZP3'}
+Reversal of alkylation damage by DNA dioxygenases	0	0	[]	{}
+Reverse Transcription of HIV RNA	0	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{}
+Reversible hydration of carbon dioxide	0	0	[]	{}
+Rhesus blood group biosynthesis	0	0	[]	{}
+Rhesus glycoproteins mediate ammonium transport.	0	0	[]	{}
+Rho GTPase cycle	6	0	[]	{'HMHA1': 'ARHGAP45', 'ARHGAP10': 'ARHGAP21', 'BPGAP1': 'ARHGAP8', 'DLC1': 'DLEC1', 'NET1': 'SLC6A2', 'RAC3': 'NCOA3'}
+Ribosomal scanning and start codon recognition	0	1	['18S rRNA']	{}
+Role of ABL in ROBO-SLIT signaling	1	0	[]	{'CAP2': 'TMPRSS4'}
+Role of LAT2/NTAL/LAB on calcium mobilization	1	2	['IGHV', 'IGLV']	{'LAT2': 'SLC7A8'}
+Role of phospholipids in phagocytosis	0	2	['IGHV', 'IGLV']	{}
+Role of second messengers in netrin-1 signaling	1	0	[]	{'TRPC7': 'TRPM2'}
+S Phase	4	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+S33 mutants of beta-catenin aren't phosphorylated	0	0	[]	{}
+S37 mutants of beta-catenin aren't phosphorylated	0	0	[]	{}
+S45 mutants of beta-catenin aren't phosphorylated	0	0	[]	{}
+SARS-CoV Infections	2	13	['M', 'S', 'NS5B', 'rep', '7a', '3a', 'E', 'pp1a', 'N', '9b', '8b', 'SARS coronavirus, complete genome', '1a']	{'MGAT2': 'MOGAT2', 'BRMS1': 'BRMS1L'}
+SARS-CoV-1 Genome Replication and Transcription	0	4	['1a', 'SARS coronavirus, complete genome', 'rep', 'N']	{}
+SARS-CoV-1 Infection	0	11	['rep', 'M', '1a', '9b', '8b', 'S', 'SARS coronavirus, complete genome', 'N', '7a', '3a', 'E']	{}
+SARS-CoV-2 Genome Replication and Transcription	0	4	['SARS coronavirus, complete genome', 'rep', 'pp1a', 'N']	{}
+SARS-CoV-2 Infection	1	10	['M', 'S', 'rep', '7a', '3a', 'E', 'pp1a', 'N', '9b', 'SARS coronavirus, complete genome']	{'MGAT2': 'MOGAT2'}
+SCF(Skp2)-mediated degradation of p27/p21	0	0	[]	{}
+SCF-beta-TrCP mediated degradation of Emi1	0	0	[]	{}
+SDK interactions	0	0	[]	{}
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	0	0	[]	{}
+SHC-mediated cascade:FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+SHC-mediated cascade:FGFR2	1	0	[]	{'FGF2': 'FGF13'}
+SHC-mediated cascade:FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+SHC-mediated cascade:FGFR4	1	0	[]	{'FGF2': 'FGF13'}
+SHC-related events triggered by IGF1R	0	0	[]	{}
+SHC1 events in EGFR signaling	0	0	[]	{}
+SHC1 events in ERBB2 signaling	0	0	[]	{}
+SHC1 events in ERBB4 signaling	0	0	[]	{}
+SIRT1 negatively regulates rRNA expression	1	3	['5S rRNA', '5.8S rRNA', '28S rRNA']	{'H2AFX': 'H2AX'}
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	0	0	[]	{}
+SLBP independent Processing of Histone Pre-mRNAs	0	0	[]	{}
+SLC transporter disorders	4	0	[]	{'GCK': 'MAP4K2', 'HK1': 'HOOK1', 'POM121': 'POMZP3', 'SLC6A5': 'SLC6A2'}
+SLC-mediated transmembrane transport	2	0	[]	{'ALB': 'FBF1', 'SLC6A5': 'SLC6A2'}
+SLIT2:ROBO1 increases RHOA activity	0	0	[]	{}
+SMAC (DIABLO) binds to IAPs	0	0	[]	{}
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes	0	0	[]	{}
+SMAC, XIAP-regulated apoptotic response	0	0	[]	{}
+SMAD2/3 MH2 Domain Mutants in Cancer	0	0	[]	{}
+SMAD2/3 Phosphorylation Motif Mutants in Cancer	0	0	[]	{}
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	0	0	[]	{}
+SMAD4 MH2 Domain Mutants in Cancer	0	0	[]	{}
+SOS-mediated signalling	0	0	[]	{}
+SRP-dependent cotranslational protein targeting to membrane	3	6	['7SL RNA (ENSG00000222639)', '18S rRNA', '7SL RNA (ENSG00000222619)', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+STAT5 Activation	0	0	[]	{}
+STAT5 activation downstream of FLT3 ITD mutants	0	0	[]	{}
+STAT6-mediated induction of chemokines	0	0	[]	{}
+STING mediated induction of host immune responses	0	0	[]	{}
+SUMO E3 ligases SUMOylate target proteins	2	0	[]	{'POM121': 'POMZP3', 'RPA1': 'POLR1A'}
+SUMO is conjugated to E1 (UBA2:SAE1)	0	0	[]	{}
+SUMO is proteolytically processed	0	0	[]	{}
+SUMO is transferred from E1 to E2 (UBE2I, UBC9)	0	0	[]	{}
+SUMOylation	2	0	[]	{'POM121': 'POMZP3', 'RPA1': 'POLR1A'}
+SUMOylation of DNA damage response and repair proteins	2	0	[]	{'POM121': 'POMZP3', 'RPA1': 'POLR1A'}
+SUMOylation of DNA methylation proteins	0	0	[]	{}
+SUMOylation of DNA replication proteins	1	0	[]	{'POM121': 'POMZP3'}
+SUMOylation of RNA binding proteins	1	0	[]	{'POM121': 'POMZP3'}
+SUMOylation of SUMOylation proteins	1	0	[]	{'POM121': 'POMZP3'}
+SUMOylation of chromatin organization proteins	1	0	[]	{'POM121': 'POMZP3'}
+SUMOylation of immune response proteins	0	0	[]	{}
+SUMOylation of intracellular receptors	0	0	[]	{}
+SUMOylation of transcription cofactors	0	0	[]	{}
+SUMOylation of transcription factors	0	0	[]	{}
+SUMOylation of ubiquitinylation proteins	1	0	[]	{'POM121': 'POMZP3'}
+Scavenging by Class A Receptors	0	0	[]	{}
+Scavenging by Class B Receptors	0	0	[]	{}
+Scavenging by Class F Receptors	0	1	['porB']	{}
+Scavenging by Class H Receptors	0	0	[]	{}
+Scavenging of heme from plasma	2	2	['IGHV', 'IGLV']	{'ALB': 'FBF1', 'LRP1': 'C1D'}
+Sealing of the nuclear envelope (NE) by ESCRT-III	0	0	[]	{}
+Selective autophagy	1	0	[]	{'PARK2': 'PRKN'}
+Selenoamino acid metabolism	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Selenocysteine synthesis	3	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'RPL36A': 'RPL36AL'}
+Sema3A PAK dependent Axon repulsion	2	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1'}
+Sema4D in semaphorin signaling	1	0	[]	{'MYH14': 'MYH7B'}
+Sema4D induced cell migration and growth-cone collapse	1	0	[]	{'MYH14': 'MYH7B'}
+Sema4D mediated inhibition of cell attachment and migration	0	0	[]	{}
+Semaphorin interactions	3	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'MYH14': 'MYH7B'}
+Senescence-Associated Secretory Phenotype (SASP)	2	0	[]	{'IL8': 'CXCL8', 'H2AFX': 'H2AX'}
+Sensing of DNA Double Strand Breaks	1	0	[]	{'NBN': 'ARTN'}
+Separation of Sister Chromatids	2	0	[]	{'CENPC': 'CENPCP1', 'APITD1': 'CENPS'}
+Serine biosynthesis	0	0	[]	{}
+Serotonin Neurotransmitter Release Cycle	0	0	[]	{}
+Serotonin and melatonin biosynthesis	1	0	[]	{'TPH2': 'TDO2'}
+Serotonin clearance from the synaptic cleft	0	0	[]	{}
+Serotonin receptors	0	0	[]	{}
+Severe congenital neutropenia type 4 (G6PC3)	0	0	[]	{}
+Sialic acid metabolism	0	0	[]	{}
+Signal Transduction	56	7	['MIR92b', 'MAPK6 gene', 'CRMA', 'FGFR2c', 'FGFR2b', 'SPI-2', 'UL36']	{'LAMB2': 'LAMC1', 'NET1': 'SLC6A2', 'SPP1': 'CXXC1', 'RAC3': 'NCOA3', 'APITD1': 'CENPS', 'FABP5': 'FABP5P1', 'MYH14': 'MYH7B', 'SCD': 'SLC22A5', 'PAK1': 'PKN1', 'RBP3': 'E2F1', 'NOS3': 'NANOS3', 'CENPC': 'CENPCP1', 'FZD3': 'FZD9', 'HMHA1': 'ARHGAP45', 'PSAP': 'MTCH1', 'HRH2': 'DHX15', 'GIP': 'C1QTNF1', 'CER1': 'C3CER1', 'RBP2': 'RIMBP2', 'CDH1': 'FZR1', 'PXN': 'PXDN', 'ROR2': 'RORA', 'PAK3': 'ARHGEF7', 'ARHGAP10': 'ARHGAP21', 'GRIN1': 'GPRIN1', 'SAG': 'RNF7', 'NMB': 'GPNMB', 'CNR2': 'PCDHA6', 'OR5R1': 'OR8U3', 'GRP': 'LGALSL', 'TCF4': 'TCF7L2', 'DOK1': 'ART4', 'TRPC7': 'TRPM2', 'OR8G2': 'OR8G2P', 'DUSP1': 'DUSP12', 'MST1': 'STK4', 'EPO': 'EPX', 'DLG3': 'MPP3', 'KSR2': 'CNKSR2', 'FGF2': 'FGF13', 'VIP': 'CPAMD8', 'LAMA3': 'LAMA4', 'SMO': 'SMOX', 'LAT': 'SPNS1', 'STRAP': 'SRFBP1', 'TAAR3': 'TAAR3P', 'LRP1': 'C1D', 'PTH2': 'PTENP1', 'OR2W5': 'OR2W5P', 'HCRTR2': 'CD200R1', 'H2AFX': 'H2AX', 'TRAF2': 'TANK', 'RGS13': 'RGS18', 'F3': 'CNTN1', 'BPGAP1': 'ARHGAP8', 'DLC1': 'DLEC1'}
+Signal amplification	0	0	[]	{}
+Signal attenuation	0	0	[]	{}
+Signal regulatory protein family interactions	1	0	[]	{'FYB': 'FYB1'}
+Signal transduction by L1	1	0	[]	{'PAK1': 'PKN1'}
+Signaling by AMER1 mutants	0	0	[]	{}
+Signaling by APC mutants	0	0	[]	{}
+Signaling by AXIN mutants	0	0	[]	{}
+Signaling by Activin	0	0	[]	{}
+Signaling by BMP	1	0	[]	{'CER1': 'C3CER1'}
+Signaling by BRAF and RAF fusions	1	0	[]	{'KSR2': 'CNKSR2'}
+Signaling by CTNNB1 phospho-site mutants	0	0	[]	{}
+Signaling by EGFR	1	0	[]	{'PXN': 'PXDN'}
+Signaling by EGFR in Cancer	0	0	[]	{}
+Signaling by EGFRvIII in Cancer	0	0	[]	{}
+Signaling by ERBB2	0	0	[]	{}
+Signaling by ERBB2 ECD mutants	0	0	[]	{}
+Signaling by ERBB2 KD Mutants	0	0	[]	{}
+Signaling by ERBB2 TMD/JMD mutants	0	0	[]	{}
+Signaling by ERBB2 in Cancer	0	0	[]	{}
+Signaling by ERBB4	0	0	[]	{}
+Signaling by Erythropoietin	1	0	[]	{'EPO': 'EPX'}
+Signaling by FGFR	1	2	['FGFR2c', 'FGFR2b']	{'FGF2': 'FGF13'}
+Signaling by FGFR in disease	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR1 amplification mutants	0	0	[]	{}
+Signaling by FGFR1 in disease	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR2	1	2	['FGFR2b', 'FGFR2c']	{'FGF2': 'FGF13'}
+Signaling by FGFR2 IIIa TM	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR2 amplification mutants	0	0	[]	{}
+Signaling by FGFR2 fusions	0	0	[]	{}
+Signaling by FGFR2 in disease	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR3 fusions in cancer	0	0	[]	{}
+Signaling by FGFR3 in disease	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR3 point mutants in cancer	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR4	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by FGFR4 in disease	0	0	[]	{}
+Signaling by FLT3 ITD and TKD mutants	0	0	[]	{}
+Signaling by FLT3 fusion proteins	0	0	[]	{}
+Signaling by GPCR	23	0	[]	{'TAAR3': 'TAAR3P', 'TRPC7': 'TRPM2', 'LRP1': 'C1D', 'OR8G2': 'OR8G2P', 'NET1': 'SLC6A2', 'PSAP': 'MTCH1', 'PTH2': 'PTENP1', 'HRH2': 'DHX15', 'OR2W5': 'OR2W5P', 'GIP': 'C1QTNF1', 'RBP2': 'RIMBP2', 'HCRTR2': 'CD200R1', 'RGS13': 'RGS18', 'VIP': 'CPAMD8', 'SAG': 'RNF7', 'NMB': 'GPNMB', 'PAK1': 'PKN1', 'CNR2': 'PCDHA6', 'SMO': 'SMOX', 'RBP3': 'E2F1', 'OR5R1': 'OR8U3', 'GRP': 'LGALSL', 'FZD3': 'FZD9'}
+Signaling by GSK3beta mutants	0	0	[]	{}
+Signaling by Hedgehog	1	0	[]	{'SMO': 'SMOX'}
+Signaling by Hippo	0	0	[]	{}
+Signaling by Insulin receptor	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by Interleukins	6	2	['CSF2 gene', 'HSP9']	{'OSM': 'CCM2', 'AIP': 'AURKAIP1', 'FGF2': 'FGF13', 'IL8': 'CXCL8', 'LCP1': 'TOX4', 'IL27': 'IL17D'}
+Signaling by KIT in disease	0	0	[]	{}
+Signaling by LRP5 mutants	0	0	[]	{}
+Signaling by Leptin	0	0	[]	{}
+Signaling by Ligand-Responsive EGFR Variants in Cancer	0	0	[]	{}
+Signaling by MAP2K mutants	0	0	[]	{}
+Signaling by MAPK mutants	0	0	[]	{}
+Signaling by MET	2	0	[]	{'LAMA3': 'LAMA4', 'LAMB2': 'LAMC1'}
+Signaling by MRAS-complex mutants	0	0	[]	{}
+Signaling by MST1	1	0	[]	{'MST1': 'STK4'}
+Signaling by NODAL	1	0	[]	{'CER1': 'C3CER1'}
+Signaling by NOTCH	1	0	[]	{'H2AFX': 'H2AX'}
+Signaling by NOTCH1	0	0	[]	{}
+Signaling by NOTCH1 HD Domain Mutants in Cancer	0	0	[]	{}
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	0	0	[]	{}
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	0	0	[]	{}
+Signaling by NOTCH1 in Cancer	0	0	[]	{}
+Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	0	0	[]	{}
+Signaling by NOTCH2	0	0	[]	{}
+Signaling by NOTCH3	0	0	[]	{}
+Signaling by NOTCH4	0	0	[]	{}
+Signaling by NTRK1 (TRKA)	1	0	[]	{'F3': 'CNTN1'}
+Signaling by NTRK2 (TRKB)	0	0	[]	{}
+Signaling by NTRK3 (TRKC)	0	0	[]	{}
+Signaling by NTRKs	1	0	[]	{'F3': 'CNTN1'}
+Signaling by Non-Receptor Tyrosine Kinases	2	0	[]	{'DOK1': 'ART4', 'PXN': 'PXDN'}
+Signaling by Nuclear Receptors	4	0	[]	{'SCD': 'SLC22A5', 'FABP5': 'FABP5P1', 'NOS3': 'NANOS3', 'H2AFX': 'H2AX'}
+Signaling by Overexpressed Wild-Type EGFR in Cancer	0	0	[]	{}
+Signaling by PDGF	1	0	[]	{'SPP1': 'CXXC1'}
+Signaling by PDGFR in disease	0	0	[]	{}
+Signaling by PDGFRA extracellular domain mutants	0	0	[]	{}
+Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants	0	0	[]	{}
+Signaling by PTK6	2	0	[]	{'DOK1': 'ART4', 'PXN': 'PXDN'}
+Signaling by RAF1 mutants	1	0	[]	{'KSR2': 'CNKSR2'}
+Signaling by RAS mutants	1	0	[]	{'KSR2': 'CNKSR2'}
+Signaling by RNF43 mutants	0	0	[]	{}
+Signaling by ROBO receptors	8	5	['18S rRNA', 'ROBO3.1', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'CAP2': 'TMPRSS4', 'RPL36A': 'RPL36AL', 'PAK5': 'PAK6', 'SLIT3': 'SLIT1'}
+Signaling by Receptor Tyrosine Kinases	10	2	['FGFR2c', 'FGFR2b']	{'LAMB2': 'LAMC1', 'MST1': 'STK4', 'SPP1': 'CXXC1', 'FGF2': 'FGF13', 'PXN': 'PXDN', 'PAK3': 'ARHGEF7', 'LAMA3': 'LAMA4', 'PAK1': 'PKN1', 'F3': 'CNTN1', 'NOS3': 'NANOS3'}
+Signaling by Retinoic Acid	1	0	[]	{'FABP5': 'FABP5P1'}
+Signaling by Rho GTPases	13	0	[]	{'HMHA1': 'ARHGAP45', 'NET1': 'SLC6A2', 'RAC3': 'NCOA3', 'APITD1': 'CENPS', 'H2AFX': 'H2AX', 'CDH1': 'FZR1', 'PAK3': 'ARHGEF7', 'MYH14': 'MYH7B', 'ARHGAP10': 'ARHGAP21', 'PAK1': 'PKN1', 'BPGAP1': 'ARHGAP8', 'DLC1': 'DLEC1', 'CENPC': 'CENPCP1'}
+Signaling by SCF-KIT	0	0	[]	{}
+Signaling by TCF7L2 mutants	0	0	[]	{}
+Signaling by TGF-beta Receptor Complex	1	0	[]	{'STRAP': 'SRFBP1'}
+Signaling by TGF-beta Receptor Complex in Cancer	0	0	[]	{}
+Signaling by TGFB family members	2	0	[]	{'STRAP': 'SRFBP1', 'CER1': 'C3CER1'}
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by VEGF	4	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'NOS3': 'NANOS3', 'PXN': 'PXDN'}
+Signaling by WNT	5	1	['MIR92b']	{'H2AFX': 'H2AX', 'TCF4': 'TCF7L2', 'ROR2': 'RORA', 'RAC3': 'NCOA3', 'FZD3': 'FZD9'}
+Signaling by WNT in cancer	0	0	[]	{}
+Signaling by activated point mutants of FGFR1	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by activated point mutants of FGFR3	1	0	[]	{'FGF2': 'FGF13'}
+Signaling by cytosolic FGFR1 fusion mutants	0	0	[]	{}
+Signaling by cytosolic PDGFRA and PDGFRB fusion proteins	0	0	[]	{}
+Signaling by extracellular domain mutants of KIT	0	0	[]	{}
+Signaling by high-kinase activity BRAF mutants	1	0	[]	{'KSR2': 'CNKSR2'}
+Signaling by juxtamembrane domain KIT mutants	0	0	[]	{}
+Signaling by kinase domain mutants of KIT	0	0	[]	{}
+Signaling by membrane-tethered fusions of PDGFRA or PDGFRB	0	0	[]	{}
+Signaling by moderate kinase activity BRAF mutants	1	0	[]	{'KSR2': 'CNKSR2'}
+Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	0	0	[]	{}
+Signaling by plasma membrane FGFR1 fusions	0	0	[]	{}
+Signaling by the B Cell Receptor (BCR)	0	2	['IGHV', 'IGLV']	{}
+Signaling downstream of RAS mutants	1	0	[]	{'KSR2': 'CNKSR2'}
+Signalling to ERK5	0	0	[]	{}
+Signalling to ERKs	0	0	[]	{}
+Signalling to RAS	0	0	[]	{}
+Signalling to STAT3	0	0	[]	{}
+Signalling to p38 via RIT and RIN	0	0	[]	{}
+Small interfering RNA (siRNA) biogenesis	0	0	[]	{}
+Smooth Muscle Contraction	4	0	[]	{'PAK1': 'PKN1', 'GUCY1A3': 'GUCY1A1', 'GUCY1B3': 'GUCY1B1', 'PXN': 'PXDN'}
+Sodium-coupled phosphate cotransporters	0	0	[]	{}
+Sodium-coupled sulphate, di- and tri-carboxylate transporters	0	0	[]	{}
+Sodium/Calcium exchangers	0	0	[]	{}
+Sodium/Proton exchangers	0	0	[]	{}
+Sorafenib-resistant KIT mutants	0	0	[]	{}
+Sorafenib-resistant PDGFR mutants	0	0	[]	{}
+Sperm Motility And Taxes	0	0	[]	{}
+Sphingolipid de novo biosynthesis	0	0	[]	{}
+Sphingolipid metabolism	1	0	[]	{'PSAP': 'MTCH1'}
+Spry regulation of FGF signaling	0	0	[]	{}
+Stabilization of p53	1	0	[]	{'RFWD2': 'COP1'}
+Sterols are 12-hydroxylated by CYP8B1	0	0	[]	{}
+Stimulation of the cell death response by PAK-2p34	0	0	[]	{}
+Stimuli-sensing channels	2	0	[]	{'SGK2': 'SGK3', 'TRPC7': 'TRPM2'}
+Striated Muscle Contraction	0	0	[]	{}
+Sulfide oxidation to sulfate	1	0	[]	{'SQRDL': 'SQOR'}
+Sulfur amino acid metabolism	1	0	[]	{'SQRDL': 'SQOR'}
+Sunitinib-resistant KIT mutants	0	0	[]	{}
+Sunitinib-resistant PDGFR mutants	0	0	[]	{}
+Suppression of apoptosis	0	5	['Rv3654c', 'ptpA', 'Rv3655c', 'Rv3364c', 'lprM']	{}
+Suppression of autophagy	0	2	['sapM', 'eis']	{}
+Suppression of phagosomal maturation	0	10	['secA2', 'PPE2', 'ndkA', 'sapM', 'lprG', 'ptpA', 'Rv1410c', 'esxH', 'lpdC', 'esxG']	{}
+Surfactant metabolism	2	0	[]	{'CECR1': 'ADA2', 'TTF1': 'NKX2-1'}
+Switching of origins to a post-replicative state	2	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7'}
+Synaptic adhesion-like molecules	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Syndecan interactions	1	0	[]	{'FGF2': 'FGF13'}
+Synthesis And Processing Of GAG, GAGPOL Polyproteins	0	1	['gag']	{}
+Synthesis and processing of ENV and VPU	0	2	['env', 'vpu']	{}
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	0	0	[]	{}
+Synthesis of 12-eicosatetraenoic acid derivatives	0	0	[]	{}
+Synthesis of 15-eicosatetraenoic acid derivatives	0	0	[]	{}
+Synthesis of 5-eicosatetraenoic acids	0	0	[]	{}
+Synthesis of CL	0	0	[]	{}
+Synthesis of DNA	4	0	[]	{'ORC1': 'SLC25A15', 'MCM2': 'MCM7', 'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Synthesis of Dolichyl-phosphate	0	0	[]	{}
+Synthesis of GDP-mannose	0	0	[]	{}
+Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	0	0	[]	{}
+Synthesis of IP2, IP, and Ins in the cytosol	0	0	[]	{}
+Synthesis of IP3 and IP4 in the cytosol	0	0	[]	{}
+Synthesis of IPs in the ER lumen	0	0	[]	{}
+Synthesis of IPs in the nucleus	0	0	[]	{}
+Synthesis of Ketone Bodies	0	0	[]	{}
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	0	0	[]	{}
+Synthesis of Lipoxins (LX)	0	0	[]	{}
+Synthesis of PA	0	0	[]	{}
+Synthesis of PC	0	0	[]	{}
+Synthesis of PE	1	0	[]	{'PISD': 'SFI1'}
+Synthesis of PG	0	0	[]	{}
+Synthesis of PI	1	0	[]	{'CDS1': 'CHEK2'}
+Synthesis of PIPs at the ER membrane	0	0	[]	{}
+Synthesis of PIPs at the Golgi membrane	1	0	[]	{'INPP5E': 'PMPCA'}
+Synthesis of PIPs at the early endosome membrane	0	0	[]	{}
+Synthesis of PIPs at the late endosome membrane	0	0	[]	{}
+Synthesis of PIPs at the plasma membrane	0	0	[]	{}
+Synthesis of PIPs in the nucleus	1	0	[]	{'TMEM55B': 'PIP4P1'}
+Synthesis of PS	0	0	[]	{}
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	0	0	[]	{}
+Synthesis of UDP-N-acetyl-glucosamine	0	0	[]	{}
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	0	0	[]	{}
+Synthesis of bile acids and bile salts	0	0	[]	{}
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol	0	0	[]	{}
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol	0	0	[]	{}
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	0	0	[]	{}
+Synthesis of diphthamide-EEF2	0	0	[]	{}
+Synthesis of dolichyl-phosphate mannose	0	0	[]	{}
+Synthesis of dolichyl-phosphate-glucose	0	0	[]	{}
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	0	0	[]	{}
+Synthesis of glycosylphosphatidylinositol (GPI)	0	0	[]	{}
+Synthesis of pyrophosphates in the cytosol	0	0	[]	{}
+Synthesis of substrates in N-glycan biosythesis	0	0	[]	{}
+Synthesis of very long-chain fatty acyl-CoAs	0	0	[]	{}
+Synthesis of wybutosine at G37 of tRNA(Phe)	0	0	[]	{}
+Synthesis, secretion, and deacylation of Ghrelin	0	0	[]	{}
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	1	0	[]	{'GRP': 'LGALSL'}
+Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	1	0	[]	{'GIP': 'C1QTNF1'}
+T41 mutants of beta-catenin aren't phosphorylated	0	0	[]	{}
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex	0	0	[]	{}
+TALDO1 deficiency: failed conversion of  Fru(6)P, E4P to SH7P, GA3P	0	0	[]	{}
+TALDO1 deficiency: failed conversion of SH7P, GA3P to Fru(6)P, E4P	0	0	[]	{}
+TBC/RABGAPs	1	0	[]	{'RAB11B': 'RAB43'}
+TCF dependent signaling in response to WNT	2	0	[]	{'H2AFX': 'H2AX', 'TCF4': 'TCF7L2'}
+TCR signaling	4	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'LAT': 'SPNS1', 'FYB': 'FYB1'}
+TET1,2,3 and TDG demethylate DNA	0	0	[]	{}
+TFAP2 (AP-2) family regulates transcription of cell cycle factors	0	0	[]	{}
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	0	0	[]	{}
+TFAP2 (AP-2) family regulates transcription of other transcription factors	0	0	[]	{}
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	0	0	[]	{}
+TGF-beta receptor signaling activates SMADs	1	0	[]	{'STRAP': 'SRFBP1'}
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	0	0	[]	{}
+TGFBR1 KD Mutants in Cancer	0	0	[]	{}
+TGFBR1 LBD Mutants in Cancer	0	0	[]	{}
+TGFBR2 Kinase Domain Mutants in Cancer	0	0	[]	{}
+TGFBR2 MSI Frameshift Mutants in Cancer	0	0	[]	{}
+TICAM1 deficiency - HSE	0	0	[]	{}
+TICAM1, RIP1-mediated IKK complex recruitment	0	0	[]	{}
+TICAM1,TRAF6-dependent induction of TAK1 complex	0	0	[]	{}
+TICAM1-dependent activation of IRF3/IRF7	0	0	[]	{}
+TLR3 deficiency - HSE	0	0	[]	{}
+TLR3-mediated TICAM1-dependent programmed cell death	0	0	[]	{}
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	1	0	[]	{'TRAF2': 'TANK'}
+TNF signaling	1	3	['CRMA', 'SPI-2', 'UL36']	{'TRAF2': 'TANK'}
+TNFR1-induced NFkappaB signaling pathway	1	0	[]	{'TRAF2': 'TANK'}
+TNFR1-induced proapoptotic signaling	1	1	['UL36']	{'TRAF2': 'TANK'}
+TNFR1-mediated ceramide production	0	0	[]	{}
+TNFR2 non-canonical NF-kB pathway	3	0	[]	{'TNFSF6': 'FASLG', 'TRAF2': 'TANK', 'TNFRSF11B': 'BTF3P11'}
+TNFs bind their physiological receptors	2	0	[]	{'TNFRSF11B': 'BTF3P11', 'TNFSF6': 'FASLG'}
+TP53 Regulates Metabolic Genes	2	0	[]	{'GLS': 'GLS2', 'GPI': 'GNPDA1'}
+TP53 Regulates Transcription of Caspase Activators and Caspases	0	0	[]	{}
+TP53 Regulates Transcription of Cell Cycle Genes	1	0	[]	{'RQCD1': 'CNOT9'}
+TP53 Regulates Transcription of Cell Death Genes	0	0	[]	{}
+TP53 Regulates Transcription of DNA Repair Genes	0	0	[]	{}
+TP53 Regulates Transcription of Death Receptors and Ligands	0	0	[]	{}
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	0	0	[]	{}
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	0	0	[]	{}
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	0	0	[]	{}
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	1	0	[]	{'RQCD1': 'CNOT9'}
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	0	0	[]	{}
+TRAF3 deficiency - HSE	0	0	[]	{}
+TRAF3-dependent IRF activation pathway	0	0	[]	{}
+TRAF6 mediated IRF7 activation	1	0	[]	{'TRAF2': 'TANK'}
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	0	0	[]	{}
+TRAF6 mediated NF-kB activation	1	0	[]	{'TRAF2': 'TANK'}
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	0	0	[]	{}
+TRAF6-mediated induction of TAK1 complex within TLR4 complex	0	0	[]	{}
+TRAIL  signaling	0	0	[]	{}
+TRIF(TICAM1)-mediated TLR4 signaling	0	0	[]	{}
+TRIF-mediated programmed cell death	0	0	[]	{}
+TRKA activation by NGF	0	0	[]	{}
+TRP channels	1	0	[]	{'TRPC7': 'TRPM2'}
+TWIK related potassium channel (TREK)	0	0	[]	{}
+TWIK-related alkaline pH activated K+ channel (TALK)	0	0	[]	{}
+TWIK-related spinal cord K+ channel (TRESK)	0	0	[]	{}
+TWIK-releated acid-sensitive K+ channel (TASK)	0	0	[]	{}
+TYSND1 cleaves peroxisomal proteins	0	0	[]	{}
+Tachykinin receptors bind tachykinins	0	0	[]	{}
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	0	0	[]	{}
+Tandem pore domain halothane-inhibited K+ channel (THIK)	0	0	[]	{}
+Tandem pore domain potassium channels	0	0	[]	{}
+Tat-mediated HIV elongation arrest and recovery	0	1	['tat']	{}
+Tat-mediated elongation of the HIV-1 transcript	0	1	['tat']	{}
+Telomere C-strand (Lagging Strand) Synthesis	3	0	[]	{'TEN1': 'TENM1', 'LIG1': 'LRIG1', 'RPA1': 'POLR1A'}
+Telomere C-strand synthesis initiation	1	0	[]	{'TEN1': 'TENM1'}
+Telomere Extension By Telomerase	1	0	[]	{'GAR1': 'CNGB1'}
+Telomere Maintenance	5	0	[]	{'TEN1': 'TENM1', 'LIG1': 'LRIG1', 'H2AFX': 'H2AX', 'GAR1': 'CNGB1', 'RPA1': 'POLR1A'}
+Terminal pathway of complement	0	0	[]	{}
+Termination of O-glycan biosynthesis	0	0	[]	{}
+Termination of translesion DNA synthesis	2	0	[]	{'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	1	0	[]	{'NOS3': 'NANOS3'}
+The AIM2 inflammasome	0	0	[]	{}
+The IPAF inflammasome	0	3	['fliC', 'prgJ', 'fljB']	{}
+The NLRP1 inflammasome	0	0	[]	{}
+The NLRP3 inflammasome	0	1	['hly']	{}
+The activation of arylsulfatases	0	0	[]	{}
+The canonical retinoid cycle in rods (twilight vision)	1	0	[]	{'RBP3': 'E2F1'}
+The citric acid (TCA) cycle and respiratory electron transport	3	0	[]	{'TRAP1': 'HSP90B2P', 'PDP1': 'PLPP6', 'ME1': 'PCDHB16'}
+The fatty acid cycling model	0	0	[]	{}
+The phototransduction cascade	1	0	[]	{'SAG': 'RNF7'}
+The proton buffering model	0	0	[]	{}
+The retinoid cycle in cones (daylight vision)	1	0	[]	{'RBP3': 'E2F1'}
+The role of GTSE1 in G2/M progression after G2 checkpoint	0	0	[]	{}
+The role of Nef in HIV-1 replication and disease pathogenesis	0	1	['nef']	{}
+Threonine catabolism	0	0	[]	{}
+Thrombin signalling through proteinase activated receptors (PARs)	0	0	[]	{}
+Thromboxane signalling through TP receptor	0	0	[]	{}
+Thyroxine biosynthesis	2	0	[]	{'TPO': 'THPO', 'DIO1': 'DIDO1'}
+Tie2 Signaling	0	0	[]	{}
+Tight junction interactions	0	0	[]	{}
+Tolerance by Mtb to nitric oxide produced by macrophages	0	13	['ggtA', 'ahpC', 'Rv1281c', 'msrA', 'tpx', 'adhE2', 'Rv2238c', 'Rv1282c', 'MT2748', 'Rv1283c', 'trxA', 'Rv1280c', 'glbN']	{}
+Tolerance of reactive oxygen produced by macrophages	0	11	['katG', 'secD', 'secA1', 'ahpC', 'secA2', 'secF', 'sodC', 'secY', 'secG', 'sodB', 'secE']	{}
+Toll Like Receptor 10 (TLR10) Cascade	0	1	['fliC']	{}
+Toll Like Receptor 2 (TLR2) Cascade	0	2	['porB', 'mip']	{}
+Toll Like Receptor 3 (TLR3) Cascade	0	0	[]	{}
+Toll Like Receptor 4 (TLR4) Cascade	0	2	['porB', 'mip']	{}
+Toll Like Receptor 5 (TLR5) Cascade	0	1	['fliC']	{}
+Toll Like Receptor 7/8 (TLR7/8) Cascade	0	0	[]	{}
+Toll Like Receptor 9 (TLR9) Cascade	0	0	[]	{}
+Toll Like Receptor TLR1:TLR2 Cascade	0	2	['porB', 'mip']	{}
+Toll Like Receptor TLR6:TLR2 Cascade	0	2	['porB', 'mip']	{}
+Toll-like Receptor Cascades	0	3	['fliC', 'porB', 'mip']	{}
+Toxicity of botulinum toxin type A (botA)	0	5	['HA-33', 'ha17', 'ha70', 'ntnha', 'botA']	{}
+Toxicity of botulinum toxin type B (botB)	0	5	['HA-33', 'ha17', 'botB', 'ha70', 'ntnha']	{}
+Toxicity of botulinum toxin type C (botC)	0	0	[]	{}
+Toxicity of botulinum toxin type D (botD)	0	1	['botD']	{}
+Toxicity of botulinum toxin type E (botE)	0	2	['ntnha', 'botE']	{}
+Toxicity of botulinum toxin type F (botF)	0	1	['botF']	{}
+Toxicity of botulinum toxin type G (botG)	0	1	['botG']	{}
+Toxicity of tetanus toxin (tetX)	0	1	['tetX']	{}
+Trafficking and processing of endosomal TLR	0	0	[]	{}
+Trafficking of AMPA receptors	0	0	[]	{}
+Trafficking of GluR2-containing AMPA receptors	0	0	[]	{}
+Trafficking of myristoylated proteins to the cilium	1	0	[]	{'RP2': 'STK19B'}
+Transcription from mitochondrial promoters	0	0	[]	{}
+Transcription of E2F targets under negative control by DREAM complex	0	0	[]	{}
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	0	0	[]	{}
+Transcription of SARS-CoV-1 sgRNAs	0	4	['rep', 'N', '1a', 'SARS coronavirus, complete genome']	{}
+Transcription of SARS-CoV-2 sgRNAs	0	4	['pp1a', 'N', 'rep', 'SARS coronavirus, complete genome']	{}
+Transcription of the HIV genome	1	1	['tat']	{'TAF4B': 'PAPPA-AS1'}
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	4	0	[]	{'LIG1': 'LRIG1', 'ISY1': 'RAB43', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Transcriptional  activation of  cell cycle inhibitor p21	0	0	[]	{}
+Transcriptional Regulation by E2F6	1	0	[]	{'MGA': 'MGAM'}
+Transcriptional Regulation by MECP2	2	0	[]	{'HTT': 'SLC6A4', 'PVALB': 'MB'}
+Transcriptional Regulation by TP53	9	0	[]	{'TAF4B': 'PAPPA-AS1', 'BRIP1': 'MRPL36', 'RQCD1': 'CNOT9', 'NBN': 'ARTN', 'RPA1': 'POLR1A', 'RAD1': 'ERCC4', 'GLS': 'GLS2', 'GPI': 'GNPDA1', 'TMEM55B': 'PIP4P1'}
+Transcriptional Regulation by VENTX	0	0	[]	{}
+Transcriptional activation of mitochondrial biogenesis	3	0	[]	{'ATP5B': 'ATP5F1B', 'MTERF': 'MTERF1', 'PEO1': 'TWNK'}
+Transcriptional activation of p53 responsive genes	0	0	[]	{}
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	0	0	[]	{}
+Transcriptional regulation by RUNX1	2	1	['CSF2 gene']	{'H2AFX': 'H2AX', 'MIR378': 'MIR378A'}
+Transcriptional regulation by RUNX2	0	0	[]	{}
+Transcriptional regulation by RUNX3	2	0	[]	{'CTGF': 'CCN2', 'SPP1': 'CXXC1'}
+Transcriptional regulation by small RNAs	2	0	[]	{'POM121': 'POMZP3', 'H2AFX': 'H2AX'}
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	0	0	[]	{}
+Transcriptional regulation of granulopoiesis	1	0	[]	{'H2AFX': 'H2AX'}
+Transcriptional regulation of pluripotent stem cells	1	2	['POU5F1 (OCT4)', 'EPAS1 (HIF2A)']	{'FGF2': 'FGF13'}
+Transcriptional regulation of testis differentiation	0	0	[]	{}
+Transcriptional regulation of white adipocyte differentiation	0	0	[]	{}
+Transfer of LPS from LBP carrier to CD14	0	0	[]	{}
+Transferrin endocytosis and recycling	0	0	[]	{}
+Translation	7	6	['7SL RNA (ENSG00000222639)', '18S rRNA', '7SL RNA (ENSG00000222619)', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'HARS2': 'DTD1', 'MRPS28': 'MRPS35', 'RPL13': 'MRPL13', 'MRPL27': 'MRPL41', 'RPL10': 'RPL15', 'DAP3': 'DLGAP3', 'RPL36A': 'RPL36AL'}
+Translation initiation complex formation	0	1	['18S rRNA']	{}
+Translation of Replicase and Assembly of the Replication Transcription Complex	0	5	['SARS coronavirus, complete genome', 'rep', '9b', '8b', '1a']	{}
+Translation of structural proteins	0	6	['M', 'S', 'SARS coronavirus, complete genome', 'N', '3a', 'E']	{}
+Translesion Synthesis by POLH	2	0	[]	{'RPA1': 'POLR1A', 'UFD1L': 'UFD1'}
+Translesion synthesis by POLI	1	0	[]	{'RPA1': 'POLR1A'}
+Translesion synthesis by POLK	2	0	[]	{'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Translesion synthesis by REV1	1	0	[]	{'RPA1': 'POLR1A'}
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	3	0	[]	{'UFD1L': 'UFD1', 'RPA1': 'POLR1A', 'POLK': 'TENT4A'}
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	0	0	[]	{}
+Translocation of ZAP-70 to Immunological synapse	0	0	[]	{}
+Transmission across Chemical Synapses	4	0	[]	{'GLS': 'GLS2', 'GRIK2': 'GRIK5', 'GRIN1': 'GPRIN1', 'DLG3': 'MPP3'}
+Transmission across Electrical Synapses	2	0	[]	{'GJA10': 'GJA9', 'GJC1': 'GJD3'}
+Transport and synthesis of PAPS	0	0	[]	{}
+Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus	1	2	['M', 'HA']	{'NA': 'XK'}
+Transport of Mature Transcript to Cytoplasm	2	0	[]	{'POM121': 'POMZP3', 'U2AF1L4': 'IGFLR1'}
+Transport of Mature mRNA Derived from an Intronless Transcript	1	0	[]	{'POM121': 'POMZP3'}
+Transport of Mature mRNA derived from an Intron-Containing Transcript	2	0	[]	{'POM121': 'POMZP3', 'U2AF1L4': 'IGFLR1'}
+Transport of Mature mRNAs Derived from Intronless Transcripts	1	0	[]	{'POM121': 'POMZP3'}
+Transport of Ribonucleoproteins into the Host Nucleus	5	1	['PB2']	{'PB1': 'PBRM1', 'POM121': 'POMZP3', 'NS': 'GNL3', 'PA': 'EPB42', 'NP': 'CTF2P'}
+Transport of bile salts and organic acids, metal ions and amine compounds	1	0	[]	{'SLC6A5': 'SLC6A2'}
+Transport of connexins along the secretory pathway	0	0	[]	{}
+Transport of connexons to the plasma membrane	0	0	[]	{}
+Transport of fatty acids	0	0	[]	{}
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	0	0	[]	{}
+Transport of glycerol from adipocytes to the liver by Aquaporins	1	0	[]	{'AQP9': 'AQP7'}
+Transport of inorganic cations/anions and amino acids/oligopeptides	0	0	[]	{}
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	0	0	[]	{}
+Transport of nucleotide sugars	0	0	[]	{}
+Transport of organic anions	1	0	[]	{'ALB': 'FBF1'}
+Transport of small molecules	10	0	[]	{'TRPC7': 'TRPM2', 'MIP': 'MAFIP', 'SGK2': 'SGK3', 'ALB': 'FBF1', 'AQP9': 'AQP7', 'ATP2B2': 'ATP2B4', 'VDAC3': 'VDAC1P5', 'MTTP': 'MT-TP', 'SLC6A5': 'SLC6A2', 'C2orf47': 'MAIP1'}
+Transport of the SLBP Dependant Mature mRNA	1	0	[]	{'POM121': 'POMZP3'}
+Transport of the SLBP independent Mature mRNA	1	0	[]	{'POM121': 'POMZP3'}
+Transport of vitamins, nucleosides, and related molecules	1	0	[]	{'ALB': 'FBF1'}
+Transport to the Golgi and subsequent modification	6	0	[]	{'MGAT2': 'MOGAT2', 'NAPB': 'NAPSB', 'MGAT3': 'MOGAT3', 'NAPA': 'NAPSA', 'MIA2': 'CFAP73', 'ARFGAP1': 'ARFGAP3'}
+Triglyceride biosynthesis	1	0	[]	{'GK2': 'GALK2'}
+Triglyceride catabolism	1	0	[]	{'FABP5': 'FABP5P1'}
+Triglyceride metabolism	2	0	[]	{'FABP5': 'FABP5P1', 'GK2': 'GALK2'}
+Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	0	0	[]	{}
+Truncations of AMER1 destabilize the destruction complex	0	0	[]	{}
+Tryptophan catabolism	0	0	[]	{}
+Type I hemidesmosome assembly	1	0	[]	{'LAMA3': 'LAMA4'}
+Type II Na+/Pi cotransporters	0	0	[]	{}
+Tyrosine catabolism	1	0	[]	{'FAH': 'FANCA'}
+UCH proteinases	1	0	[]	{'BAP1': 'RNF2'}
+UNC93B1 deficiency - HSE	0	0	[]	{}
+Ub-specific processing proteases	4	0	[]	{'USP16': 'USP21', 'VDAC3': 'VDAC1P5', 'UFD1L': 'UFD1', 'TRAF2': 'TANK'}
+Ubiquinol biosynthesis	0	0	[]	{}
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	0	0	[]	{}
+Ubiquitin-dependent degradation of Cyclin D	0	0	[]	{}
+Unblocking of NMDA receptors, glutamate binding and activation	2	0	[]	{'DLG3': 'MPP3', 'GRIN1': 'GPRIN1'}
+Uncoating of the HIV Virion	0	7	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr', 'nef']	{}
+Uncoating of the Influenza Virion	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1', 'NA': 'XK'}
+Unfolded Protein Response (UPR)	4	2	['ATPV0D1', 'FKBP14 gene']	{'IL8': 'CXCL8', 'C19orf10': 'MYDGF', 'SRPR': 'SRPRA', 'ARFGAP1': 'ARFGAP3'}
+Unwinding of DNA	1	0	[]	{'MCM2': 'MCM7'}
+Uptake and actions of bacterial toxins	0	15	['pagA', 'ntnha', 'cya', 'ha70', 'botD', 'botA', 'tetX', 'ha17', 'sta1', 'lef', 'botE', 'HA-33', 'botG', 'botB', 'botF']	{}
+Uptake and function of anthrax toxins	0	3	['cya', 'pagA', 'lef']	{}
+Uptake and function of diphtheria toxin	0	0	[]	{}
+Urea cycle	1	0	[]	{'CPS1': 'CYP21A2'}
+Utilization of Ketone Bodies	0	0	[]	{}
+VEGF binds to VEGFR leading to receptor dimerization	0	0	[]	{}
+VEGF ligand-receptor interactions	0	0	[]	{}
+VEGFA-VEGFR2 Pathway	4	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'NOS3': 'NANOS3', 'PXN': 'PXDN'}
+VEGFR2 mediated cell proliferation	0	0	[]	{}
+VEGFR2 mediated vascular permeability	3	0	[]	{'PAK3': 'ARHGEF7', 'PAK1': 'PKN1', 'NOS3': 'NANOS3'}
+VLDL assembly	1	0	[]	{'MTTP': 'MT-TP'}
+VLDL clearance	0	0	[]	{}
+VLDLR internalisation and degradation	0	0	[]	{}
+Variant SLC6A14 may confer susceptibility towards obesity	0	0	[]	{}
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG)	0	0	[]	{}
+Vasopressin regulates renal water homeostasis via Aquaporins	0	0	[]	{}
+Vasopressin-like receptors	0	0	[]	{}
+Vesicle-mediated transport	12	3	['IGHV', 'porB', 'IGLV']	{'LRP1': 'C1D', 'MIA2': 'CFAP73', 'NAPB': 'NAPSB', 'GJA10': 'GJA9', 'GJC1': 'GJD3', 'ARFGAP1': 'ARFGAP3', 'ST5': 'DENND2B', 'ALB': 'FBF1', 'RGP1': 'RGPD1', 'CPD': 'HOMER2', 'NAPA': 'NAPSA', 'RAB11B': 'RAB43'}
+Vif-mediated degradation of APOBEC3G	0	1	['vif']	{}
+Viral Messenger RNA Synthesis	5	1	['PB2']	{'PB1': 'PBRM1', 'POM121': 'POMZP3', 'NS': 'GNL3', 'PA': 'EPB42', 'NP': 'CTF2P'}
+Viral RNP Complexes in the Host Cell Nucleus	4	2	['M', 'PB2']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1'}
+Viral mRNA Translation	8	7	['M', '18S rRNA', 'PB2', 'HA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'PA': 'EPB42', 'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'NP': 'CTF2P', 'NA': 'XK', 'PB1': 'PBRM1', 'NS': 'GNL3', 'RPL36A': 'RPL36AL'}
+Virion Assembly and Release	0	7	['7a', 'S', 'SARS coronavirus, complete genome', '3a', 'E', 'M', 'N']	{}
+Virus Assembly and Release	5	3	['M', 'PB2', 'HA']	{'PA': 'EPB42', 'NS': 'GNL3', 'NA': 'XK', 'NP': 'CTF2P', 'PB1': 'PBRM1'}
+Visual phototransduction	4	0	[]	{'LRP1': 'C1D', 'RBP3': 'E2F1', 'RBP2': 'RIMBP2', 'SAG': 'RNF7'}
+Vitamin B1 (thiamin) metabolism	0	0	[]	{}
+Vitamin B2 (riboflavin) metabolism	0	0	[]	{}
+Vitamin B5 (pantothenate) metabolism	0	0	[]	{}
+Vitamin C (ascorbate) metabolism	1	0	[]	{'SLC23A2': 'SLC23A1'}
+Vitamin D (calciferol) metabolism	0	0	[]	{}
+Vitamin E	0	0	[]	{}
+Vitamins	0	0	[]	{}
+Vitamins B6 activation to pyridoxal phosphate	0	0	[]	{}
+Voltage gated Potassium channels	0	0	[]	{}
+Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization	0	1	['vpr']	{}
+Vpr-mediated nuclear import of PICs	1	6	['rev', 'vif', 'vpu', 'gag', 'gag-pol', 'vpr']	{'POM121': 'POMZP3'}
+Vpu mediated degradation of CD4	0	1	['vpu']	{}
+VxPx cargo-targeting to cilium	1	0	[]	{'PKD2': 'PRKD2'}
+WNT ligand biogenesis and trafficking	0	0	[]	{}
+WNT mediated activation of DVL	0	0	[]	{}
+WNT5:FZD7-mediated leishmania damping	0	0	[]	{}
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	1	0	[]	{'ROR2': 'RORA'}
+WNT5A-dependent internalization of FZD4	0	0	[]	{}
+Wax and plasmalogen biosynthesis	0	0	[]	{}
+Wax biosynthesis	0	0	[]	{}
+XAV939 stabilizes AXIN	0	0	[]	{}
+XBP1(S) activates chaperone genes	3	2	['FKBP14 gene', 'ATPV0D1']	{'C19orf10': 'MYDGF', 'SRPR': 'SRPRA', 'ARFGAP1': 'ARFGAP3'}
+Xenobiotics	0	0	[]	{}
+YAP1- and WWTR1 (TAZ)-stimulated gene expression	1	0	[]	{'CTGF': 'CCN2'}
+ZBP1(DAI) mediated induction of type I IFNs	0	0	[]	{}
+Zinc efflux and compartmentalization by the SLC30 family	0	0	[]	{}
+Zinc influx into cells by the SLC39 gene family	0	0	[]	{}
+Zinc transporters	0	0	[]	{}
+activated TAK1 mediates p38 MAPK activation	0	0	[]	{}
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	0	0	[]	{}
+alpha-linolenic acid (ALA) metabolism	0	0	[]	{}
+betaKlotho-mediated ligand binding	0	0	[]	{}
+cGMP effects	0	0	[]	{}
+cRNA Synthesis	4	1	['PB2']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1'}
+crenolanib-resistant FLT3 mutants	0	0	[]	{}
+eNOS activation	1	0	[]	{'NOS3': 'NANOS3'}
+gilteritinib-resistant FLT3 mutants	0	0	[]	{}
+lestaurtinib-resistant FLT3 mutants	0	0	[]	{}
+linifanib-resistant FLT3 mutants	0	0	[]	{}
+mRNA 3'-end processing	1	0	[]	{'U2AF1L4': 'IGFLR1'}
+mRNA Capping	0	0	[]	{}
+mRNA Editing	0	0	[]	{}
+mRNA Editing: A to I Conversion	0	0	[]	{}
+mRNA Editing: C to U Conversion	0	0	[]	{}
+mRNA Splicing	5	0	[]	{'SNRPD1': 'SNRPD2', 'RNU12': 'RNU12-2P', 'U2AF1L4': 'IGFLR1', 'ISY1': 'RAB43', 'SF1': 'NR5A1'}
+mRNA Splicing - Major Pathway	4	0	[]	{'SNRPD1': 'SNRPD2', 'U2AF1L4': 'IGFLR1', 'ISY1': 'RAB43', 'SF1': 'NR5A1'}
+mRNA Splicing - Minor Pathway	2	0	[]	{'SNRPD1': 'SNRPD2', 'RNU12': 'RNU12-2P'}
+mRNA decay by 3' to 5' exoribonuclease	0	0	[]	{}
+mRNA decay by 5' to 3' exoribonuclease	0	0	[]	{}
+mTORC1-mediated signalling	0	0	[]	{}
+midostaurin-resistant FLT3 mutants	0	0	[]	{}
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	0	0	[]	{}
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	0	0	[]	{}
+p130Cas linkage to MAPK signaling for integrins	0	0	[]	{}
+p38MAPK events	0	0	[]	{}
+p53-Dependent G1 DNA Damage Response	1	0	[]	{'RFWD2': 'COP1'}
+p53-Dependent G1/S DNA damage checkpoint	1	0	[]	{'RFWD2': 'COP1'}
+p53-Independent DNA Damage Response	0	0	[]	{}
+p53-Independent G1/S DNA damage checkpoint	0	0	[]	{}
+p75 NTR receptor-mediated signalling	1	0	[]	{'NET1': 'SLC6A2'}
+p75NTR negatively regulates cell cycle via SC1	0	0	[]	{}
+p75NTR recruits signalling complexes	0	0	[]	{}
+p75NTR regulates axonogenesis	0	0	[]	{}
+p75NTR signals via NF-kB	0	0	[]	{}
+pexidartinib-resistant FLT3 mutants	0	0	[]	{}
+phospho-PLA2 pathway	0	0	[]	{}
+ponatinib-resistant FLT3 mutants	0	0	[]	{}
+quizartinib-resistant FLT3 mutants	0	0	[]	{}
+rRNA modification in the mitochondrion	0	0	[]	{}
+rRNA modification in the nucleus and cytosol	5	1	['28S rRNA']	{'IMP3': 'SPPL2A', 'WBSCR22': 'BUD23', 'GAR1': 'CNGB1', 'DIEXF': 'UTP25', 'IMP4': 'SPPL2B'}
+rRNA processing	9	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RRP1': 'RRP1B', 'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'DIEXF': 'UTP25', 'GAR1': 'CNGB1', 'IMP4': 'SPPL2B', 'IMP3': 'SPPL2A', 'WBSCR22': 'BUD23', 'RPL36A': 'RPL36AL'}
+rRNA processing in the mitochondrion	0	0	[]	{}
+rRNA processing in the nucleus and cytosol	9	4	['18S rRNA', '5S rRNA', '5.8S rRNA', '28S rRNA']	{'RRP1': 'RRP1B', 'RPL13': 'MRPL13', 'RPL10': 'RPL15', 'DIEXF': 'UTP25', 'GAR1': 'CNGB1', 'IMP4': 'SPPL2B', 'IMP3': 'SPPL2A', 'WBSCR22': 'BUD23', 'RPL36A': 'RPL36AL'}
+semaxanib-resistant FLT3 mutants	0	0	[]	{}
+snRNP Assembly	2	0	[]	{'SNRPD1': 'SNRPD2', 'POM121': 'POMZP3'}
+sorafenib-resistant FLT3 mutants	0	0	[]	{}
+sunitinib-resistant FLT3 mutants	0	0	[]	{}
+t(4;14) translocations of FGFR3	0	0	[]	{}
+tRNA Aminoacylation	1	0	[]	{'HARS2': 'DTD1'}
+tRNA modification in the mitochondrion	0	0	[]	{}
+tRNA modification in the nucleus and cytosol	0	0	[]	{}
+tRNA processing	2	0	[]	{'POM121': 'POMZP3', 'POP1': 'BVES'}
+tRNA processing in the mitochondrion	0	0	[]	{}
+tRNA processing in the nucleus	2	0	[]	{'POP1': 'BVES', 'POM121': 'POMZP3'}
+tamatinib-resistant FLT3 mutants	0	0	[]	{}
+tandutinib-resistant FLT3 mutants	0	0	[]	{}
+trans-Golgi Network Vesicle Budding	2	0	[]	{'NAPA': 'NAPSA', 'CPD': 'HOMER2'}
+vRNA Synthesis	4	1	['PB2']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1'}
+vRNP Assembly	4	1	['PB2']	{'PA': 'EPB42', 'NS': 'GNL3', 'NP': 'CTF2P', 'PB1': 'PBRM1'}
