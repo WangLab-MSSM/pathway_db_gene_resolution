@@ -1,0 +1,7 @@
+db	db_date_accessed	HGNC_date_accessed	Date_gene_mapped	changelog_link
+Hallmark	Feb 11 2021 10:46:58	Feb 11 2021 10:54:45	Feb 11 2021 11:17:27	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/Hallmark/changelog.tsv
+KEGG	Feb 11 2021 10:44:25	Feb 11 2021 10:54:45	Feb 11 2021 11:17:27	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/KEGG/changelog.tsv
+PanCancer	Feb 15 2021 09:30:59	Feb 11 2021 10:54:45	Feb 15 2021 09:36:05	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/PanCancer/changelog.tsv
+Reactome	Feb 11 2021 10:40:35	Feb 11 2021 10:54:45	Feb 11 2021 11:17:28	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/Reactome/changelog.tsv
+TGFb signatures	Feb 15 2021 10:38:23	Feb 11 2021 10:54:45	Feb 15 2021 10:40:59	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/TGFb signatures/changelog.tsv
+PhosphositePlus	Feb 16 2021 22:18:43	Feb 11 2021 10:54:45	Feb 16 2021 22:18:43	https://github.com/WangLab-MSSM/pathway_db_gene_resolution/blob/main/gene_mapped/PhosphositePlus/changelog.tsv

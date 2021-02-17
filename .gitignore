@@ -1,2 +1,10 @@
 venv
 .DS_Store
+.idea
+.ipynb_checkpoints/
+Reactome/ReactomePathways.gmt
+Reactome/ReactomePathways.zip
+PanCancer/
+ptrc/
+*/PanCancer/*
+*/TGFb signatures/*
