@@ -6,4 +6,9 @@ Reactome/ReactomePathways.gmt
 Reactome/ReactomePathways.zip
 PanCancer/
 ptrc/
-*/PanCancer/*
+combine_and_log.ipynb
+
+# protected curated files
+*TGFb signatures*
+*DDR*
+*PTRC_DQ_list*
