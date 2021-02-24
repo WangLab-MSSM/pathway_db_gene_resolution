@@ -1,0 +1,18 @@
+	len_changed	len_not_found	not_found	changed
+CORE MITOTIC DDR	1	6	['C7orf49/CYREN', 'C9orf142/PAXX', 'CXorf57/RADX', 'H2AFX/H2AX', 'MRE11A/MRE11', 'RTFDC1/RTF2']	{'APITD1': 'CENPS'}
+Direct_repair	0	0	[]	{}
+Telomere	1	2	['OBFC1/STN1', 'OBFC2B/NABP2']	{'TZAP': 'ZBTB48'}
+PARP/SSBR/BER	0	0	[]	{}
+NHEJ	0	3	['C7orf49/MRI/CYREN', 'C9orf142/PAXX', 'H2AFX/H2AX']	{}
+MMEJ	0	0	[]	{}
+NER	0	0	[]	{}
+ICL/FA	0	1	['APITD1/CENPS']	{}
+HR	1	1	['MRE11A/MRE11']	{'FAM175A': 'ABRAXAS1'}
+Fork QC/TLS	1	1	['RTFDC1/RTF2']	{'APITD1': 'CENPS'}
+MMR	0	0	[]	{}
+Topological stress	0	0	[]	{}
+meiotic recombination	0	1	['MRE11A/MRE11']	{}
+Nucleotide metabolism	0	1	['MTH1/NUDT1']	{}
+DDR Signaling	0	1	['MRE11A/MRE11']	{}
+DNA Replication	2	3	['PSF1', 'PSF2', 'RTFDC1/RTF2']	{'PSF3': 'GINS3', 'SLD5': 'GINS4'}
+Cellreports2018_Others	0	0	[]	{}
